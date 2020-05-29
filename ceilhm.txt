@@ -1,0 +1,54 @@
+{
+    "embed": {
+        "color": 4696630,
+        "title": "Ceiling Collapse - Hard Mode",
+        "fields": [
+            {
+                "name": "Specials Phase 10",
+                "value": "**TS, GB**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 10",
+                "value": "**1st blue after TS**",
+                "inline": true
+            },
+            {
+                "name": "Optimal maul",
+                "value": "**GB release**",
+                "inline": true
+            },
+            {
+                "name": "Specials Phase 11",
+                "value": "**TS, Vitalis**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 11",
+                "value": "**Vitalis**",
+                "inline": true
+            },
+            {
+                "name": "Piece unlock",
+                "value": "**Torso**",
+                "inline": true
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 9**\nWaterf➔ 3 Att➔ Clone➔ 7 Att➔ *Rock*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *GB*➔ 5 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *Vit* (*or red)➔ 3 Att\n",
+                "inline": false
+            },
+            {
+                "name": "Phase 10 - Strategy",
+                "value": "**Base/DPS**: Start with thresholds. Build to Onslaught after reflect.\n**BT 1**: Barricade after the TS. Build to Sunshine. **BT 2**: Start with Sunshine and use thresholds. Barricade the next TS.",
+                "inline": false
+            },
+            {
+                "name": "Phase 11 - Strategy",
+                "value": "**Base/DPS**: Start with Sunshine and use thresholds. Block the Vitalis orb.\n**BTs**: Threshold and build to Barricade next Vitalis orb.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json
