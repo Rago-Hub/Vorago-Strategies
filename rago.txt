@@ -1,0 +1,15 @@
+{
+    "embed": {
+        "title": "Vorago Information",
+        "color": 4696630,
+        "description": "Current rotation: **$data_ragopvm:'Info HM'!A17$** for an additional **$data_ragopvm:'Info HM'!B20$ resets**.\nNext rotation: **$data_ragopvm:'Info HM'!H17$**",
+        "fields": [
+            {
+                "name": "Hard Mode",
+                "value": "Phase 10: **$data_ragopvm:'Info HM'!B17$**\nPhase 11: **$data_ragopvm:'Info HM'!C17$**\nPiece Unlock: **$data_ragopvm:'Info HM'!D17$**\n\nBarricade timing: **$data_ragopvm:'Info HM'!E17$** | **$data_ragopvm:'Info HM'!F17$**\nOptimal mauling: **$data_ragopvm:'Info HM'!G17$**\n\n",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

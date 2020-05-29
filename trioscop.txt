@@ -1,0 +1,25 @@
+{
+    "embed": {
+        "color": 341842,
+        "title": "[Trio] Scopulus",
+        "fields": [
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "**Base/Tl5**: Start with sunshine. Use AoE once Scops are stacked.\n**Bomb Tank**: Start with Sunshine by the West wall. Wait until Base/Tl5 hit West Scopulus and then hit it. Don't AoE until both are stacked.",
+                "inline": false
+            },
+            {
+                "name": "Phase 4 - Strategy",
+                "value": "**Base**: Can Barricade and Intercept the BT when the red bomb if fired.\n**Bomb Tank/Tl5**: Regular 4man+ strategy.",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "**Base**: Start with Onslaught (North). Switch after bleeds and use barricade when the next blue is about to hit.\n**Bomb Tank**: Start with Wild Magic, Dragon Breath and Combust or Corruption blast. Barricade the 1st blue (or 2nd if Disr Shield) after PB release.\n**Tl5**: Start with Onslaught to the South. After bleeds use thresholds to finish the kill.",
+                "inline": false
+            }
+        ],
+        "description": "Blood Barrage is recommended for this rotation on Phase 3. As long as a Grimoire switch for that phase."
+    }
+}
+.embed:json

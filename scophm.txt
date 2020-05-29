@@ -1,0 +1,54 @@
+{
+    "embed": {
+        "color": 4696630,
+        "title": "Scopulus - Hard Mode ",
+        "fields": [
+            {
+                "name": "Specials Phase 10",
+                "value": "**PB, TS**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 10",
+                "value": "**TS**",
+                "inline": true
+            },
+            {
+                "name": "Optimal mauling",
+                "value": "**TS**",
+                "inline": true
+            },
+            {
+                "name": "Specials Phase 11",
+                "value": "**PB, Vitalis**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 11",
+                "value": "**Vitalis**",
+                "inline": true
+            },
+            {
+                "name": "Piece Unlock",
+                "value": "**Helm**",
+                "inline": true
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *Red*➔ 4 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att\n**Phase 11**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ *Vit*➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 10 - Strategy",
+                "value": "**Base/DPS**: Start with Sunshine. Tank all Team Splits during Phase 10 as they instantly launch auto attacks and you might drag bombs into the DPS pile.\n\nBoth BTs must use Disrupt Shield when Phase 9 ends. Start Phase 10 with Sunshine. From there:\n**BT 1**: Barricade after the TS. Intercept the other BT. **BT 2**: DPS rotation. If needed, barricade after the next TS.",
+                "inline": false
+            },
+            {
+                "name": "Phase 11 - Strategy",
+                "value": "**Base/DPS**: Build to 100% for either Sun or Ons. Make sure to block the Vitalis orb.\n**BTs**: Whoever used barricade last on Phase 10 will now go North and Sun. The other BT will use thresholds or build to barricade if the Vitalis orb is going to happen soon.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

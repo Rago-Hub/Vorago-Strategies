@@ -1,0 +1,24 @@
+{
+    "embed": {
+        "color": 6694,
+        "title": "[Duo] Green Bomb",
+        "fields": [
+            {
+                "name": "Magic",
+                "value": "Phase 3 <https://bit.ly/2ybbFY8>\nPhase 5\n*WIP.*",
+                "inline": true
+            },
+            {
+                "name": "Ranged",
+                "value": "Phase 3 <https://bit.ly/2WnRTkd>\nPhase 5 <https://bit.ly/2WolMAC>",
+                "inline": true
+            },
+            {
+                "name": "Melee",
+                "value": "Phase 3 <https://bit.ly/3daFZ3S>\nPhase 5 <https://bit.ly/2WhayxS>",
+                "inline": true
+            }
+        ]
+    }
+}
+.embed:json

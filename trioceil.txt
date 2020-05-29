@@ -1,0 +1,24 @@
+{
+    "embed": {
+        "color": 341842,
+        "title": "[Trio] Ceiling Collapse",
+        "fields": [
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "**Base/Tl5**: Start with thresholds. Onslaught close to MD after 2nd jump.\n**Bomb Tank**: Start with thresholds and Guthix spec. Metamorphosis after 2nd jump.",
+                "inline": false
+            },
+            {
+                "name": "Phase 4 - Strategy",
+                "value": "**Base /Tl5**: Same as 4man+.\n**Bomb Tank**: Barricade + Intercept the team when the rock is about to fall.\n",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "**Base**: Sunshine when the TS appears and then go to it. Exit with basics and thresholds. Switch after bleeds and tank the next 3 bombs (can Disr Shield the 2nd one). Barricade when the first blue is about to hit after the next TS explodes.\n**Bomb Tank**: Start with Wild Magic, Dragon Breath and Combust or Corruption blast. Barricade the 1st blue (or 2nd if Disr Shield) after TS explodes.\n**Tl5**: Start same as the base. After bleeds use thresholds to finish the kill.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

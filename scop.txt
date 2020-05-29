@@ -1,0 +1,30 @@
+{
+    "embed": {
+        "color": 15696142,
+        "title": "Scopulus - Normal Mode",
+        "fields": [
+            {
+                "name": "Barricade Phase 5",
+                "value": "1st Blue after Purple Bomb release (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "inline": false
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 3**\n2 *Scopulii* will spawn in total (SW and SE)➔ Blues (until both die)\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ Red➔ 4 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "Use AoE abilities (Dragon Breath, Detonate and Corruption shot) but avoid Chain.\n**Base/DPS**: Start with Sunshine. Base & DPS must stand together to stack Scops. Provoke Scops if they turn to the BT.\n**BT**: Sunshine by the West wall but don't hit until the Base/DPS tag them.",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "**Base/DPS**: For 4man and above start with Sun and build to Onslaught after Bleeds.\n**BT**: Wild Magic vulnerability and build to Barricade.",
+                "inline": false
+            }
+        ],
+        "description": "Using Blood barrage & AoE abilities is recommended for Phase 3.\n[Vorago Target Cycling Quick Guide - Luring Scops](https://www.youtube.com/watch?v=wRcdDVuHvwA \"By flamewave 99\")"
+    }
+}
+.embed:json

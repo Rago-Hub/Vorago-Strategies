@@ -1,0 +1,40 @@
+{
+    "embed": {
+        "color": 2218672,
+        "description": "The following go from Best to Worst timing.\n\n",
+        "title": "Phase 10 mauling guide - Hard Mode",
+        "fields": [
+            {
+                "name": "Ceiling Collapse",
+                "value": "**P10**: TS 3 OFF 3 GB 3\n**P11**: TS 3 OFF 3 Vit 3\n\n1) Maul GB release\n2) Maul TS\n3) Maul Reflect\n",
+                "inline": true
+            },
+            {
+                "name": "Scopulus",
+                "value": "**P10**: PB 5 OFF 3 TS 3\n**P11**: PB 5 OFF 3 Vit 3\n\n1) Maul TS\n2) Maul PB release\n3) Maul Reflect\n",
+                "inline": true
+            },
+            {
+                "name": "Vitalis",
+                "value": "**P10**: Vit 3 OFF 3 PB 5\n**P11**: Vit 3 OFF 3 Bleeds 3\n\n1) Maul Reflect\n2) Maul PB release\n3) Maul Vit release\n",
+                "inline": true
+            },
+            {
+                "name": "Green Bomb",
+                "value": "**P10**: GB 5 OFF 3 Vit 3\n**P11**: GB 5 OFF 3 TS 3\n\n1) Maul GB release\n2) Maul Vit release\n3) Maul Reflect\n",
+                "inline": true
+            },
+            {
+                "name": "Team Split",
+                "value": "**P10**: TS 3 OFF 3 TS 3\n**P11**: TS 3 OFF 3 PB 5\n\n1) Maul Reflect\n2) Maul 1st TS\n3) Maul 2nd TS\n",
+                "inline": true
+            },
+            {
+                "name": "The End",
+                "value": "**P10**: PB 5 OFF 3 Bleeds 3\n**P11**: PB 5 OFF 3 Vit 3\n\n1) Maul After bleeds\n2) Maul PB release\n3) Maul Reflect",
+                "inline": true
+            }
+        ]
+    }
+}
+.embed:json

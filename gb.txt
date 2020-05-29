@@ -1,0 +1,30 @@
+{
+    "embed": {
+        "color": 15696142,
+        "description": "Base has to save BT from Green Bombs throughout the kill. When a GB is tanked, Vorago will go to the next mechanic and skip auto-attacks.\n\n\n",
+        "title": "Green Bomb - Normal Mode",
+        "fields": [
+            {
+                "name": "Barricade Phase 5",
+                "value": "Wait until the Green Bomb is released. If it's on the BT, use thresholds and Guthix special. If not, Barricade and Intercept everyone.",
+                "inline": false
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 3**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Att➔ *GB* (or skip)➔ 5 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *GB*➔ 5 Att (or skip)➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Bleeds➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "**Base/DPS**: Start with Sunshine (between two quadrants). Tank the GB (10k hit) by standing away from other players. Reflect will happen immediately. If the BT gets it, the Base will intercept with Devotion and Pray Mage (9.5k dmg).\n**BT**: Start with Sunshine and finish with thresholds.",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "**Base/DPS**: Start with Sunshine and use thresholds. Use Onslaught after Bleeds. If on BT, deal with it like on P3, or bounce to Base to then take it to the DPS pile.\n**BT**: Asphyxiate and wait for the Green to target someone. Use Barricade if it's not on the BT. Otherwise threshold.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

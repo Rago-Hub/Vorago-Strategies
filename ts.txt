@@ -1,0 +1,30 @@
+{
+    "embed": {
+        "color": 15696142,
+        "description": "Two 2x2 colour boxes (one blue and one red), will spawn from P3 to 5. Go inside the box with your colour to avoid being hit 8000 (typeless).\n\n",
+        "title": "Team Split - Normal Mode",
+        "fields": [
+            {
+                "name": "Barricade Phase 5",
+                "value": "1st Blue after Team Split (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "inline": false
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 3**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att➔ *Red*➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "**Base/DPS**: Start with thresholds until reflect and charge detonate. Build to onslaught after 2nd Team Split. Base goes melee distance during reflect.\n**BT**: Start with thresholds, use devotion after 2nd TS + adrenaline potion and Onslaught. Otherwise Sunshine after the 1st TS.",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "**Base/DPS**: Sunshine when Team Split spawns. Wild Magic/Aphyxiate Dragon Breath. DPS uses Guthix Staff special. Don't onslaught.\n**BT**: Wild Magic and build to Barricade.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

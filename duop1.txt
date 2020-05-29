@@ -1,0 +1,24 @@
+{
+    "embed": {
+        "color": 6694,
+        "title": "[Duo] Phase 1",
+        "fields": [
+            {
+                "name": "Magic",
+                "value": "*WIP.*",
+                "inline": true
+            },
+            {
+                "name": "Ranged",
+                "value": "*WIP.*",
+                "inline": true
+            },
+            {
+                "name": "Melee",
+                "value": "<https://bit.ly/2Ytav4O>",
+                "inline": true
+            }
+        ]
+    }
+}
+.embed:json

@@ -1,0 +1,30 @@
+{
+    "embed": {
+        "color": 15696142,
+        "description": "On Phase 3 the BT should tag all reds and tank them. Ignore the other bombs.\n\n",
+        "title": "The End - Normal Mode",
+        "fields": [
+            {
+                "name": "Barricade Phase 5",
+                "value": "1st Blue after Purple Bomb release (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "inline": false
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "**Base/DPS**: Start with thresholds. Sunshine in the 3rd quadrant. Let the BT tag all reds and tank them. Base goes melee distance during reflect and uses provoke.\n**BT**: Start with Guthix spec and thresholds. Tag all red bombs as soon as possible. Make sure to stay away from the team. Sunshine in the 3rd quadrant.",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "Some players will receive a bomb with a timer on screen. At 5 seconds left: go North, let the bomb explode (at 0 seconds) then go back South as soon as possible.\n**Base/DPS**: Start with Sunshine and build to Onslaught after Bleeds.\n**BT**: Vulnerability + Wild Magic and build to Barricade.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

@@ -1,0 +1,55 @@
+{
+    "embed": {
+        "color": 2218672,
+        "description": "**Phase start dummy**: Ceiling Collapse, Green Bomb, Phase 10.\n**Phase end dummy**: Phase 2, Scopulus, Phase 9, maul.\n**Optional**: Vitalis (Start), Team Split (End), The End (Start).\n\nAvoid placing dummies under Vorago's spawn.\n",
+        "title": "Dummy placing guide",
+        "fields": [
+            {
+                "name": "Phase 2 (End)",
+                "value": "During BHD.\n",
+                "inline": true
+            },
+            {
+                "name": "Phase 3 - Ceilings (Start)",
+                "value": "Place South.\n",
+                "inline": true
+            },
+            {
+                "name": "Phase 4 - Scopulus (End)",
+                "value": "At the end.\n",
+                "inline": true
+            },
+            {
+                "name": "Phase 5 - Vitalis (Start)",
+                "value": "Optional. Place SW.\n",
+                "inline": true
+            },
+            {
+                "name": "Phase 6 - GB (Start)",
+                "value": "Place West.",
+                "inline": true
+            },
+            {
+                "name": "Phase 7 - TS (End)",
+                "value": "Optional. After second TS.\n",
+                "inline": true
+            },
+            {
+                "name": "Phase 9 (End)",
+                "value": "After last Waterfall.\n",
+                "inline": true
+            },
+            {
+                "name": "Phase 10 (Start)",
+                "value": "For dropdown.",
+                "inline": true
+            },
+            {
+                "name": "Phase 10 - Maul (End)",
+                "value": "Before or after maul.",
+                "inline": true
+            }
+        ]
+    }
+}
+.embed:json

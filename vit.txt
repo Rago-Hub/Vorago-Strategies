@@ -1,0 +1,30 @@
+{
+    "embed": {
+        "color": 15696142,
+        "description": "Everyone should step back to get the Orb on P4 and P5. On Phase 4 it spawns NE (unless Vorago was walked before the Special). Avoid running to the orb on P3.\n\n",
+        "title": "Vitalis - Normal Mode",
+        "fields": [
+            {
+                "name": "Barricade Phase 5",
+                "value": "As soon as the Vitalis orb is about to hit.",
+                "inline": false
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 3**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *Vit*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 3 - Strategy",
+                "value": "**Base/DPS**: Start NE and melee distance (except BT) with thresholds and build to onslaught after reflect. Can also start with Sunshine. Use thresholds until reflect. If Bleeds happen, deal with them as usual for roles.\n**BT**: Start with Sunshine. Takes bleeds if needed.",
+                "inline": false
+            },
+            {
+                "name": "Phase 5 - Strategy",
+                "value": "**Base/DPS**: Start with Sunshine. Build to Onslaught after reflect.\n**BT**: Start with Dragon breath and bleeds. Use Wild magic instead if you are fast building. Barricade the Vitalis orb and intercept the whole team.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

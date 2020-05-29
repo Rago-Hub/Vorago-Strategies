@@ -1,0 +1,40 @@
+{
+    "embed": {
+        "description": "These commands allow you to check Normal Mode and Hard Mode strategies and phase/DPS guides for each rotation.\n\nThe prefix for the following commands is set to: `{{ prefix }}`\nUsage: `{{ prefix }}ragohelp` | `{{ prefix }}maul`\n\nTo invite this bot use: `{{ prefix }}invite`",
+        "color": 50886,
+        "fields": [
+            {
+                "name": "Normal Mode",
+                "value": "<:bp:643174327013081088> {{ prefix }}ceil\n<:bp:643174327013081088> {{ prefix }}scop\n<:bp:643174327013081088> {{ prefix }}vit\n<:bp:643174327013081088> {{ prefix }}gb\n<:bp:643174327013081088> {{ prefix }}ts\n<:bp:643174327013081088> {{ prefix }}pb ",
+                "inline": true
+            },
+            {
+                "name": "Trio",
+                "value": "<:bp:643174327013081088> {{ prefix }}trioceil\n<:bp:643174327013081088> {{ prefix }}trioscop\n<:bp:643174327013081088> {{ prefix }}triovit\n<:bp:643174327013081088> {{ prefix }}triogb\n<:bp:643174327013081088> {{ prefix }}triots\n<:bp:643174327013081088> {{ prefix }}triopb",
+                "inline": true
+            },
+            {
+                "name": "Duo",
+                "value": "<:bp:643174327013081088> {{ prefix }}duoceil\n<:bp:643174327013081088> {{ prefix }}duoscop\n<:bp:643174327013081088> {{ prefix }}duovit\n<:bp:643174327013081088> {{ prefix }}duogb\n<:bp:643174327013081088> {{ prefix }}duots\n<:bp:643174327013081088> {{ prefix }}duopb",
+                "inline": true
+            },
+            {
+                "name": "Hard Mode",
+                "value": "<:bp:643174327013081088> {{ prefix }}hmceil\n<:bp:643174327013081088> {{ prefix }}hmscop\n<:bp:643174327013081088> {{ prefix }}hmvit\n<:bp:643174327013081088> {{ prefix }}hmgb\n<:bp:643174327013081088> {{ prefix }}hmts\n<:bp:643174327013081088> {{ prefix }}hmpb ",
+                "inline": true
+            },
+            {
+                "name": "Other",
+                "value": "<:bp:643174327013081088> {{ prefix }}dummy\n<:bp:643174327013081088> {{ prefix }}maul\n<:bp:643174327013081088> {{ prefix }}vorago\n<:bp:643174327013081088> {{ prefix }}droprate",
+                "inline": true
+            },
+            {
+                "name": "Guides",
+                "value": "Basic NM Guide (WIP)\nhttps://bit.ly/2WkmZui\nBomb Tank HM\nhttps://bit.ly/3ateJvN",
+                "inline": true
+            }
+        ],
+        "title": "Vorago Rotation Information"
+    }
+}
+.embed:json

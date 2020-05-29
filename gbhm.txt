@@ -1,0 +1,54 @@
+{
+    "embed": {
+        "title": "Green Bomb - Hard Mode",
+        "color": 4696630,
+        "fields": [
+            {
+                "name": "Specials Phase 10",
+                "value": "**GB, Vitalis**\n",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 10",
+                "value": "**Vitalis**",
+                "inline": true
+            },
+            {
+                "name": "Optimal maul",
+                "value": "**GB release**",
+                "inline": true
+            },
+            {
+                "name": "Specials Phase 11",
+                "value": "\n**GB, TS**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 11",
+                "value": "**TS**",
+                "inline": true
+            },
+            {
+                "name": "Piece unlock",
+                "value": "**Boots**",
+                "inline": true
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *GB*➔ 5 Att (or skip)➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Att➔ *Vit*➔ 3 Att\n**Phase 11**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Att➔ *TS*➔ 3 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 10 - Strategy",
+                "value": "**Base/DPS**: Stand MD South and Onslaught as soon as Vorago falls. Base will get the Green from BTs if any of them gets it.\n\nUse Disruption shield as Phase 9 ends. Both BTs start with Onslaught North and 1 step away from MD (same spot). After the first bomb hits one goes South.\n**BT 1**: barricade the Vitalis orb, Sunshine after. **BT 2**: Barricades the next Vitalis orb.",
+                "inline": false
+            },
+            {
+                "name": "Phase 11 - Strategy",
+                "value": "**Base/DPS**: Start with Sunshine and tank the Team Split. Optional: reprisal the TS.\n**BTs**: Take turns to Barricade after the TS. One BT uses Sun and the other Barricade.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json

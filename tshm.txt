@@ -1,0 +1,55 @@
+{
+    "embed": {
+        "title": "Team Split - Hard Mode",
+        "color": 4696630,
+        "description": "If the even TS (P10) spawn far from Vorago, BTs can go in and DPS must tank. On the opposite case, BTs tank and DPS can go in. *TS→ Reflect→ TS (tank)→ Repeat*.\n",
+        "fields": [
+            {
+                "name": "Specials Phase 10",
+                "value": "**TS, TS**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 10",
+                "value": "**odd TS** (1st, 3rd...) ",
+                "inline": true
+            },
+            {
+                "name": "Optimal mauling",
+                "value": "**Reflect**",
+                "inline": true
+            },
+            {
+                "name": "Specials Phase 11",
+                "value": "**TS, PB**",
+                "inline": true
+            },
+            {
+                "name": "Barricade Phase 11",
+                "value": "**TS**",
+                "inline": true
+            },
+            {
+                "name": "Piece unlock",
+                "value": "**Maul**",
+                "inline": true
+            },
+            {
+                "name": "Mechanics",
+                "value": "**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att",
+                "inline": false
+            },
+            {
+                "name": "Phase 10 - Strategy",
+                "value": "**Base/DPS**: Sun as the TS spawns, then go to your color box. Read the note above.\n\nUse Disruption Shield after the TS spawns. Otherwise, Barricade the first blue.\n**BT 1**: Barricade the 2nd blue after TS. Sunshine during 2nd TS. **BT 2**: Start with Sunshine. Build to barricade the 1st blue after the next odd TS.\n",
+                "inline": false
+            },
+            {
+                "name": "Phase 11 - Strategy",
+                "value": "**Base/DPS**: Build to Sunshine, avoid using Onslaught.\n**BTs**: Disruption Shield after PB release. Barricade the Vit orb + Intercept everyone.",
+                "inline": false
+            }
+        ]
+    }
+}
+.embed:json
