@@ -1,7 +1,7 @@
 {
     "embed": {
         "color": 4696630,
-        "title": "any testers in the chat",
+        "title": "Ceiling Collapse - Hard Mode",
         "fields": [
             {
                 "name": "Specials Phase 10",
