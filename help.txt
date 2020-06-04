@@ -1,6 +1,6 @@
 {
     "embed": {
-        "description": "These commands allow you to check Normal Mode and Hard Mode strategies and phase/DPS guides for each rotation.\n\nThe prefix for the following commands is set to: `{{ prefix }}`\nUsage: `{{ prefix }}ragohelp` | `{{ prefix }}maul`\n\nTo invite this bot use: `{{ prefix }}invite`",
+        "description": "These commands allow you to check Normal Mode and Hard Mode strategies and phase/DPS guides for each rotation.\n\nThe prefix for the following commands is set to: `{{ prefix }}`\nUsage: `{{ prefix }}help` | `{{ prefix }}maul`\n\nTo invite this bot use: `{{ prefix }}invite`",
         "color": 50886,
         "fields": [
             {
