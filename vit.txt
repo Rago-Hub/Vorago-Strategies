@@ -11,7 +11,7 @@
             },
             {
                 "name": "Mechanics",
-                "value": "**Phase 3**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *Vit*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 Att",
+                "value": "**Phase 3**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ *Bleeds*➔ 5 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *Vit*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 Att",
                 "inline": false
             },
             {
