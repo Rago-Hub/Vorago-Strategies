@@ -5,32 +5,32 @@
         "fields": [
             {
                 "name": "Specials Phase 10",
-                "value": "**TS, GB**",
+                "value": "TS, GB",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 10",
-                "value": "**1st blue after TS**",
+                "value": "1st blue after TS",
                 "inline": true
             },
             {
                 "name": "Optimal maul",
-                "value": "**GB release**",
+                "value": "GB release",
                 "inline": true
             },
             {
                 "name": "Specials Phase 11",
-                "value": "**TS, Vitalis**",
+                "value": "TS, Vitalis",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 11",
-                "value": "**Vitalis**",
+                "value": "Vitalis",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "**Torso**",
+                "value": "Torso",
                 "inline": true
             },
             {
