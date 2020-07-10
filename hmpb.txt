@@ -5,32 +5,32 @@
         "fields": [
             {
                 "name": "Specials Phase 10",
-                "value": "**PB, Bleeds**",
+                "value": "PB, Bleeds",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 10",
-                "value": "**PB**",
+                "value": "PB",
                 "inline": true
             },
             {
                 "name": "Optimal maul",
-                "value": "**After 3rd Bleed**",
+                "value": "After 3rd Bleed",
                 "inline": true
             },
             {
                 "name": "Specials Phase 11",
-                "value": "**PB, Vitalis**",
+                "value": "PB, Vitalis",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 11",
-                "value": "**Vitalis**",
+                "value": "Vitalis",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "**Gloves**",
+                "value": "Gloves",
                 "inline": true
             },
             {
