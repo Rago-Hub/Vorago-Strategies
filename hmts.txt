@@ -6,32 +6,32 @@
         "fields": [
             {
                 "name": "Specials Phase 10",
-                "value": "**TS, TS**",
+                "value": "TS, TS",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 10",
-                "value": "**odd TS** (1st, 3rd...) ",
+                "value": "odd TS (1st, 3rd...) ",
                 "inline": true
             },
             {
                 "name": "Optimal mauling",
-                "value": "**Reflect**",
+                "value": "Reflect",
                 "inline": true
             },
             {
                 "name": "Specials Phase 11",
-                "value": "**TS, PB**",
+                "value": "TS, PB",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 11",
-                "value": "**TS**",
+                "value": "TS",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "**Maul**",
+                "value": "Maul",
                 "inline": true
             },
             {
