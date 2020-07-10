@@ -5,7 +5,7 @@
         "fields": [
             {
                 "name": "Specials Phase 10",
-                "value": "**GB, Vitalis**\n",
+                "value": "GB, Vitalis",
                 "inline": true
             },
             {
