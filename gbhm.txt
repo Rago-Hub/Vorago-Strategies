@@ -10,27 +10,27 @@
             },
             {
                 "name": "Barricade Phase 10",
-                "value": "**Vitalis**",
+                "value": "Vitalis",
                 "inline": true
             },
             {
                 "name": "Optimal maul",
-                "value": "**GB release**",
+                "value": "GB release",
                 "inline": true
             },
             {
                 "name": "Specials Phase 11",
-                "value": "\n**GB, TS**",
+                "value": "GB, TS",
                 "inline": true
             },
             {
                 "name": "Barricade Phase 11",
-                "value": "**TS**",
+                "value": "TS",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "**Boots**",
+                "value": "Boots",
                 "inline": true
             },
             {
