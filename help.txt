@@ -29,7 +29,7 @@
                 "inline": true
             }
         ],
-        "title": "Vorago Rotation Information"
+        "title": "Vorago Strategies and Information"
     }
 }
 .embed:json
