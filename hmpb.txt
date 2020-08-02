@@ -1,54 +1,36 @@
 {
     "embed": {
-        "title": "The End - Hard Mode",
-        "color": 4696630,
+        "title": "The End [HM]",
+        "color": 10159289,
         "fields": [
             {
-                "name": "Specials Phase 10",
-                "value": "PB, Bleeds",
+                "name": "Specials",
+                "value": "• **Phase 10**: PB, Bleeds\n• **Phase 11**: PB, Vitalis",
                 "inline": true
             },
             {
-                "name": "Barricade Phase 10",
-                "value": "PB",
+                "name": "Barricade timing",
+                "value": "• **Phase 10**: Purple Bomb\n• **Phase 11**: Vitalis\n• **Maul**: After Bleeds",
                 "inline": true
             },
             {
-                "name": "Optimal maul",
-                "value": "After 3rd Bleed",
+                "name": "Piece unlock<:glovesofomens:739555360897237022>",
+                "value": "<:glovesofomens:739555360897237022> Gloves",
                 "inline": true
             },
             {
-                "name": "Specials Phase 11",
-                "value": "PB, Vitalis",
-                "inline": true
-            },
-            {
-                "name": "Barricade Phase 11",
-                "value": "Vitalis",
-                "inline": true
-            },
-            {
-                "name": "Piece unlock",
-                "value": "Gloves",
-                "inline": true
-            },
-            {
-                "name": "Mechanics",
-                "value": "**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ *Red*➔ 4 Att➔ OFF➔ 3 Att\n**Phase 10**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 At\n**Phase 11**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ *Vit*➔ 3 Att",
+                "name": "────── Strategy: Phase 10 ──────",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n\n• BTs should use <:disruptionshield:628994905930465300> when P9 ends.\n• **BT 1**: Stay South on dropdown.\n• <:barricade:628994880168788049> the bombs after <:purplebomb:508944149911961600> release.\n• Use thresholds during bleeds.\n• If it's not close to the spot, Ultimate instead.\n• **BT 2**: Ultimate North on dropdown.\n• If it hasn't been mauled, <:barricade:628994880168788049> on the next <:purplebomb:508944149911961600> release.",
                 "inline": false
             },
             {
-                "name": "Phase 10 - Strategy",
-                "value": "**Base/DPS**: Start with Sunshine. Use thresholds during bleeds.\n\nBTs must use Disrupt Shield when P9 ends. When barricaded, intercept everyone.\n**BT 1**: Barricade the bombs after Purple Bomb release. Build to Sunshine after reflect. **BT 2**: Start with Suns. If it hasn't been mauled, Barricade the next PB release.",
-                "inline": false
-            },
-            {
-                "name": "Phase 11 - Strategy",
-                "value": "Everyone must step back to block the Vitalis orb during this phase.\n**Base/DPS**: Build to Sunshine. Can also Onslaught at any point.\n**BTs**: Take turns to Barricade the Vitalis orb. If the push is good, can also barricade Purple Bomb release to negate all pushback. Alternatively, one BT uses Sunshine.",
+                "name": "────── Strategy: Phase 11 ──────",
+                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Build to Sunshine. Can also Onslaught at any point.\n• **BTs**: Take turns to <:barricade:628994880168788049> the Vitalis orb.\n• The other BT must build to Ultimate.",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741414481952829",
+        "description": "**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ *Red*➔ 4 Att➔ OFF➔ 3 Att\n**Phase 10**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 At\n**Phase 11**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ *Vit*➔ 3 Att"
     }
 }
 .embed:json
