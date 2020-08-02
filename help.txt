@@ -5,31 +5,36 @@
         "fields": [
             {
                 "name": "Trio - 4 Man+",
-                "value": "<:bp:643174327013081088> {{ prefix }}ceiling\n<:bp:643174327013081088> {{ prefix }}scopulus\n<:bp:643174327013081088> {{ prefix }}vitalis\n<:bp:643174327013081088> {{ prefix }}greenbomb\n<:bp:643174327013081088> {{ prefix }}teamsplit\n<:bp:643174327013081088> {{ prefix }}theend",
+                "value": "• {{ prefix }}ceiling\n• {{ prefix }}scopulus\n• {{ prefix }}vitalis\n• {{ prefix }}greenbomb\n• {{ prefix }}teamsplit\n• {{ prefix }}theend",
                 "inline": true
             },
             {
                 "name": "Duo",
-                "value": "<:bp:643174327013081088> {{ prefix }}duoceiling\n<:bp:643174327013081088> {{ prefix }}duoscopulus\n<:bp:643174327013081088> {{ prefix }}duovitalis\n<:bp:643174327013081088> {{ prefix }}duogreenbomb\n<:bp:643174327013081088> {{ prefix }}duoteamsplit\n<:bp:643174327013081088> {{ prefix }}duotheend",
+                "value": "• {{ prefix }}duoceiling\n• {{ prefix }}duoscopulus\n• {{ prefix }}duovitalis\n• {{ prefix }}duogreenbomb\n• {{ prefix }}duoteamsplit\n• {{ prefix }}duotheend",
                 "inline": true
             },
             {
                 "name": "Hard Mode",
-                "value": "<:bp:643174327013081088> {{ prefix }}hmceiling\n<:bp:643174327013081088> {{ prefix }}hmscopulus\n<:bp:643174327013081088> {{ prefix }}hmvitalis\n<:bp:643174327013081088> {{ prefix }}hmgreenbomb\n<:bp:643174327013081088> {{ prefix }}hmteamsplit\n<:bp:643174327013081088> {{ prefix }}hmtheend",
+                "value": "• {{ prefix }}hmceiling\n• {{ prefix }}hmscopulus\n• {{ prefix }}hmvitalis\n• {{ prefix }}hmgreenbomb\n• {{ prefix }}hmteamsplit\n• {{ prefix }}hmtheend",
                 "inline": true
             },
             {
                 "name": "Other",
-                "value": "<:bp:643174327013081088> {{ prefix }}dummy\n<:bp:643174327013081088> {{ prefix }}maul\n<:bp:643174327013081088> {{ prefix }}vorago\n<:bp:643174327013081088> {{ prefix }}droprate",
+                "value": "• {{ prefix }}dummy\n• {{ prefix }}maul\n• {{ prefix }}vorago\n• {{ prefix }}droprate",
                 "inline": true
             },
             {
                 "name": "Guides",
-                "value": "Basic NM Guide (WIP)\nhttps://bit.ly/2WkmZui\nBomb Tank HM\nhttps://bit.ly/3ateJvN",
+                "value": "• Basic NM Guide (WIP)\nhttps://bit.ly/2WkmZui\n• Bomb Tank HM\nhttps://bit.ly/3ateJvN",
+                "inline": true
+            },
+            {
+                "name": "Invite",
+                "value": "• [Click here to invite the bot](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
                 "inline": true
             }
         ],
-        "title": "Vorago Strategies and Information"
+        "title": "Vorago Strategies help"
     }
 }
 .embed:json
