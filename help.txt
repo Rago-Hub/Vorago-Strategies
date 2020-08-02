@@ -4,13 +4,8 @@
         "color": 50886,
         "fields": [
             {
-                "name": "Normal Mode",
+                "name": "Trio - 4 Man+",
                 "value": "<:bp:643174327013081088> {{ prefix }}ceiling\n<:bp:643174327013081088> {{ prefix }}scopulus\n<:bp:643174327013081088> {{ prefix }}vitalis\n<:bp:643174327013081088> {{ prefix }}greenbomb\n<:bp:643174327013081088> {{ prefix }}teamsplit\n<:bp:643174327013081088> {{ prefix }}theend",
-                "inline": true
-            },
-            {
-                "name": "Trio",
-                "value": "<:bp:643174327013081088> {{ prefix }}trioceiling\n<:bp:643174327013081088> {{ prefix }}trioscopulus\n<:bp:643174327013081088> {{ prefix }}triovitalis\n<:bp:643174327013081088> {{ prefix }}triogreenbomb\n<:bp:643174327013081088> {{ prefix }}trioteamsplit\n<:bp:643174327013081088> {{ prefix }}triotheend",
                 "inline": true
             },
             {
