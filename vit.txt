@@ -1,30 +1,21 @@
 {
     "embed": {
-        "color": 15696142,
-        "description": "Everyone should step back to get the Orb on P4 and P5. On Phase 4 it spawns NE (unless Vorago was walked before the Special). Avoid running to the orb on P3.\n\n",
+        "color": 26316,
+        "description": "Step back to block the Orb on P4 & P5. On Phase 4 it spawns NE unless Vorago was walked before the Special. Don't run to the orb on P3.\n\n**Phase 3**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ *Bleeds*➔ 5 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *Vit*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 Att",
         "title": "Vitalis - Normal Mode",
         "fields": [
             {
-                "name": "Barricade Phase 5",
-                "value": "As soon as the Vitalis orb is about to hit.",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "• **Base/DPS**: Ultimate NE and MD on dropdown. Thresholds until reflect.\n• <a:provoke:629028145575755815> before the third attack.\n• **BT**: Ultimate in the SW quadrant on dropdown.\n• Don't go MD until bleeds.",
                 "inline": false
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 3**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ *Bleeds*➔ 5 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *Vit*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*Vit*➔ 3 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 Att",
-                "inline": false
-            },
-            {
-                "name": "Phase 3 - Strategy",
-                "value": "**Base/DPS**: Start NE and melee distance (except BT) with thresholds and build to onslaught after reflect. Can also start with Sunshine. Use thresholds until reflect. If Bleeds happen, deal with them as usual for roles.\n**BT**: Start with Sunshine. Takes bleeds if needed.",
-                "inline": false
-            },
-            {
-                "name": "Phase 5 - Strategy",
-                "value": "**Base/DPS**: Start with Sunshine. Build to Onslaught after reflect.\n**BT**: Start with Dragon breath and bleeds. Use Wild magic instead if you are fast building. Barricade the Vitalis orb and intercept the whole team.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• **Base/DPS**: Ultimate MD and South on dropdown.\n• Build to <:onslaught:707318842417872949> after bleeds.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:628994880168788049> after and <:intercept:628994881460895776> everyone.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• <:intercept:628994881460895776> the team before Vorago spawns.\n• Start with a strong basic/bleeds or use one threshold.\n• <:barricade:628994880168788049> as soon as the Vitalis orb is about to hit and <:intercept:628994881460895776> again.\n• *Switching (Trio)*: Build to ultimate or <:onslaught:707318842417872949>.",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discord.com/channels/508332998437896204/713926241413234798/716741310064885770"
     }
 }
 .embed:json
