@@ -1,30 +1,26 @@
 {
     "embed": {
-        "color": 15696142,
-        "description": "On Phase 3 the BT should tag all reds and tank them. Ignore the other bombs.\n\n",
-        "title": "The End - Normal Mode",
+        "color": 10159289,
+        "description": "There's 2 methods for P3. Decide which one you're using before the trip starts.\n\n**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "title": "The End [NM]",
         "fields": [
             {
-                "name": "Barricade Phase 5",
-                "value": "1st Blue after Purple Bomb release (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "**Method 1**: One person tags all <:redbomb:508944149257519104> and tanks them. You can use a <:powerburstofvitality:680221224093483131>. Ignore <:bluebomb:508944148557201408>.\n**Method 2**: Tag all <:bluebomb:508944148557201408>, someone else uses <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team. Ignore <:redbomb:508944149257519104>.\n• Regardless of the method, start with thresholds ultimate in the third quadrant.\n• Try to glitch out from arms (South or East).\n• Base goes MD during reflect and uses <a:provoke:629028145575755815>.",
                 "inline": false
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+                "name": "────── Strategy: Phase 4 ──────",
+                "value": "• **Base/DPS**: Tag all <:redbomb:508944149257519104> and move away from the team.\n• Once Vorago stands up, <:intercept:628994881460895776> and <:barricade:628994880168788049> everyone.\n• **BT**: <:intercept:628994881460895776> and <:barricade:628994880168788049> when <:redbomb:508944149257519104> are being tagged.",
                 "inline": false
             },
             {
-                "name": "Phase 3 - Strategy",
-                "value": "**Base/DPS**: Start with thresholds. Sunshine in the 3rd quadrant. Let the BT tag all reds and tank them. Base goes melee distance during reflect and uses provoke.\n**BT**: Start with Guthix spec and thresholds. Tag all red bombs as soon as possible. Make sure to stay away from the team. Sunshine in the 3rd quadrant.",
-                "inline": false
-            },
-            {
-                "name": "Phase 5 - Strategy",
-                "value": "Some players will receive a bomb with a timer on screen. At 5 seconds left: go North, let the bomb explode (at 0 seconds) then go back South as soon as possible.\n**Base/DPS**: Start with Sunshine and build to Onslaught after Bleeds.\n**BT**: Vulnerability + Wild Magic and build to Barricade.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If it's a Trio, start with <:onslaught:270766226274254850> (Base North, DPS South).\n• *Switching (Trio):* <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:628994880168788049> after.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with one threshold and <a:vulnerability:629028420440948799>/<:vulnbomb:671009779975716867>.\n• Build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio):* Use <:onslaught:270766226274254850>, ultimate or finish the Phase with thresholds.",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741414481952829"
     }
 }
 .embed:json
