@@ -1,30 +1,21 @@
 {
     "embed": {
-        "color": 15696142,
-        "description": "Base has to save BT from Green Bombs throughout the kill. When a GB is tanked, Vorago will go to the next mechanic and skip auto-attacks.\n\n\n",
-        "title": "Green Bomb - Normal Mode",
+        "color": 2263842,
+        "description": "When a GB is tanked, Vorago will go to the next mechanic and skip auto-attacks.\nBase has to save BT from <:greenbomb:508944149152530438> on Phase 4 (with <:barricade:628994880168788049>).\n\n**Phase 3**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Att➔ *GB* (or skip)➔ 5 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *GB*➔ 5 Att (or skip)➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Bleeds➔ 3 Att ",
+        "title": "Green Bomb [NM]",
         "fields": [
             {
-                "name": "Barricade Phase 5",
-                "value": "Wait until the Green Bomb is released. If it's on the BT, use thresholds and Guthix special. If not, Barricade and Intercept everyone.",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "• Everyone will be tanking the <:greenbomb:508944149152530438> on this Phase.\n• Using a <:powerburstofvitality:680221224093483131> is recommended. The BT must tank it too.\n• Alternatively, if it's on BT, Base can <:intercept:628994881460895776> and <:powerburstofvitality:680221224093483131>. \n• Ultimate on dropdown (between two quadrants). Stay away from each other.",
                 "inline": false
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 3**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Att➔ *GB* (or skip)➔ 5 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *GB*➔ 5 Att (or skip)➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*GB*➔ 5 Att (or skip)➔ OFF➔ 3 Bleeds➔ 3 Att",
-                "inline": false
-            },
-            {
-                "name": "Phase 3 - Strategy",
-                "value": "**Base/DPS**: Start with Sunshine (between two quadrants). Tank the GB (10k hit) by standing away from other players. Reflect will happen immediately. If the BT gets it, the Base will intercept with Devotion and Pray Mage (9.5k dmg).\n**BT**: Start with Sunshine and finish with thresholds.",
-                "inline": false
-            },
-            {
-                "name": "Phase 5 - Strategy",
-                "value": "**Base/DPS**: Start with Sunshine and use thresholds. Use Onslaught after Bleeds. If on BT, deal with it like on P3, or bounce to Base to then take it to the DPS pile.\n**BT**: Asphyxiate and wait for the Green to target someone. Use Barricade if it's not on the BT. Otherwise threshold.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• **Base/DPS**: Ultimate South on dropdown and use thresholds.\n• If it's on the BT, deal with it like on P3.\n• If a DPS gets it, go North and tank it (will be Intercepted).\n• Build to <:onslaught:707318842417872949> after bleeds. \n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with a threshold and build to 100%.\n• If it's on the BT, use thresholds. If not, <:barricade:628994880168788049> and <:intercept:628994881460895776> everyone.\n• *Switching (Trio)*: Build to ultimate",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741354566451254"
     }
 }
 .embed:json
