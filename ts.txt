@@ -1,30 +1,21 @@
 {
     "embed": {
-        "color": 15696142,
-        "description": "Two 2x2 colour boxes (one blue and one red), will spawn from P3 to 5. Go inside the box with your colour to avoid being hit 8000 (typeless).\n\n",
-        "title": "Team Split - Normal Mode",
+        "color": 14761277,
+        "description": "Two 2X2 colour boxes (one red & one blue), will spawn from P3 to 5. Go inside your colour to avoid the 8K typeless hit. If you'll tank a TS, use a <:powerburstofvitality:680221224093483131> to save some HP.\n\n**Phase 3**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att➔ *Red*➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "title": "Team Split [NM]",
         "fields": [
             {
-                "name": "Barricade Phase 5",
-                "value": "1st Blue after Team Split (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "• **Base/DPS**: Use two thresholds out of the first TS.\n• Build to Ultimate before or during reflect. Finish the Phase with thresholds.\n• Base must use <a:provoke:629028145575755815> and go melee distance during reflect.\n• Alternative: Start with thresholds, then build to <:onslaught:707318842417872949> after the second TS.\n• **BT**: Start with thresholds. Build during reflect.\n• <:devotion:628994904642682921> + <:replenishmentpotion:649072001662713867>/<:enhancedreplenishmentpotion:628994870945644613>/<:powerburstofoverkill:680221222008913972> after the second TS and <:onslaught:707318842417872949>.\n• Alternative: You can Ultimate instead.\n",
                 "inline": false
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 3**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att➔ *Red*➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
-                "inline": false
-            },
-            {
-                "name": "Phase 3 - Strategy",
-                "value": "**Base/DPS**: Start with thresholds until reflect and charge detonate. Build to onslaught after 2nd Team Split. Base goes melee distance during reflect.\n**BT**: Start with thresholds, use devotion after 2nd TS + adrenaline potion and Onslaught. Otherwise Sunshine after the 1st TS.",
-                "inline": false
-            },
-            {
-                "name": "Phase 5 - Strategy",
-                "value": "**Base/DPS**: Sunshine when Team Split spawns. Wild Magic/Aphyxiate Dragon Breath. DPS uses Guthix Staff special. Don't onslaught.\n**BT**: Wild Magic and build to Barricade.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• Can save <:reprisal:707318843743404102> for the second TS.\n• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:628994880168788049> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.\n",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741383859470396"
     }
 }
 .embed:json
