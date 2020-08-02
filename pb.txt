@@ -6,7 +6,7 @@
         "fields": [
             {
                 "name": "────── Strategy: Phase 3 ──────",
-                "value": "**Method breakdown**: One person will tag all <:bluebomb:508944148557201408>, someone else uses <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team. Don't tag <:redbomb:508944149257519104> on this Phase.\n• Regardless of the method, start with thresholds ultimate in the third quadrant.\n• Try to glitch out from arms (South or East).\n• Base goes MD during reflect and uses <a:provoke:629028145575755815>.",
+                "value": "**Method breakdown**: One person will tag all <:bluebomb:508944148557201408>, someone else uses <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team. Don't tag <:redbomb:508944149257519104> on this Phase.\n• Regardless of the method, start with thresholds ultimate in the third quadrant.\n• Avoid stacking <:serengodbow:636409607564296204> specials in the first quadrant.\n• Try to glitch out from arms (South or East).\n• Base goes MD during reflect and uses <a:provoke:629028145575755815>.",
                 "inline": false
             },
             {
