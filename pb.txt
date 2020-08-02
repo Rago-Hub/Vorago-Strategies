@@ -1,12 +1,12 @@
 {
     "embed": {
         "color": 10159289,
-        "description": "There's 2 methods for P3. Decide which one you're using before the trip starts.\n\n**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "description": "**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
         "title": "The End [NM]",
         "fields": [
             {
                 "name": "────── Strategy: Phase 3 ──────",
-                "value": "**Method 1**: One person tags all <:redbomb:508944149257519104> and tanks them. You can use a <:powerburstofvitality:680221224093483131>. Ignore <:bluebomb:508944148557201408>.\n**Method 2**: Tag all <:bluebomb:508944148557201408>, someone else uses <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team. Ignore <:redbomb:508944149257519104>.\n• Regardless of the method, start with thresholds ultimate in the third quadrant.\n• Try to glitch out from arms (South or East).\n• Base goes MD during reflect and uses <a:provoke:629028145575755815>.",
+                "value": "**Method breakdown**: One person will tag all <:bluebomb:508944148557201408>, someone else uses <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team. Don't tag <:redbomb:508944149257519104> on this Phase.\n• Regardless of the method, start with thresholds ultimate in the third quadrant.\n• Try to glitch out from arms (South or East).\n• Base goes MD during reflect and uses <a:provoke:629028145575755815>.",
                 "inline": false
             },
             {
