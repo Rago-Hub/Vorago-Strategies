@@ -4,7 +4,7 @@
         "description": "[Click here to invite the bot to your server.](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
         "color": 50886,
         "footer": {
-            "text": "Created by <@!300296497277173761>"
+            "text": "Created by @gasha#4180"
         }
     }
 }
