@@ -1,30 +1,21 @@
 {
     "embed": {
-        "color": 15696142,
-        "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n ",
-        "title": "Ceiling Collapse - Normal Mode",
+        "color": 9849605,
+        "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*➔ 3 Att➔ OFF➔ 3 Att➔ *Rock*➔ 3 Att➔ *Red*➔ 4 Att\n**Phase 4**\nWaterf➔ 3 Att➔ Clone➔ 7 Att➔ *Rock*➔ 3 Att➔ 5 *Bleeds*➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ 3 *Bleeds*➔ 3 Att",
+        "title": "Ceiling Collapse [NM]",
         "fields": [
             {
-                "name": "Barricade Phase 5",
-                "value": "Cade timing: **Phase 5** 1st Blue after Team Split (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "• Start with an ultimate on dropdown. Place it MD.\n• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket).\n• **BT**: <a:provoke:629028145575755815> and move out of MD after Vorago spawns.\n• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump.",
                 "inline": false
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 3**\n*Rock*➔ 3 Att➔ OFF➔ 3 Att➔ *Rock*➔ 3 Att➔ *Red*➔ 4 Att\n**Phase 4**\nWaterf➔ 3 Att➔ Clone➔ 7 Att➔ *Rock*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
-                "inline": false
-            },
-            {
-                "name": "Phase 3 - Strategy",
-                "value": "**Base/DPS**: Asphyxiate Wild Magic start. Onslaught close to MD after 2nd jump.\n**BT**: Start with thresholds and use Metamorphosis during 2nd jump.",
-                "inline": false
-            },
-            {
-                "name": "Phase 5 - Strategy",
-                "value": "**Base/DPS**: Sunshine when Team Split spawns. Wild Magic/Aphyxiate Dragon Breath. DPS uses Guthix Staff special. Don't onslaught.\n**BT**: Wild Magic and build to Barricade.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:628994880168788049> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.\n",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741220096933970"
     }
 }
 .embed:json
