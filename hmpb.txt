@@ -14,7 +14,7 @@
                 "inline": true
             },
             {
-                "name": "Piece unlock<:glovesofomens:739555360897237022>",
+                "name": "Piece unlock",
                 "value": "<:glovesofomens:739555360897237022> Gloves",
                 "inline": true
             },
