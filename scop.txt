@@ -1,30 +1,21 @@
 {
     "embed": {
-        "color": 15696142,
-        "title": "Scopulus - Normal Mode",
+        "color": 6707,
+        "title": "Scopulus [NM]",
         "fields": [
             {
-                "name": "Barricade Phase 5",
-                "value": "1st Blue after Purple Bomb release (if no Disruption shield), otherwise Disrupt 1st and Barricade 2nd.",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "• **Base/DPS**: Ultimate SW and tag both Scopulus asap.\n• Stand together to stack them.\n• Use <a:provoke:629028145575755815> if they turn to the BT.\n• **BT**: Sunshine by the SW corner.\n• Target <:scop:671008864841498624> after the DPS tag them, to avoid aggro switching.",
                 "inline": false
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 3**\n2 *Scopulii* will spawn in total (SW and SE)➔ Blues (until both die)\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ Red➔ 4 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
-                "inline": false
-            },
-            {
-                "name": "Phase 3 - Strategy",
-                "value": "Use AoE abilities (Dragon Breath, Detonate and Corruption shot) but avoid Chain.\n**Base/DPS**: Start with Sunshine. Base & DPS must stand together to stack Scops. Provoke Scops if they turn to the BT.\n**BT**: Sunshine by the West wall but don't hit until the Base/DPS tag them.",
-                "inline": false
-            },
-            {
-                "name": "Phase 5 - Strategy",
-                "value": "**Base/DPS**: For 4man and above start with Sun and build to Onslaught after Bleeds.\n**BT**: Wild Magic vulnerability and build to Barricade.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If it's a Trio, start with <:onslaught:270766226274254850> (Base North, DPS South).\n• *Switching (Trio):* <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:628994880168788049> after.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with one threshold and <a:vulnerability:629028420440948799>/<:vulnbomb:671009779975716867>.\n• Build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio):* Use <:onslaught:270766226274254850>, ultimate or finish the Phase with thresholds.",
                 "inline": false
             }
         ],
-        "description": "Using Blood barrage & AoE abilities is recommended for Phase 3.\n[Vorago Target Cycling Quick Guide - Luring Scops](https://www.youtube.com/watch?v=wRcdDVuHvwA \"By flamewave 99\")"
+        "description": "Using AoE abilities and Barrage spells <:bloodbarrage:628994895025274882> <:icebarrage:628994868269809674> is recommended for Phase 3.\n*Related Guide*: [Vorago Target Cycling Quick Guide - Luring Scops](https://www.youtube.com/watch?v=wRcdDVuHvwA \"By flamewave 99\")\n\n**Phase 3**\n2 *Scopulii* will spawn (SW and SE)➔ Blues (until both die)\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ Red➔ 4 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741281703002205"
     }
 }
 .embed:json
