@@ -1,54 +1,36 @@
 {
     "embed": {
-        "color": 4696630,
-        "title": "Ceiling Collapse - Hard Mode",
+        "color": 9849605,
+        "title": "Ceiling Collapse [HM]",
         "fields": [
             {
-                "name": "Specials Phase 10",
-                "value": "TS, GB",
+                "name": "Specials",
+                "value": "• **Phase 10**:  TS, GB\n• **Phase 11**: TS, Vitalis\n",
                 "inline": true
             },
             {
-                "name": "Barricade Phase 10",
-                "value": "1st blue after TS",
-                "inline": true
-            },
-            {
-                "name": "Optimal maul",
-                "value": "GB release",
-                "inline": true
-            },
-            {
-                "name": "Specials Phase 11",
-                "value": "TS, Vitalis",
-                "inline": true
-            },
-            {
-                "name": "Barricade Phase 11",
-                "value": "Vitalis",
+                "name": "Barricade timing",
+                "value": "• **Phase 10**: Team Split\n• **Phase 11**: Vitalis\n• **Maul**: Green Bomb release",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "Torso",
+                "value": "<:torsoofomens:739555360846643312>",
                 "inline": true
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 9**\nWaterf➔ 3 Att➔ Clone➔ 7 Att➔ *Rock*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *GB*➔ 5 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *Vit* (*or red)➔ 3 Att\n",
+                "name": "────── Strategy: Phase 10 ──────",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• Build to <:onslaught:707318842417872949> after reflect.\n• Base must save BTs from GB <:greenbomb:508944149152530438>.\n\n• BTs should use <:disruptionshield:628994905930465300> after TS appears.\n• **BT 1**: Stay South on dropdown.\n• <:barricade:628994880168788049> after the TS.\n• Build to Ultimate.\n• **BT 2**: Ultimate North on dropdown and use thresholds.\n• Barricade the next TS.",
                 "inline": false
             },
             {
-                "name": "Phase 10 - Strategy",
-                "value": "**Base/DPS**: Start with thresholds. Build to Onslaught after reflect.\n**BT 1**: Barricade after the TS. Build to Sunshine. **BT 2**: Start with Sunshine and use thresholds. Barricade the next TS.",
-                "inline": false
-            },
-            {
-                "name": "Phase 11 - Strategy",
-                "value": "**Base/DPS**: Start with Sunshine and use thresholds. Block the Vitalis orb.\n**BTs**: Threshold and build to Barricade next Vitalis orb.",
+                "name": "────── Strategy: Phase 11 ──────",
+                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Build to ultimate.\n• **BTs**: Threshold and build to <:barricade:628994880168788049> next Vitalis orb.\n• The other BT must build to ultimate.",
                 "inline": false
             }
-        ]
+        ],
+        "description": "**Phase 9**\nWaterf➔ 3 Att➔ Clone➔ 7 Att➔ *Rock*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *GB*➔ 5 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *Vit*➔ 3 Att\n",
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741220096933970"
     }
 }
 .embed:json
