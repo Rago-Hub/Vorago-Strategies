@@ -1,7 +1,7 @@
 {
     "embed": {
         "title": "Vorago Information",
-        "color": 4696630,
+        "color": 50886,
         "description": "Current rotation: **$data_ragopvm:'Info HM'!A17$** for an additional **$data_ragopvm:'Info HM'!B20$ resets**.\nNext rotation: **$data_ragopvm:'Info HM'!H17$**.",
         "fields": [
             {
