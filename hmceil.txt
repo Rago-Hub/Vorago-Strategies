@@ -15,7 +15,7 @@
             },
             {
                 "name": "Piece unlock",
-                "value": "<:torsoofomens:739555360846643312>",
+                "value": "<:torsoofomens:739555360846643312> Torso",
                 "inline": true
             },
             {
