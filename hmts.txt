@@ -1,55 +1,36 @@
 {
     "embed": {
-        "title": "Team Split - Hard Mode",
-        "color": 4696630,
-        "description": "If the even TS (P10) spawn far from Vorago, BTs can go in and DPS must tank. On the opposite case, BTs tank and DPS can go in. *TS→ Reflect→ TS (tank)→ Repeat*.\n",
+        "title": "Team Split [HM]",
+        "color": 14761277,
+        "description": "• TS→ Reflect→ TS tank→ Repeat. If you are tanking, use <:reprisal:707318843743404102> for that TS.\n• If the even TS spawns far: DPS tank. Opposite case: BTs tank, and DPS can go in.\n\n**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS* (ODD)➔ 3 Att➔ OFF➔ 3 Att➔ *TS* (EVEN)➔ 3 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att",
         "fields": [
             {
-                "name": "Specials Phase 10",
-                "value": "TS, TS",
+                "name": "Specials",
+                "value": "• **Phase 10**: TS, TS\n• **Phase 11**: TS, PB",
                 "inline": true
             },
             {
-                "name": "Barricade Phase 10",
-                "value": "odd TS (1st, 3rd...) ",
-                "inline": true
-            },
-            {
-                "name": "Optimal mauling",
-                "value": "Reflect",
-                "inline": true
-            },
-            {
-                "name": "Specials Phase 11",
-                "value": "TS, PB",
-                "inline": true
-            },
-            {
-                "name": "Barricade Phase 11",
-                "value": "TS",
+                "name": "Barricade timing",
+                "value": "• **Phase 10**: odd Team Split\n• **Phase 11**: Team Split\n• **Maul**: Reflect.",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "Maul",
+                "value": "<a:maulofomens:636361739683758081> Maul",
                 "inline": true
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att",
+                "name": "────── Strategy: Phase 10 ──────",
+                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS.\n• **BT 1**: Go South and <:barricade:628994880168788049> the second <:bluebomb:508944148557201408> after TS.\n• Don't Ultimate. Finish the phase with thresholds.\n• **BT 2**: Ultimate North on dropdown.\n• Build to <:barricade:628994880168788049> the first <:bluebomb:508944148557201408> after the next odd TS.\n",
                 "inline": false
             },
             {
-                "name": "Phase 10 - Strategy",
-                "value": "**Base/DPS**: Sun as the TS spawns, then go to your color box. Read the note above.\n\nUse Disruption Shield after the TS spawns. Otherwise, Barricade the first blue.\n**BT 1**: Barricade the 2nd blue after TS. Sunshine during 2nd TS. **BT 2**: Start with Sunshine. Build to barricade the 1st blue after the next odd TS.\n",
-                "inline": false
-            },
-            {
-                "name": "Phase 11 - Strategy",
-                "value": "**Base/DPS**: Build to Sunshine, avoid using Onslaught.\n**BTs**: Disruption Shield after PB release. Barricade after the TS.",
+                "name": "────── Strategy: Phase 11 ──────",
+                "value": "• Everyone should build to Ultimate.\n• **BTs**: Save <:disruptionshield:628994905930465300> and use it after the <:purplebomb:508944149911961600> release.\n• <:barricade:628994880168788049> after the next TS.",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741383859470396"
     }
 }
 .embed:json
