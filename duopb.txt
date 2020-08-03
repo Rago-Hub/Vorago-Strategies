@@ -1,24 +1,30 @@
 {
     "embed": {
-        "color": 6694,
-        "title": "[Duo] The End",
+        "color": 10159289,
+        "title": "The End [Duo Mage]",
         "fields": [
             {
-                "name": "Magic",
-                "value": "Phase 3 <https://bit.ly/2VW7h8b>\nPhase 5 <https://bit.ly/2ycamYZ>",
-                "inline": true
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "**Base and Bomb Tank**\nBase tags all <:bluebomb:671008721773527080> and 1-2 <:redbomb:508944149257519104>.  BT uses <:intercept:628994881460895776> + <:devotion:628994904642682921> and tags the remaining <:redbomb:508944149257519104>.\n\nTC <:guthixstaff:628994905900974120> <a:weaponspecialattack:629028437742321686> → <a:preparation:629028126390878240> <:anticipation:628994860187254809> <:freedom:628994890851680276> → <:bloodbarrage:628994895025274882> <a:wildmagic:629028438929309699> → <:ingenuityofthehumans:707318840714854411> <:serengodbow:636409607564296204> <a:weaponspecialattack:629028437742321686> → <:dragonbreath:628994907620769792> → Build → <a:sunshine:629028335929786371> <:powerburstofoverkill:680221222008913972> 3rd quadrant → <:bloodbarrage:628994895025274882> <:concentratedblast:628994864821960733> <a:wildmagic:629028438929309699> <a:provoke:629028145575755815> → <:bloodbarrage:628994895025274882> <:asphyxiate:270766218326048768> <:dragonbreath:628994907620769792>\n\n",
+                "inline": false
             },
             {
-                "name": "Ranged",
-                "value": "Phase 3 <https://bit.ly/3ffWSf9>\nPhase 5 <https://bit.ly/3bYUUhk>",
-                "inline": true
+                "name": "OFF <a:resonance:629028176374398997> <:stormshards:707318846050009148> <a:preparation:629028126390878240> <:detonate:628994903405363201> → <:bloodbarrage:628994895025274882> <:detonate:628994903405363201> <:dragonbreath:628994907620769792>",
+                "value": "** **",
+                "inline": false
             },
             {
-                "name": "Melee",
-                "value": "Phase 3 <https://bit.ly/3bT7vT8>\nPhase 5 <https://bit.ly/2YsImLk>",
-                "inline": true
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "**Base Tank**\n<:disruptionshield:628994905930465300> P4 → <:bloodbarrage:628994895025274882> <:onslaught:707318842417872949> → <:dragonbreath:628994907620769792> <:impact:628994873407701031> → <:bloodbarrage:628994895025274882> <a:sonicwave:629028298621714442> > OFF (md) Build <:detonate:628994903405363201> → <:bloodbarrage:628994895025274882> <:detonate:628994903405363201> <:dragonbreath:628994907620769792> → <:ingenuityofthehumans:707318840714854411> <:serengodbow:636409607564296204> → <:concentratedblast:628994864821960733> <:dragonbreath:628994907620769792> → <:bloodbarrage:628994895025274882> <:guthixstaff:628994905900974120> → <:disruptionshield:628994905930465300> → Build to <:barricade:628994880168788049>",
+                "inline": false
+            },
+            {
+                "name": "Bomb Tank",
+                "value": "<:disruptionshield:628994905930465300> P4 → Lose Target, MD <:detonate:628994903405363201> → <:bloodbarrage:628994895025274882> <:detonate:628994903405363201> <a:wildmagic:629028438929309699> <:dragonbreath:628994907620769792> → <:bloodbarrage:628994895025274882> <:corruptionblast:628994868026540042> <:combust:628994861022052381> → <:bloodbarrage:628994895025274882> <a:sonicwave:629028298621714442> <:concentratedblast:628994864821960733> <:barricade:628994880168788049> → <:intercept:628994881460895776> OFF (md) Build and re-<:intercept:628994881460895776> → <:dragonbreath:628994907620769792> <:impact:628994873407701031> → <:ingenuityofthehumans:707318840714854411> <:serengodbow:636409607564296204> <:corruptionblast:628994868026540042> → <:bloodbarrage:628994895025274882> <:concentratedblast:628994864821960733> <a:wildmagic:629028438929309699> → <:bloodbarrage:628994895025274882> <:asphyxiate:270766218326048768> <:guthixstaff:628994905900974120>",
+                "inline": false
             }
-        ]
+        ],
+        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741414481952829"
     }
 }
 .embed:json
