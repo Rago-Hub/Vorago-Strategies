@@ -1,32 +1,17 @@
 {
     "embed": {
-        "title": "Team Split [HM]",
         "color": 14761277,
-        "description": "• TS→ Reflect→ TS tank→ Repeat. If you are tanking, use <:reprisal:707318843743404102> for that TS.\n• If the even TS spawns far: DPS tank. Opposite case: BTs tank, and DPS can go in.\n\n**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS* (ODD)➔ 3 Att➔ OFF➔ 3 Att➔ *TS* (EVEN)➔ 3 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att",
+        "description": "Two 2X2 colour boxes (one red & one blue), will spawn from P3 to 5. Go inside your colour to avoid the 8K typeless hit. If you'll tank a TS, use a <:powerburstofvitality:680221224093483131> to save some HP.\n\n**Phase 3**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *TS*➔ 3 Att➔ *Red*➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 5**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "title": "Team Split [NM]",
         "fields": [
             {
-                "name": "Specials",
-                "value": "• **Phase 10**: TS, TS\n• **Phase 11**: TS, PB",
-                "inline": true
-            },
-            {
-                "name": "Barricade timing",
-                "value": "• **Phase 10**: odd Team Split\n• **Phase 11**: Team Split\n• **Maul**: Reflect.",
-                "inline": true
-            },
-            {
-                "name": "Piece unlock",
-                "value": "<a:maulofomens:636361739683758081> Maul",
-                "inline": true
-            },
-            {
-                "name": "────── Strategy: Phase 10 ──────",
-                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS.\n• **BT 1**: Go South and <:barricade:628994880168788049> the second <:bluebomb:508944148557201408> after TS.\n• Don't Ultimate. Finish the phase with thresholds.\n• **BT 2**: Ultimate North on dropdown.\n• Build to <:barricade:628994880168788049> the first <:bluebomb:508944148557201408> after the next odd TS.\n",
+                "name": "────── Strategy: Phase 3 ──────",
+                "value": "• **Base/DPS**: Use two thresholds out of the first TS.\n• Build to Ultimate before or during reflect. Finish the Phase with thresholds.\n• Base must use <a:provoke:629028145575755815> and go melee distance during reflect.\n• Alternative: Start with thresholds, then build to <:onslaught:707318842417872949> after the second TS.\n• **BT**: Start with thresholds. Build during reflect.\n• <:devotion:628994904642682921> + <:replenishmentpotion:649072001662713867>/<:enhancedreplenishmentpotion:628994870945644613>/<:powerburstofoverkill:680221222008913972> after the second TS and <:onslaught:707318842417872949>.\n• Alternative: You can Ultimate instead.\n",
                 "inline": false
             },
             {
-                "name": "────── Strategy: Phase 11 ──────",
-                "value": "• Everyone should build to Ultimate.\n• **BTs**: Save <:disruptionshield:628994905930465300> and use it after the <:purplebomb:508944149911961600> release.\n• <:barricade:628994880168788049> after the next TS.",
+                "name": "────── Strategy: Phase 5 ──────",
+                "value": "• Can save <:reprisal:707318843743404102> for the second TS.\n• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:628994880168788049> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.\n",
                 "inline": false
             }
         ],
