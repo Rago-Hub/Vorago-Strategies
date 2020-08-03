@@ -1,26 +1,22 @@
 {
     "embed": {
         "color": 10159289,
-        "title": "The End [Duo Mage]",
+        "description": "**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "title": "The End [NM]",
         "fields": [
             {
                 "name": "────── Strategy: Phase 3 ──────",
-                "value": "**Base and Bomb Tank**\nBase tags all <:bluebomb:671008721773527080> and 1-2 <:redbomb:508944149257519104>.  BT uses <:intercept:628994881460895776> + <:devotion:628994904642682921> and tags the remaining <:redbomb:508944149257519104>.\n\nTC <:guthixstaff:628994905900974120> <a:weaponspecialattack:629028437742321686> → <a:preparation:629028126390878240> <:anticipation:628994860187254809> <:freedom:628994890851680276> → <:bloodbarrage:628994895025274882> <a:wildmagic:629028438929309699> → <:ingenuityofthehumans:707318840714854411> <:serengodbow:636409607564296204> <a:weaponspecialattack:629028437742321686> → <:dragonbreath:628994907620769792> → Build → <a:sunshine:629028335929786371> <:powerburstofoverkill:680221222008913972> 3rd quadrant → <:bloodbarrage:628994895025274882> <:concentratedblast:628994864821960733> <a:wildmagic:629028438929309699> <a:provoke:629028145575755815> → <:bloodbarrage:628994895025274882> <:asphyxiate:270766218326048768> <:dragonbreath:628994907620769792>\n\n",
+                "value": "**Method breakdown**: One person will tag all <:bluebomb:508944148557201408>, someone else uses <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team. Don't tag <:redbomb:508944149257519104> on this Phase.\n• Regardless of the method, start with thresholds ultimate in the third quadrant.\n• Avoid stacking <:serengodbow:636409607564296204> specials in the first quadrant.\n• Try to glitch out from arms (South or East).\n• Base goes MD during reflect and uses <a:provoke:629028145575755815>.",
                 "inline": false
             },
             {
-                "name": "OFF <a:resonance:629028176374398997> <:stormshards:707318846050009148> <a:preparation:629028126390878240> <:detonate:628994903405363201> → <:bloodbarrage:628994895025274882> <:detonate:628994903405363201> <:dragonbreath:628994907620769792>",
-                "value": "** **",
+                "name": "────── Strategy: Phase 4 ──────",
+                "value": "• **Base/DPS**: Tag all <:redbomb:508944149257519104> and move away from the team.\n• Once Vorago stands up, <:intercept:628994881460895776> and <:barricade:628994880168788049> everyone.\n• **BT**: <:intercept:628994881460895776> and <:barricade:628994880168788049> when <:redbomb:508944149257519104> are being tagged.",
                 "inline": false
             },
             {
                 "name": "────── Strategy: Phase 5 ──────",
-                "value": "**Base Tank**\n<:disruptionshield:628994905930465300> P4 → <:bloodbarrage:628994895025274882> <:onslaught:707318842417872949> → <:dragonbreath:628994907620769792> <:impact:628994873407701031> → <:bloodbarrage:628994895025274882> <a:sonicwave:629028298621714442> > OFF (md) Build <:detonate:628994903405363201> → <:bloodbarrage:628994895025274882> <:detonate:628994903405363201> <:dragonbreath:628994907620769792> → <:ingenuityofthehumans:707318840714854411> <:serengodbow:636409607564296204> → <:concentratedblast:628994864821960733> <:dragonbreath:628994907620769792> → <:bloodbarrage:628994895025274882> <:guthixstaff:628994905900974120> → <:disruptionshield:628994905930465300> → Build to <:barricade:628994880168788049>",
-                "inline": false
-            },
-            {
-                "name": "Bomb Tank",
-                "value": "<:disruptionshield:628994905930465300> P4 → Lose Target, MD <:detonate:628994903405363201> → <:bloodbarrage:628994895025274882> <:detonate:628994903405363201> <a:wildmagic:629028438929309699> <:dragonbreath:628994907620769792> → <:bloodbarrage:628994895025274882> <:corruptionblast:628994868026540042> <:combust:628994861022052381> → <:bloodbarrage:628994895025274882> <a:sonicwave:629028298621714442> <:concentratedblast:628994864821960733> <:barricade:628994880168788049> → <:intercept:628994881460895776> OFF (md) Build and re-<:intercept:628994881460895776> → <:dragonbreath:628994907620769792> <:impact:628994873407701031> → <:ingenuityofthehumans:707318840714854411> <:serengodbow:636409607564296204> <:corruptionblast:628994868026540042> → <:bloodbarrage:628994895025274882> <:concentratedblast:628994864821960733> <a:wildmagic:629028438929309699> → <:bloodbarrage:628994895025274882> <:asphyxiate:270766218326048768> <:guthixstaff:628994905900974120>",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If it's a Trio, start with <:onslaught:707318842417872949> (Base North, DPS South).\n• *Switching (Trio):* <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:628994880168788049> after.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with one threshold and <a:vulnerability:629028420440948799>/<:vulnerabilitybomb:680221227914362914>.\n• Build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio):* Use <:onslaught:707318842417872949>, ultimate or finish the Phase with thresholds.",
                 "inline": false
             }
         ],
