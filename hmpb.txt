@@ -25,7 +25,7 @@
             },
             {
                 "name": "────── Strategy: Phase 11 ──────",
-                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Build to Sunshine. Can also Onslaught at any point.\n• **BTs**: Take turns to <:barricade:628994880168788049> the Vitalis orb.\n• The other BT must build to Ultimate.",
+                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Build to Ultimate. Can also <:onslaught:707318842417872949> at any point.\n• **BTs**: Take turns to <:barricade:628994880168788049> the Vitalis orb.\n• The other BT must build to Ultimate.",
                 "inline": false
             }
         ],
