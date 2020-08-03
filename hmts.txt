@@ -2,7 +2,7 @@
     "embed": {
         "title": "Team Split [HM]",
         "color": 14761277,
-        "description": "• TS→ Reflect→ TS tank→ Repeat. If you are tanking, use <:reprisal:707318843743404102> for that TS.\n• If the even TS spawns far: DPS tank. Opposite case: BTs tank, and DPS can go in.\n• [Turn off Mouse-over Entity Highlights](https://imgur.com/a/6KVeBCa): it doesn't allow you to see your colour.\n\n**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS* (ODD)➔ 3 Att➔ OFF➔ 3 Att➔ *TS* (EVEN)➔ 3 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att",
+        "description": "• TS→ Reflect→ TS tank→ Repeat. If you are tanking, use <:reprisal:707318843743404102> for that TS.\n• If the even TS spawns far: DPS tank. Opposite case: BTs tank, and DPS can go in.\n• [Turn off Mouse-over Entity Highlights](https://imgur.com/a/NNyyHzU): it doesn't allow you to see your colour.\n\n**Phase 9**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *TS*➔ 3 Att➔ 5 Bleeds➔ 3 Att➔ OFF➔ 3 Att\n**Phase 10**\n*TS* (ODD)➔ 3 Att➔ OFF➔ 3 Att➔ *TS* (EVEN)➔ 3 Att\n**Phase 11**\n*TS*➔ 3 Att➔ OFF➔ 3 Att➔ *PB*➔ 5 Att",
         "fields": [
             {
                 "name": "Specials",
