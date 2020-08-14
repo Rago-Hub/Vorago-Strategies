@@ -1,7 +1,7 @@
 {
     "embed": {
         "color": 10159289,
-        "title": "The End [Duo Mage]",
+        "title": "The End [Duo - Mage]",
         "fields": [
             {
                 "name": "────── Strategy: Phase 3 ──────",
