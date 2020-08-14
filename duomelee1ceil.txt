@@ -17,3 +17,4 @@
         "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741281703002205"
     }
 }
+.json:embed
