@@ -20,12 +20,12 @@
             },
             {
                 "name": "────── Strategy: Phase 10 ──────",
-                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• Build to <:onslaught:707318842417872949> after reflect.\n• Base must save BTs from GB <:greenbomb:508944149152530438>.\n\n• BTs should use <:disruptionshield:628994905930465300> after TS appears.\n• **BT 1**: Stay South on dropdown.\n• <:barricade:628994880168788049> after the TS.\n• Build to Ultimate.\n• **BT 2**: Ultimate North on dropdown and use thresholds.\n• Barricade the next TS.",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• Build to <:onslaught:707318842417872949> after reflect.\n• Base must save BTs from GB <:greenbomb:508944149152530438>.\n\n• BTs should use <:disruptionshield:628994905930465300> after TS appears.\n• **BT 1**: Stay South on dropdown.\n• <:barricade:751138571464998922> after the TS.\n• Build to Ultimate.\n• **BT 2**: Ultimate North on dropdown and use thresholds.\n• Barricade the next TS.",
                 "inline": false
             },
             {
                 "name": "────── Strategy: Phase 11 ──────",
-                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Build to ultimate.\n• **BTs**: Threshold and build to <:barricade:628994880168788049> next Vitalis orb.\n• The other BT must build to ultimate.",
+                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Build to ultimate.\n• **BTs**: Threshold and build to <:barricade:751138571464998922> next Vitalis orb.\n• The other BT must build to ultimate.",
                 "inline": false
             }
         ],
