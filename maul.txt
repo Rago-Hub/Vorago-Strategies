@@ -1,37 +1,37 @@
 {
     "embed": {
         "color": 2218672,
-        "description": "The following go from Best to Worst timing.\n\n",
-        "title": "Phase 10 mauling guide - Hard Mode",
+        "description": "The following go from Best to Worst timing. You'll find the respective Omens piece next to each rotation.",
+        "title": "Maul guide for Hard Mode",
         "fields": [
             {
-                "name": "Ceiling Collapse",
-                "value": "**P10**: TS 3 OFF 3 GB 3\n**P11**: TS 3 OFF 3 Vit 3\n\n1) Maul GB release\n2) Maul TS\n3) Maul Reflect\n",
+                "name": "Ceiling Collapse <:torsoofomens:739555360846643312>",
+                "value": "• **P10**: TS 3 OFF 3 GB 3\n• **P11**: TS 3 OFF 3 Vit 3\n\n1. Maul GB release\n2. Maul TS\n3. Maul Reflect",
                 "inline": true
             },
             {
-                "name": "Scopulus",
-                "value": "**P10**: PB 5 OFF 3 TS 3\n**P11**: PB 5 OFF 3 Vit 3\n\n1) Maul TS\n2) Maul PB release\n3) Maul Reflect\n",
+                "name": "Scopulus <:helmofomens:739555361014546512>",
+                "value": "• **P10**: PB 5 OFF 3 TS 3\n• **P11**: PB 5 OFF 3 Vit 3\n\n1. Maul TS\n2. Maul PB release\n3. Maul Reflect",
                 "inline": true
             },
             {
-                "name": "Vitalis",
-                "value": "**P10**: Vit 3 OFF 3 PB 5\n**P11**: Vit 3 OFF 3 Bleeds 3\n\n1) Maul Reflect\n2) Maul PB release\n3) Maul Vit release\n",
+                "name": "Vitalis <:legsofomens:739555360586858519>",
+                "value": "• **P10**: Vit 3 OFF 3 PB 5\n• **P11**: Vit 3 OFF 3 Bleeds 3\n\n1. Maul Reflect\n2. Maul PB release\n3. Maul Vit release",
                 "inline": true
             },
             {
-                "name": "Green Bomb",
-                "value": "**P10**: GB 5 OFF 3 Vit 3\n**P11**: GB 5 OFF 3 TS 3\n\n1) Maul GB release\n2) Maul Vit release\n3) Maul Reflect\n",
+                "name": "Green Bomb <:bootsofomens:739555360867614871>",
+                "value": "• **P10**: GB 5 OFF 3 Vit 3\n• **P11**: GB 5 OFF 3 TS 3\n\n1. Maul GB release\n2. Maul Vit release\n3. Maul Reflect",
                 "inline": true
             },
             {
-                "name": "Team Split",
-                "value": "**P10**: TS 3 OFF 3 TS 3\n**P11**: TS 3 OFF 3 PB 5\n\n1) Maul Reflect\n2) Maul 1st TS\n3) Maul 2nd TS\n",
+                "name": "Team Split <a:maulofomens:636361739683758081>",
+                "value": "• **P10**: TS 3 OFF 3 TS 3\n• **P11**: TS 3 OFF 3 PB 5\n\n1. Maul Reflect\n2. Maul 1st TS\n3. Maul 2nd TS",
                 "inline": true
             },
             {
-                "name": "The End",
-                "value": "**P10**: PB 5 OFF 3 Bleeds 3\n**P11**: PB 5 OFF 3 Vit 3\n\n1) Maul After bleeds\n2) Maul PB release\n3) Maul Reflect",
+                "name": "The End <:glovesofomens:739555360897237022>",
+                "value": "• **P10**: PB 5 OFF 3 Bleeds 3\n• **P11**: PB 5 OFF 3 Vit 3\n\n1. Maul After bleeds\n2. Maul PB release\n3. Maul Reflect",
                 "inline": true
             }
         ]
