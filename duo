@@ -1,0 +1,40 @@
+{
+    "embed": {
+        "color": 768986,
+        "title": "Strategies for Duo",
+        "fields": [
+            {
+                "name": "Ceiling Collapse",
+                "value": "• .ceilmage   \n• .ceilranged   \n• .ceilmelee   ",
+                "inline": true
+            },
+            {
+                "name": "Scopulus",
+                "value": "• .scopmage   \n• .scopranged   \n• .scopmelee   ",
+                "inline": true
+            },
+            {
+                "name": "Vitalis",
+                "value": "• .vitmage   \n• .vitranged   \n• .vitmelee   ",
+                "inline": true
+            },
+            {
+                "name": "Green Bomb",
+                "value": "• .gbmage   \n• .gbranged   \n• .gbmelee   ",
+                "inline": true
+            },
+            {
+                "name": "Team Split",
+                "value": "• .tsmage   \n• .tranged   \n• .tsmelee   ",
+                "inline": true
+            },
+            {
+                "name": "The End",
+                "value": "• .pbmage   \n• .pbranged   \n• .pbmelee   ",
+                "inline": true
+            }
+        ],
+        "url": "https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk"
+    }
+}
+.embed:json
