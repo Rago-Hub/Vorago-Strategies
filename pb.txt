@@ -1,7 +1,7 @@
 {
     "embed": {
         "color": 10159289,
-        "description": "**Phase 3**\n*The End*➔ 3 Att➔ OFF➔ 3 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att\n**Phase 4**\nWaterfall➔ 3 Att➔ Clone➔ 7 Att➔ *The End*➔ 3 Att➔ Red➔ 4 Att➔ OFF➔ 3 Att\n**Phase 5**\n*PB*➔ 5 Att➔ OFF➔ 3 Att➔ 3 Bleeds➔ 3 Att",
+        "description": "**Phase 3**\n*The End*→ 3 Att→ OFF→ 3 Att→ *The End*→ 3 Att→ Red→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *The End*→ 3 Att→ Red→ 4 Att→ OFF→ 3 Att\n**Phase 5**\n*PB*→ 5 Att→ OFF→ 3 Att→ 3 Bleeds→ 3 Att",
         "title": "The End [NM]",
         "fields": [
             {
