@@ -20,7 +20,7 @@
             },
             {
                 "name": "Guides",
-                "value": "• Basic NM Guide\nhttps://bit.ly/2WkmZui\n• [Vorago Roles Miniguide](https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk)\n• Bomb Tank HM\nhttps://bit.ly/3ateJvN",
+                "value": "• [Basic NM Guide](https://bit.ly/2WkmZui)\n• [Vorago Roles Miniguide](https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)\n",
                 "inline": true
             },
             {
