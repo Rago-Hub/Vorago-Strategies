@@ -1,7 +1,7 @@
 {
 	    "embed": {
 	        "color": 9849605,
-	        "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterf→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ 5 *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ 3 *Bleeds*→ 3 Att",
+	        "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ 3 *Bleeds*→ 3 Att",
 	        "title": "Ceiling Collapse [NM]",
 	        "fields": [
 	            {
