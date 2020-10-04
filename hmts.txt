@@ -21,12 +21,12 @@
             },
             {
                 "name": "────── Strategy: Phase 10 ──────",
-                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS.\n• **BT 1**: Go South and <:barricade:628994880168788049> the second <:bluebomb:508944148557201408> after TS.\n• Don't Ultimate. Finish the phase with thresholds.\n• **BT 2**: Ultimate North on dropdown.\n• Build to <:barricade:628994880168788049> the first <:bluebomb:508944148557201408> after the next odd TS.\n",
+                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS.\n• **BT 1**: Go South and <:barricade:751138571464998922> the second <:bluebomb:508944148557201408> after TS.\n• Don't Ultimate. Finish the phase with thresholds.\n• **BT 2**: Ultimate North on dropdown.\n• Build to <:barricade:751138571464998922> the first <:bluebomb:508944148557201408> after the next odd TS.\n",
                 "inline": false
             },
             {
                 "name": "────── Strategy: Phase 11 ──────",
-                "value": "• Everyone should build to Ultimate.\n• **BTs**: Save <:disruptionshield:628994905930465300> and use it after the <:purplebomb:508944149911961600> release.\n• <:barricade:628994880168788049> after the next TS.",
+                "value": "• Everyone should build to Ultimate.\n• **BTs**: Save <:disruptionshield:628994905930465300> and use it after the <:purplebomb:508944149911961600> release.\n• <:barricade:751138571464998922> after the next TS.",
                 "inline": false
             }
         ],
