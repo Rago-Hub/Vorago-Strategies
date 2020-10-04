@@ -1,16 +1,11 @@
 {
     "embed": {
-        "description": "These commands allow you to check Normal Mode and Hard Mode strategies and phase/DPS guides for each rotation.\n\nThe prefix for the following commands is set to: `{{ prefix }}`\nUsage: `{{ prefix }}help` | `{{ prefix }}maul`\nTo invite this bot use: `{{ prefix }}invite`\n** **",
+        "description": "These commands allow you to check Normal Mode and Hard Mode strategies for each rotation.\n\nThe prefix for the following commands is set to: `{{ prefix }}`\nUsage: `{{ prefix }}help` | `{{ prefix }}maul`\nTo invite this bot use: `{{ prefix }}invite`\n** **",
         "color": 50886,
         "fields": [
             {
-                "name": "Trio - 4 Man+",
-                "value": "• {{ prefix }}ceiling\n• {{ prefix }}scopulus\n• {{ prefix }}vitalis\n• {{ prefix }}greenbomb\n• {{ prefix }}teamsplit\n• {{ prefix }}theend",
-                "inline": true
-            },
-            {
-                "name": "Duo",
-                "value": "• {{ prefix }}duoceiling\n• {{ prefix }}duoscopulus\n• {{ prefix }}duovitalis\n• {{ prefix }}duogreenbomb\n• {{ prefix }}duoteamsplit\n• {{ prefix }}duotheend",
+                "name": "Normal Mode",
+                "value": "• {{ prefix }}ceiling\n• {{ prefix }}scopulus\n• {{ prefix }}vitalis\n• {{ prefix }}greenbomb\n• {{ prefix }}teamsplit\n• {{ prefix }}theend\n",
                 "inline": true
             },
             {
@@ -20,12 +15,12 @@
             },
             {
                 "name": "Other",
-                "value": "• {{ prefix }}dummy\n• {{ prefix }}maul\n• {{ prefix }}vorago\n• {{ prefix }}droprate",
+                "value": "• {{ prefix }}duo\n• {{ prefix }}vorago\n• {{ prefix }}dummy\n• {{ prefix }}maul\n• {{ prefix }}droprate",
                 "inline": true
             },
             {
                 "name": "Guides",
-                "value": "• Basic NM Guide (WIP)\nhttps://bit.ly/2WkmZui\n• Bomb Tank HM\nhttps://bit.ly/3ateJvN",
+                "value": "• Basic NM Guide\nhttps://bit.ly/2WkmZui\n• Bomb Tank HM\nhttps://bit.ly/3ateJvN",
                 "inline": true
             },
             {
