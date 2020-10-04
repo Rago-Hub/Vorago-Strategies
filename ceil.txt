@@ -15,7 +15,7 @@
 	                "inline": false
 	            }
 	        ],
-	        "url": "https://discordapp.com/channels/508332998437896204/713926241413234798/716741220096933970"
+	        "url": "https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk"
 	    }
 	}
 .embed:json
