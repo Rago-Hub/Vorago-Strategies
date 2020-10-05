@@ -35,7 +35,7 @@
             },
             {
                 "name": "Mechanics",
-                "value": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att (or skip)→ 5 Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *Vit*→ 3 Att\n**Phase 11**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *TS*→ 3 Att",
+                "value": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att (or skip)→ Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *Vit*→ 3 Att\n**Phase 11**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *TS*→ 3 Att",
                 "inline": false
             },
             {
