@@ -20,7 +20,7 @@
             },
             {
                 "name": "────── Strategy: Phase 10 ──────",
-                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If there's a 2nd cycle, use <:onslaught:707318842417872949>\n\n• BTs should use <:disruptionshield:628994905930465300> when P9 ends.\n• **BT 1**: Stay South on dropdown.\n• <:barricade:751138571464998922> the on Vitalis release.\n• Make sure to pre <:intercept:628994881460895776> the whole team.\n• Ultimate if it's not close to the maul spot.\n• **BT 2**: Ultimate North on dropdown.\n• If it hasn't been mauled, <:barricade:751138571464998922> on the next Vitalis release.",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If there's a 2nd cycle, use <:onslaught:707318842417872949>\n\n• BTs should use <:disruptionshield:628994905930465300> when P9 ends.\n• **BT 1**: Stay South on dropdown.\n• <:barricade:751138571464998922> the first <:bluebomb:508944148557201408> after Vitalis release.\n• Make sure to pre <:intercept:628994881460895776> the whole team.\n• Ultimate if it's not close to the maul spot.\n• **BT 2**: Ultimate North on dropdown.\n• If it hasn't been mauled, <:barricade:751138571464998922> on the next Vitalis release.",
                 "inline": false
             },
             {
