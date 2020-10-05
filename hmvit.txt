@@ -5,7 +5,7 @@
         "fields": [
             {
                 "name": "Specials",
-                "value": "• **Phase 10**: Vitalis, PB\n• **Phase 11**: PB, Vitalis",
+                "value": "• **Phase 10**: Vitalis, PB\n• **Phase 11**: Vitalis, Bleeds",
                 "inline": true
             },
             {
