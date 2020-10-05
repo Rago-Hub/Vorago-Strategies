@@ -1,7 +1,7 @@
 {
     "embed": {
         "color": 26316,
-        "description": "Step back to block the Orb on P4 & P5. On Phase 4 it spawns NE unless Vorago was walked before the Special. Don't run to the orb on P3.\n\n**Phase 3**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 5 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Vit*→ 3 Att→ 5 Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*Vit*→ 3 Att→ OFF→ 3 Att→ 3 *Bleeds*→ 3 Att",
+        "description": "Step back to block the Orb on P4 & P5. On Phase 4 it spawns NE unless Vorago was walked before the Special. Don't run to the orb on P3.\n\n**Phase 3**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 5 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Vit*→ 3 Att→ Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*Vit*→ 3 Att→ OFF→ 3 Att→ 3 *Bleeds*→ 3 Att",
         "title": "Vitalis - Normal Mode",
         "fields": [
             {
