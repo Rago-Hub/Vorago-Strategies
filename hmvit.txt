@@ -33,3 +33,4 @@
         "description": "Everyone must step back to block the Vitalis orb on P9 (NE), 10 and 11.\n\n**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Vit*→ 3 Att→ Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *PB*→ 5 Att\n**Phase 11**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *3 Bleeds*→ 3 Att"
     }
 }
+.embed:json
