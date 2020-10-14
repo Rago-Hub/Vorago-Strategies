@@ -1,54 +1,36 @@
 {
     "embed": {
-        "title": "Green Bomb - Hard Mode",
-        "color": 4696630,
+        "title": "Green Bomb [HM]",
+        "color": 2263842,
         "fields": [
             {
-                "name": "Specials Phase 10",
-                "value": "GB, Vitalis",
+                "name": "Specials",
+                "value": "• **Phase 10**: GB, Vitalis\n• **Phase 11**: GB, TS",
                 "inline": true
             },
             {
-                "name": "Barricade Phase 10",
-                "value": "Vitalis",
-                "inline": true
-            },
-            {
-                "name": "Optimal maul",
-                "value": "GB release",
-                "inline": true
-            },
-            {
-                "name": "Specials Phase 11",
-                "value": "GB, TS",
-                "inline": true
-            },
-            {
-                "name": "Barricade Phase 11",
-                "value": "TS",
+                "name": "Barricade timing",
+                "value": "• **Phase 10**: Vitalis\n• **Phase 11**: Team Split\n• **Maul**: Green Bomb release",
                 "inline": true
             },
             {
                 "name": "Piece unlock",
-                "value": "Boots",
+                "value": "<:bootsofomens:739555360867614871> Boots\n",
                 "inline": true
             },
             {
-                "name": "Mechanics",
-                "value": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att (or skip)→ Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *Vit*→ 3 Att\n**Phase 11**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *TS*→ 3 Att",
+                "name": "────── Strategy: Phase 10 ──────",
+                "value": "• Everyone must block the Vitalis orb.\n• **Base/DPS**: Stand MD South and <:onslaught:707318842417872949> as soon as Vorago falls.\n• Base will get the <:greenbomb:508944149152530438> from BTs if they get it.\n\n• BTs should use <:disruptionshield:628994905930465300> after TS appears.\n• **BTs**: Stay North and one of MD on dropdown.\n• Start with <:onslaught:707318842417872949> too.\n• **BTs**: Take turns to <:barricade:751138571464998922> after the Vitalis orb.\n• Make sure to pre <:intercept:628994881460895776> the whole team.\n• The other BT must build to Ultimate.",
                 "inline": false
             },
             {
-                "name": "Phase 10 - Strategy",
-                "value": "**Base/DPS**: Stand MD South and Onslaught as soon as Vorago falls. Base will get the Green from BTs if any of them gets it.\n\nUse Disruption shield as Phase 9 ends. Both BTs start with Onslaught North and 1 step away from MD (same spot). After the first bomb hits one goes South.\n**BT 1**: barricade the Vitalis orb, Sunshine after. **BT 2**: Barricades the next Vitalis orb.",
-                "inline": false
-            },
-            {
-                "name": "Phase 11 - Strategy",
-                "value": "**Base/DPS**: Start with Sunshine and tank the Team Split. Optional: reprisal the TS.\n**BTs**: Take turns to Barricade after the TS. One BT uses Sun and the other Barricade.",
+                "name": "────── Strategy: Phase 11 ──────",
+                "value": "• **Base/DPS**: Build to Ultimate and tank the Team Split.\n• **BTs**: Take turns to <:barricade:751138571464998922> after the Team Split or Purple Bomb release.\n• The other BT must build to Ultimate.",
                 "inline": false
             }
-        ]
+        ],
+        "url": "https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk",
+        "description": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*GB*→ 5 Att→ OFF→ 3 Att→ *Vit*→ 3 Att\n**Phase 11**\n*GB*→ 5 Att→ OFF→ 3 Att→ *TS*→ 3 Att"
     }
 }
 .embed:json
