@@ -10,7 +10,7 @@
             },
             {
                 "name": "Barricade timing",
-                "value": "• **Phase 10**: PB\n• **Phase 11**: Vitalis\n• **Maul**: TS",
+                "value": "• **Phase 10**: Purple Bomb release\n• **Phase 11**: Vitalis\n• **Maul**: TS",
                 "inline": true
             },
             {
