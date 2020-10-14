@@ -1,6 +1,6 @@
 {
     "embed": {
-        "color": 2218672,
+        "color": 50886,
         "description": "The following go from Best to Worst timing. You'll find the respective Omens piece next to each rotation.",
         "title": "Maul guide for Hard Mode",
         "fields": [
