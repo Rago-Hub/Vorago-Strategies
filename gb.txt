@@ -1,7 +1,7 @@
 {
     "embed": {
         "color": 2263842,
-        "description": "When a GB is tanked, Vorago will go to the next mechanic and skip auto-attacks.\nBase has to save BT from <:greenbomb:508944149152530438> on Phase 4 with <:barricade:751138571464998922>.\nVorago skips to the next mechanic if a <:greenbomb:508944149152530438> is tanked on Phase 3, 4 and 5.\n\n**Phase 3**\n*GB*→ 5 Att (or skip)→ OFF→ 3 Att→ *GB*→ 5 Att→ Red→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att→ Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*GB*→ 5 Att→ OFF→ 3 Bleeds→ 3 Att ",
+        "description": "When a GB is tanked, Vorago will go to the next mechanic and skip auto-attacks.\nBase has to save BT from <:greenbomb:508944149152530438> on Phase 4 with <:barricade:751138571464998922>.\nVorago skips to the next mechanic if a <:greenbomb:508944149152530438> is tanked on Phase 3, 4 and 5.\n\n**Phase 3**\n*GB*→ 5 Att→ OFF→ 3 Att→ *GB*→ 5 Att→ Red→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att→ Bleeds→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*GB*→ 5 Att→ OFF→ 3 Bleeds→ 3 Att ",
         "title": "Green Bomb [NM]",
         "fields": [
             {
