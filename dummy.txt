@@ -1,52 +1,52 @@
 {
     "embed": {
         "color": 2218672,
-        "description": "**Phase start dummy**: Ceiling Collapse, Green Bomb, Phase 10.\n**Phase end dummy**: Phase 2, Scopulus, Phase 9, maul.\n**Optional**: Vitalis (Start), Team Split (End), The End (Start).\n\nAvoid placing dummies under Vorago's spawn.\n",
-        "title": "Dummy placing guide",
+        "description": "Avoid placing dummies in the middle or too close to a wall.\n\n**On Dropdown**: Ceiling Collapse, Vitalis, Green Bomb, Team Split, The End, Phase 10.\n**When the Phase ends**: Phase 2, Scopulus, Phase 9, Maul.\n\n** **",
+        "title": "Dummy placement [HM]",
         "fields": [
             {
-                "name": "Phase 2 (End)",
-                "value": "During BHD.\n",
+                "name": "Phase 2",
+                "value": "• During Bring him Down\n",
                 "inline": true
             },
             {
-                "name": "Phase 3 - Ceilings (Start)",
-                "value": "Place South.\n",
+                "name": "Ceilings",
+                "value": "• Anywhere",
                 "inline": true
             },
             {
-                "name": "Phase 4 - Scopulus (End)",
-                "value": "At the end.\n",
+                "name": "Scopulus",
+                "value": "• Anywhere South",
                 "inline": true
             },
             {
-                "name": "Phase 5 - Vitalis (Start)",
-                "value": "Optional. Place SW.\n",
+                "name": "Vitalis",
+                "value": "• Anywhere South",
                 "inline": true
             },
             {
-                "name": "Phase 6 - GB (Start)",
-                "value": "Place West.",
+                "name": "Green Bomb",
+                "value": "• Anywhere West",
                 "inline": true
             },
             {
-                "name": "Phase 7 - TS (End)",
-                "value": "Optional. After second TS.\n",
+                "name": "Team Split",
+                "value": "• Anywhere South",
                 "inline": true
             },
             {
-                "name": "Phase 9 (End)",
-                "value": "After last Waterfall.\n",
+                "name": "The End",
+                "value": "• Anywhere",
                 "inline": true
             },
             {
-                "name": "Phase 10 (Start)",
-                "value": "For dropdown.",
+                "name": "Phase 9",
+                "value": "• During the last Waterfall",
                 "inline": true
             },
             {
-                "name": "Phase 10 - Maul (End)",
-                "value": "Before or after maul.",
+                "name": "Phase 10",
+                "value": "• 1. West, far from MD\n• 2. MD, before mauling",
                 "inline": true
             }
         ]
