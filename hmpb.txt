@@ -30,7 +30,7 @@
             }
         ],
         "url": "https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk",
-        "description": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *The End*→ 3 Att→ *Red*→ 4 Att→ OFF→ 3 Att\n**Phase 10**\n*PB*→ 5 Att→ OFF→ 3 Att→ 3 *Bleeds*→ 3 At\n**Phase 11**\n*PB*→ 5 Att→ OFF→ 3 Att→ *Vit*→ 3 Att"
+        "description": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *The End*→ 3 Att→ *Red*→ 4 Att→ OFF→ 3 Att\n**Phase 10**\n*PB*→ 5 Att→ OFF→ 3 Att→ *Bleeds*→ 3 At\n**Phase 11**\n*PB*→ 5 Att→ OFF→ 3 Att→ *Vit*→ 3 Att"
     }
 }
 .embed:json
