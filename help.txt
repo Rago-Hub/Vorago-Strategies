@@ -15,7 +15,7 @@
             },
             {
                 "name": "Other",
-                "value": "• {{ prefix }}duo\n• {{ prefix }}vorago\n• {{ prefix }}dummy\n• {{ prefix }}maul\n• {{ prefix }}droprate",
+                "value": "• {{ prefix }}duo\n• {{ prefix }}vorago\n• {{ prefix }}dummy\n• {{ prefix }}maul\n• {{ prefix }}droprate\n• {{ prefix }}tc",
                 "inline": true
             },
             {
