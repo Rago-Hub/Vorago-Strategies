@@ -15,7 +15,7 @@
 	                "inline": false
 	            }
 	        ],
-	        "url": "https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk"
+	        "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw"
 	    }
 	}
 .embed:json
