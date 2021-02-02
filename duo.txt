@@ -7,7 +7,7 @@
       "color": 5814783
     }
   ]
-}
+},
 {
   "content": null,
   "embeds": [
