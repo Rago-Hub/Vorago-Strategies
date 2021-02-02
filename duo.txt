@@ -3,8 +3,10 @@
   "embeds": [
     {
       "title": "test1",
-      "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
+      "description": "",
       "color": 5814783
+            "image": {
+        "url": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png"
     }
   ]
 }
@@ -14,8 +16,10 @@
   "embeds": [
     {
       "title": "test2",
-      "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
+      "description": "",
       "color": 5814783
+            "image": {
+        "url": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png"
     }
   ]
 }
