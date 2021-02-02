@@ -2,11 +2,11 @@
   "content": null,
   "embeds": [
     {
-      "title": "test1",
+      "title": "Mage - Base & Bomb",
       "description": null,
       "color": 5814783,
       "image": {
-        "url": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png"
+        "url": "https://cdn.discordapp.com/attachments/805179364299767868/806147579036827698/unknown.png"
       }
     }
   ]
@@ -16,13 +16,28 @@
   "content": null,
   "embeds": [
     {
-      "title": "test1",
+      "title": "Range - Base & Bomb",
       "description": null,
       "color": 5814783,
       "image": {
-        "url": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png"
+        "url": "https://cdn.discordapp.com/attachments/805179364299767868/806146990647803925/unknown.png"
       }
     }
   ]
 }
 .embed:json
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Melee - Base",
+      "description": null,
+      "color": 5814783,
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/805179364299767868/806146578469224518/unknown.png"
+      }
+    }
+  ]
+}
+.embed:json
+
