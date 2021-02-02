@@ -1,12 +1,12 @@
 {
-  "content": "test content 1",
+  "content": null,
     {
       "title": "test1",
       "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
       "color": 5814783
-    },
+    }
 {
-  "content": "test content 2",
+  "content": null,
     {
       "title": "test1",
       "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
