@@ -1,21 +1,27 @@
 {
-    "embed": {
-        "color": 26316,
-        "description": "Step back to block the Orb on P4 & P5. On Phase 4 it spawns NE unless Vorago was walked before the Special. Don't run to the orb on P3.\n\n**Phase 3**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 5 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Vit*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
-        "title": "Vitalis - Normal Mode",
-        "fields": [
-            {
-                "name": "────── Strategy: Phase 3 ──────",
-                "value": "• **Base/DPS**: Ultimate NE and MD on dropdown. Thresholds until reflect.\n• <a:provoke:629028145575755815> before the third attack.\n• **BT**: Ultimate in the SW quadrant on dropdown.\n• Don't go MD until bleeds.",
-                "inline": false
-            },
-            {
-                "name": "────── Strategy: Phase 5 ──────",
-                "value": "• **Base/DPS**: Ultimate MD and South on dropdown.\n• Build to <:onslaught:707318842417872949> after bleeds.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:751138571464998922> after and <:intercept:628994881460895776> everyone.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• <:intercept:628994881460895776> the team before Vorago spawns.\n• Start with a strong basic/bleeds or use one threshold.\n• <:barricade:751138571464998922> as soon as the Vitalis orb is about to hit and <:intercept:628994881460895776> again.\n• *Switching (Trio)*: Build to ultimate or <:onslaught:707318842417872949>.",
-                "inline": false
-            }
-        ],
-        "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw"
+  "embeds": [
+    {
+      "title": "Vitalis - Normal Mode",
+      "color": 26316,
+      "description": "Step back to block the Orb on P4 & P5. On Phase 4 it spawns NE unless Vorago was walked before the Special. Don't run to the orb on P3.\nFor the ability rotations use: `.p3 vitalis`\n\n**Phase 3**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 5 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Vit*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
+      "timestamp": "",
+      "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "────── Strategy: Phase 3 ──────",
+          "value": "• **Base/DPS**: Ultimate NE and MD on dropdown. Thresholds until reflect.\n• <a:provoke:629028145575755815> before the third attack.\n• **BT**: Ultimate in the SW quadrant on dropdown.\n• Don't go MD until bleeds.",
+          "inline": false
+        },
+        {
+          "name": "────── Strategy: Phase 5 ──────",
+          "value": "• **Base/DPS**: Ultimate MD and South on dropdown.\n• Build to <:onslaught:707318842417872949> after bleeds.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:751138571464998922> after and <:intercept:628994881460895776> everyone.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• <:intercept:628994881460895776> the team before Vorago spawns.\n• Start with a strong basic/bleeds or use one threshold.\n• <:barricade:751138571464998922> as soon as the Vitalis orb is about to hit and <:intercept:628994881460895776> again.\n• *Switching (Trio)*: Build to ultimate or <:onslaught:707318842417872949>.",
+          "inline": false
+        }
+      ]
     }
+  ]
 }
-.embed:json
