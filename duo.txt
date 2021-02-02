@@ -1,12 +1,8 @@
 {
   "content": null,
-  "embeds": [
     {
-      "title": "Advanced Magic - Phase 3 Vitalis",
-      "description": "Base",
-      "color": 1107909,
-      "image": {
-        "url": "https://cdn.discordapp.com/attachments/764755841219559444/805176703332646974/unknown.png"
-      }
+      "title": "test1",
+      "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
+      "color": 5814783
     }
 .embed:json
