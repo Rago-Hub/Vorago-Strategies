@@ -4,7 +4,7 @@
     {
       "title": "Mage - Base & Bomb",
       "description": null,
-      "color": 5814783,
+      "color": #0000ff,
       "image": {
         "url": "https://cdn.discordapp.com/attachments/805179364299767868/806147579036827698/unknown.png"
       }
@@ -18,7 +18,7 @@
     {
       "title": "Range - Base & Bomb",
       "description": null,
-      "color": 5814783,
+      "color": #00FF00,
       "image": {
         "url": "https://cdn.discordapp.com/attachments/805179364299767868/806146990647803925/unknown.png"
       }
@@ -32,7 +32,7 @@
     {
       "title": "Melee - Base",
       "description": null,
-      "color": 5814783,
+      "color": #FFA500,
       "image": {
         "url": "https://cdn.discordapp.com/attachments/805179364299767868/806146578469224518/unknown.png"
       }
