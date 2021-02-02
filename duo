@@ -6,7 +6,7 @@
       "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
       "color": 5814783
     }
-.embed:json
+.embed:json,
     {
       "title": "test2",
       "description": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png",
