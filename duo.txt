@@ -3,7 +3,7 @@
   "embeds": [
     {
       "title": "test1",
-      "description": "a",
+      "description": null,
       "color": 5814783,
       "image": {
         "url": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png"
@@ -17,7 +17,7 @@
   "embeds": [
     {
       "title": "test1",
-      "description": "aa",
+      "description": null,
       "color": 5814783,
       "image": {
         "url": "https://cdn.discordapp.com/attachments/623947563074060300/806207990976741426/unknown.png"
