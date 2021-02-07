@@ -21,7 +21,7 @@
         },
         {
           "name": "Duo",
-          "value": "Use the phase and rotation name. Example:\n• {{ prefix }}p3 ceilings\n• {{ prefix }}p3 scopulus\n• {{ prefix }}p5 vitalis\n• {{ prefix }}p5 teamsplit",
+          "value": "Use `phase rotation`. Example:\n• {{ prefix }}p3 ceilings\n• {{ prefix }}p3 scopulus\n• {{ prefix }}p5 purplebomb\n• {{ prefix }}p5 vitalis\n• {{ prefix }}p5 teamsplit",
           "inline": true
         },
         {
@@ -30,13 +30,13 @@
           "inline": true
         },
         {
-          "name": "Guides",
-          "value": "• [Basic NM Guide](https://bit.ly/2WkmZui)\n• [Vorago Roles Miniguide](https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)",
+          "name": "Vorago Guides",
+          "value": "• [Basic NM Guide](https://bit.ly/2WkmZui)\n• [Roles Miniguide](https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
           "inline": true
         },
         {
           "name": "Invite",
-          "value": "• [Click here to invite the bot](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+          "value": "• [Invite the bot](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
           "inline": true
         }
       ]
