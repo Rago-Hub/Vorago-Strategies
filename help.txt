@@ -3,7 +3,7 @@
     {
       "title": "Vorago Strategies help",
       "color": 50886,
-      "description": "This bot contains strategies for Normal Mode and Hard Mode for each rotation.\nThe NM commands are for Trio to 4 man and the HM ones for 5 to 7 man.\nThere's also Duo commands that go from easy to advanced strategies.\n\nThe prefix is set to: `{{ prefix }}`. To invite this bot use: `{{ prefix }}invite`",
+      "description": "This bot contains strategies for Normal Mode & Hard Mode for each rotation\nThe NM commands are for Trio to 4 man and the HM ones for 5 to 7 man\nThere's also Duo commands that go from easy to advanced strategies\n\nThe prefix is set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite`",
       "author": {},
       "image": {},
       "thumbnail": {},
@@ -21,7 +21,7 @@
         },
         {
           "name": "Duo",
-          "value": "Use the phase and the rotation name\nExample:\n• {{ prefix }}p3 ceilings\n• {{ prefix }}p3 scopulus\n• {{ prefix }}p5 vitalis\n• {{ prefix }}p5 teamsplit",
+          "value": "Use the phase and rotation name. Example:\n• {{ prefix }}p3 ceilings\n• {{ prefix }}p3 scopulus\n• {{ prefix }}p5 vitalis\n• {{ prefix }}p5 teamsplit",
           "inline": true
         },
         {
@@ -36,7 +36,8 @@
         },
         {
           "name": "Invite",
-          "value": "• [Click here to invite the bot](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)"
+          "value": "• [Click here to invite the bot](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+          "inline": true
         }
       ]
     }
