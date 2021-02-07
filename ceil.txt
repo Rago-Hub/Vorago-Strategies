@@ -11,7 +11,7 @@
 	            },
 	            {
 	                "name": "────── Strategy: Phase 5 ──────",
-	                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:628994880168788049> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.\n",
+	                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.\n",
 	                "inline": false
 	            }
 	        ],
