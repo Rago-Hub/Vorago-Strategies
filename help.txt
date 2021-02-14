@@ -1,9 +1,9 @@
 {
   "embeds": [
     {
-      "title": "Vorago Strategies help",
+      "title": "Vorago - Help",
       "color": 50886,
-      "description": "This bot contains strategies for Normal Mode & Hard Mode for each rotation\nThe NM commands are for Trio to 4 man and the HM ones for 5 to 7 man\nThere's also Duo commands that go from easy to advanced strategies\n\nThe prefix is set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite`",
+      "description": "This bot contains strategies for Normal Mode & Hard Mode for each rotation\nThe NM commands are for Trio to 4 man and the HM ones for 5 to 7 man\nThere's also Ability rotations that go from easy to advanced strategies\n\nThe prefix is set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
       "author": {},
       "image": {},
       "thumbnail": {},
@@ -11,32 +11,32 @@
       "fields": [
         {
           "name": "Normal Mode",
-          "value": "• {{ prefix }}ceiling\n• {{ prefix }}scopulus\n• {{ prefix }}vitalis\n• {{ prefix }}greenbomb\n• {{ prefix }}teamsplit\n• {{ prefix }}theend\n",
+          "value": "`{{ prefix }}ceiling`\n`{{ prefix }}scopulus`\n`{{ prefix }}vitalis`\n`{{ prefix }}greenbomb`\n`{{ prefix }}teamsplit`\n`{{ prefix }}theend`",
           "inline": true
         },
         {
           "name": "Hard Mode",
-          "value": "• {{ prefix }}hmceiling\n• {{ prefix }}hmscopulus\n• {{ prefix }}hmvitalis\n• {{ prefix }}hmgreenbomb\n• {{ prefix }}hmteamsplit\n• {{ prefix }}hmtheend",
+          "value": "`{{ prefix }}hmceiling`\n`{{ prefix }}hmscopulus`\n`{{ prefix }}hmvitalis`\n`{{ prefix }}hmgreenbomb`\n`{{ prefix }}hmteamsplit`\n`{{ prefix }}hmtheend`",
           "inline": true
         },
         {
-          "name": "Duo",
-          "value": "Use `phase rotation`. Example:\n• {{ prefix }}p3 ceilings\n• {{ prefix }}p3 scopulus\n• {{ prefix }}p5 purplebomb\n• {{ prefix }}p5 vitalis\n• {{ prefix }}p5 teamsplit",
+          "name": "Ability Rotations",
+          "value": "Format: `phase rotation`. Example:\n`{{ prefix }}duo`\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 vitalis`",
           "inline": true
         },
         {
-          "name": "Other",
-          "value": "• {{ prefix }}vorago\n• {{ prefix }}dummy\n• {{ prefix }}maul\n• {{ prefix }}droprate\n• {{ prefix }}tc",
+          "name": "Miscellaneous",
+          "value": "`{{ prefix }}vorago`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`",
           "inline": true
         },
         {
-          "name": "Vorago Guides",
-          "value": "• [Basic NM Guide](https://bit.ly/2WkmZui)\n• [Roles Miniguide](https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
+          "name": "More guides",
+          "value": "• [Basic NM Guide](https://bit.ly/2WkmZui)\n• [Roles Miniguide](https://docs.google.com/document/d/1bCY6oGUthzPvEcbteLirsN1DLprlHazl8dYLfoh0Wzk)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)",
           "inline": true
         },
         {
-          "name": "Invite",
-          "value": "• [Invite the bot](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+          "name": "Discord",
+          "value": "• [Rago PvM](https://discord.gg/Q8xpnYp)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
           "inline": true
         }
       ]
