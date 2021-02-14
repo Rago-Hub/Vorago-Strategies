@@ -21,7 +21,7 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Format: `phase rotation`. Example:\n`{{ prefix }}duo`\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 vitalis`",
+          "value": "Full list: `{{ prefix }}duo`. Examples:\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p3 vitalis`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 teamsplit`",
           "inline": true
         },
         {
@@ -43,4 +43,5 @@
     }
   ]
 }
+.embed:json
 .embed:json
