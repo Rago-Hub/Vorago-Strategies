@@ -1,0 +1,28 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "title": "Ability rotations",
+      "color": 50886,
+      "description": "",
+      "timestamp": "",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Normal rotations",
+          "value": "**Phase 1**\n`.p1`\n\n**Phase 3**\n`.p3 ceilings`\n`.p3 scopulus`\n`.p3 vitalis`\n`.p3 greenbomb`\n`.p3 teamsplit`\n`.p3 theend`\n\n**Phase 5**\n`.p5 purplebomb`\n`.p5 teamsplit`\n`.p5 vitalis`\n`.p5 greenbomb`",
+          "inline": true
+        },
+        {
+          "name": "Advanced rotations",
+          "value": "**Phase 1**\n`.p1 adv`\n\n**Phase 3**\n`.p3 adv ceilings`\n`.p3 adv scopulus`\n`.p3 adv vitalis`\n`.p3 adv greenbomb`\n`.p3 adv teamsplit`\n`.p3 adv theend`\n\n**Phase 5**\n`.p5 adv`\n`.p5 adv teamsplit`",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
+.embed:json
