@@ -3,7 +3,7 @@
     {
       "title": "Vorago - Help",
       "color": 50886,
-      "description": "This bot contains strategies for Normal Mode & Hard Mode for each rotation\nThe NM commands are for Trio to 4 man and the HM ones for 5 to 7 man\nThere's also Ability rotations that go from easy to advanced strategies\n\nThe prefix is set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+      "description": "This bot contains strategies for Normal Mode & Hard Mode for each rotation\nThe NM commands are for Trio to 4 man and the HM ones for 5 to 7 man\nThere's also Ability rotations that go from easy to advanced strategies\n\nThe prefix is set to: `{{ prefix }}`, to change it use `{{ prefix }}prefix`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
       "author": {},
       "image": {},
       "thumbnail": {},
@@ -43,5 +43,4 @@
     }
   ]
 }
-.embed:json
 .embed:json
