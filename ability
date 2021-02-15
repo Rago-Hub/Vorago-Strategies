@@ -4,7 +4,7 @@
     {
       "title": "Ability rotations",
       "color": 50886,
-      "description": "Add `adv` before the rotation name to get the advanced strategy.\nExample: `p3melee adv vitalis`",
+      "description": "Add `adv` before the rotation name to get the advanced strategy.\nExample: `{{ prefix }}p3melee adv vitalis` or `{{ prefix }}p5mage adv teamsplit`.",
       "timestamp": "",
       "author": {},
       "image": {},
