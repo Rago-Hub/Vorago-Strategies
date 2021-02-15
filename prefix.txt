@@ -1,2 +1,0 @@
-The prefix is set to: `{{ prefix }}`.
-For other commands use the prefixes: `vs/` or `vs$`.
