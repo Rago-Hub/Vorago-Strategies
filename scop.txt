@@ -14,7 +14,7 @@
                 "inline": false
             }
         ],
-        "description": "Using AoE abilities and Barrage spells <:bloodbarrage:628994895025274882> <:icebarrage:628994868269809674> is recommended for Phase 3.\n*Related Guide*: [Vorago Target Cycling Quick Guide - Luring Scops](https://www.youtube.com/watch?v=wRcdDVuHvwA \"By flamewave 99\")\n\n**Phase 3**\n2 *Scopulii* will spawn (SW and SE)→ Blues (until both die)\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Red*→ 4 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*PB*→ 5 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
+        "description": "Using AoE abilities and Barrage spells <:bloodbarrage:628994895025274882> <:icebarrage:628994868269809674> is recommended for Phase 3.\n*Related video*: [Vorago Target Cycling Quick Guide - Luring Scops](https://www.youtube.com/watch?v=wRcdDVuHvwA \"By flamewave 99\")\n\n**Phase 3**\n2 *Scopulii* will spawn (SW and SE)→ Blues (until both die)\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Red*→ 4 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*PB*→ 5 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
         "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw"
     }
 }
