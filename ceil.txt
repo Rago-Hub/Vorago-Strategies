@@ -1,21 +1,27 @@
 {
-	    "embed": {
-	        "color": 9849605,
-	        "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
-	        "title": "Ceiling Collapse [NM]",
-	        "fields": [
-	            {
-	                "name": "────── Strategy: Phase 3 ──────",
-	                "value": "• Start with an ultimate on dropdown. Place it MD.\n• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket).\n• **BT**: <a:provoke:629028145575755815> and move out of MD after Vorago spawns.\n• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump.",
-	                "inline": false
-	            },
-	            {
-	                "name": "────── Strategy: Phase 5 ──────",
-	                "value": "• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.\n",
-	                "inline": false
-	            }
-	        ],
-	        "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw"
-	    }
-	}
+  "embeds": [
+    {
+      "title": "Ceiling Collapse [NM]",
+      "color": 9849605,
+      "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
+      "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "────── Strategy: Phase 3 ──────",
+          "value": "• Start with an ultimate on dropdown. Place it MD.\n• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket).\n• **BT**: <a:provoke:629028145575755815> and move out of MD after Vorago spawns.\n• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump.",
+          "inline": false
+        },
+        {
+          "name": "────── Strategy: Phase 5 ──────",
+          "value": "• Can save <:reprisal:707318843743404102> for the second TS.\n• **Base/DPS**: Ultimate South and MD after TS spawns. Go to it or Tank it.\n• Go back to your ult and use thresholds until reflect.\n• *Switching (Trio)*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS.\n• **BT**: Use <:disruptionshield:628994905930465300> after TS spawns.\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio)*: Ultimate during bleeds.",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
 .embed:json
