@@ -11,12 +11,12 @@
             },
             {
                 "name": "────── Strategy: Phase 4 ──────",
-                "value": "• **Base/DPS**: Tag all <:redbomb:508944149257519104> and move away from the team.\n• Once Vorago stands up, <:intercept:628994881460895776> and <:barricade:628994880168788049> everyone.\n• **BT**: <:intercept:628994881460895776> and <:barricade:628994880168788049> when <:redbomb:508944149257519104> are being tagged.",
+                "value": "• **Base/DPS**: Tag all <:redbomb:508944149257519104> and move away from the team.\n• Once Vorago stands up, <:intercept:628994881460895776> and <:barricade:751138571464998922> everyone.\n• **BT**: <:intercept:628994881460895776> and <:barricade:751138571464998922> when <:redbomb:508944149257519104> are being tagged.",
                 "inline": false
             },
             {
                 "name": "────── Strategy: Phase 5 ──────",
-                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If it's a Trio, start with <:onslaught:707318842417872949> (Base North, DPS South).\n• *Switching (Trio):* <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:628994880168788049> after.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with one threshold and <a:vulnerability:629028420440948799>/<:vulnerabilitybomb:680221227914362914>.\n• Build to <:barricade:628994880168788049> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio):* Use <:onslaught:707318842417872949>, ultimate or finish the Phase with thresholds.",
+                "value": "• **Base/DPS**: Ultimate South and MD on dropdown.\n• If it's a Trio, start with <:onslaught:707318842417872949> (Base North, DPS South).\n• *Switching (Trio):* <:disruptionshield:628994905930465300> the next <:bluebomb:508944148557201408>, <:barricade:751138571464998922> after.\n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with one threshold and <a:vulnerability:629028420440948799>/<:vulnerabilitybomb:680221227914362914>.\n• Build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>.\n• *Switching (Trio):* Use <:onslaught:707318842417872949>, ultimate or finish the Phase with thresholds.",
                 "inline": false
             }
         ],
