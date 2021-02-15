@@ -4,7 +4,7 @@
     {
       "title": "Ability rotations",
       "color": 50886,
-      "description": "",
+      "description": "Add `adv` before the rotation name to get the advanced strategy.\nExample: `p3melee adv vitalis`",
       "timestamp": "",
       "author": {},
       "image": {},
@@ -12,13 +12,18 @@
       "footer": {},
       "fields": [
         {
-          "name": "Normal rotations",
-          "value": "**Phase 1**\n`.p1`\n\n**Phase 3**\n`.p3 ceilings`\n`.p3 scopulus`\n`.p3 vitalis`\n`.p3 greenbomb`\n`.p3 teamsplit`\n`.p3 theend`\n\n**Phase 5**\n`.p5 purplebomb`\n`.p5 teamsplit`\n`.p5 vitalis`\n`.p5 greenbomb`",
+          "name": "Melee",
+          "value": "`.p1melee`\n\n`.p3melee ceilings`\n`.p3melee scopulus`\n`.p3melee vitalis`\n`.p3melee greenbomb`\n`.p3melee teamsplit`\n`.p3melee theend`\n\n`.p5melee purplebomb`\n`.p5melee teamsplit`\n`.p5melee vitalis`\n`.p5melee greenbomb`",
           "inline": true
         },
         {
-          "name": "Advanced rotations",
-          "value": "**Phase 1**\n`.p1 adv`\n\n**Phase 3**\n`.p3 adv ceilings`\n`.p3 adv scopulus`\n`.p3 adv vitalis`\n`.p3 adv greenbomb`\n`.p3 adv teamsplit`\n`.p3 adv theend`\n\n**Phase 5**\n`.p5 adv`\n`.p5 adv teamsplit`",
+          "name": "Ranged",
+          "value": "`.p1range`\n\n`.p3range ceilings`\n`.p3range scopulus`\n`.p3range vitalis`\n`.p3range greenbomb`\n`.p3range teamsplit`\n`.p3range theend`\n\n`.p5range purplebomb`\n`.p5range teamsplit`\n`.p5range vitalis`\n`.p5range greenbomb`",
+          "inline": true
+        },
+        {
+          "name": "Mage",
+          "value": "`.p1mage`\n\n`.p3mage ceilings`\n`.p3mage scopulus`\n`.p3mage vitalis`\n`.p3mage greenbomb`\n`.p3mage teamsplit`\n`.p3mage theend`\n\n`.p5mage purplebomb`\n`.p5mage teamsplit`\n`.p5mage vitalis`\n`.p5mage greenbomb`",
           "inline": true
         }
       ]
