@@ -11,7 +11,7 @@
             },
             {
                 "name": "────── Strategy: Phase 5 ──────",
-                "value": "• **Base/DPS**: Ultimate South on dropdown and use thresholds.\n• If it's on the BT, deal with it like on P3.\n• If a DPS gets it, go North and tank it (will be Intercepted).\n• Build to <:onslaught:707318842417872949> after bleeds. \n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with a threshold and build to 100%.\n• If it's on the BT, use thresholds. If not, <:barricade:751138571464998922> and <:intercept:628994881460895776> everyone.\n• *Switching (Trio)*: Build to ultimate",
+                "value": "• **Base/DPS**: Ultimate South on dropdown and use thresholds.\n• If it's on the BT, deal with it like on P3.\n• If a DPS gets it, go North and tank it (will be Intercepted).\n• Build to <:onslaught:707318842417872949> after bleeds. \n• **BT**: Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5.\n• Start with a threshold and build to 100%.\n• If it's on the BT, use thresholds. If not, <:barricade:751138571464998922> and <:intercept:628994881460895776> everyone.\n• *Switching (Trio)*: Build to ultimate.",
                 "inline": false
             }
         ],
