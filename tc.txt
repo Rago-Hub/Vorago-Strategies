@@ -1,8 +1,14 @@
 {
-    "embed": {
-        "description": "1. [Download Alt1](https://runeapps.org/alt1)\n\n2. Copy and paste this link in your browser\n`alt1://addapp/http://holycoil.nl/alt1/VoragoTag/appconfig.json`\n\n3. Open RuneApps Alt1 Toolkit\n\n4. To use it, Target Cycle once the timer reaches 0.6s",
-        "color": 50886,
-        "title": "Alt1 - Target Cycle Plugin"
+  "embeds": [
+    {
+      "title": "Target Cycle",
+      "color": 50886,
+      "description": "Target cycling (TC) is changing your current target or acquiring a new target with a keybind, instead of clicking it with your mouse. With the use of TC you are able to target and attack bosses before specific mechanics trigger, or even before they visibly appear.\nThis is specially useful at Vorago where you can attack before the mechanic starts.\nIn P5 (P10 in HM) start, you can even push Vorago multiple steps before the first special is released. Reference: `{{ prefix }}zerolink`.\n\n**Setup** - Open this image for [reference](https://imgur.com/a/8lQM1tp)\nSet keybinds for \"**Cycle Target Forwards**\" and \"**Cycle Target Backwards**\":\n• Forwards: Selects the target closest to you\n• Backwards: Selects the target furthest away from you\n• Set \"**Targeting mode**\" to \"**Radial**\"\n• Recommended maximum distance:  9\n\n**Timing TC**\n• To time Target Cycle simply use an ability with a 10 second cooldown on the last tick of a phase (same tick as crack healing)\n• The tick for TC is the moment your ability becomes ready again\n• *Important*: Bare in mind that you have to use the ability before Heal Other or your heal will not be cast\n\n__Cooldown Timing__\nIt is recommended to have the Mobile perk active and use Escape, Surge or Provoke as those can be used off GCD and provide the required 10 second cooldown. You learn timing TC best by practicing it. Set your Target Cycle settings as described and give it a try. Escape / Surge last tick of a phase, hit the TC :tc: keybind and any ability as the Escape / Surge comes off cooldown again.\nExample: [Escape cooldown for when to TC](https://imgur.com/a/mvbusBW)\n\n**Alt1 alternative**\nThis alt1 plugin is an alternative for TC. \n1. [Download Alt1](https://runeapps.org/alt1)\n2. Copy and paste this link in your browser\n`alt1://addapp/http://holycoil.nl/alt1/VoragoTag/appconfig.json`\n3. Open RuneApps Alt1 Toolkit\n4. Target Cycle once the timer reaches 0.6s",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
     }
+  ]
 }
-.embed:json
