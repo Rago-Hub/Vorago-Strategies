@@ -1,4 +1,15 @@
-$data_ragopvm:'Discord'!A38$
-$data_ragopvm:'Discord'!A39$
-$data_ragopvm:'Discord'!A40$
-$data_ragopvm:'Discord'!A41$
+{
+  "embeds": [
+    {
+      "title": "Phase 1 - Melee",
+      "color": 50886,
+      "description": "**$data_ragopvm:'Discord'!A3$**\n$data_ragopvm:'Discord'!B3$\n\n**$data_ragopvm:'Discord'!A4$**\n$data_ragopvm:'Discord'!B4$\n\n**$data_ragopvm:'Discord'!A5$**\n$data_ragopvm:'Discord'!B5$",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ]
+}
+.embed:json
