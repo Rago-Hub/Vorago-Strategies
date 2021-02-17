@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 3 The End",
+      "color": 16221227,
+      "description": "**TC**\n<:SuperiorStatiusWarhammer:612419367883505685>\n\n**The End**\n<:Preparation:612343232743079967> <:Anticipation:612415877643501635> <:Freedom:612343164392570969>\n\n**Quadrant 1**\n<:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:Decimate:629132764637036554> <:Attack:612413657661308950> <:Hurricane:629132870874693645> <:Quake:629136298887741490> <:Cleave:629132756903002122> <:Impatient:811283471599272046> <:Decimate:629132764637036554> devotion <:Attack:612413657661308950> <:Sever:629136387542876170> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:Dismember:612416146569691148>\n\n**Quadrant 4**\n<:Preparation:612343232743079967> <:Impatient:811283471599272046> <:Renewal:811286186823516181> <:Berserk:629132737852473354> <:Resonance:612343287835000832> <:Barge:629132727064461318> <:Destroy:629132772094640161>\n\n**Stand Up**\n<:Limitless:624339238296485928> dwassault <:GreaterFlurry:629132845322993697> <:Decimate:629132764637036554> <:Cleave:629132756903002122>",
+      "timestamp": "",
+      "author": {
+        "name": "Melee Rotations",
+        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
+        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
