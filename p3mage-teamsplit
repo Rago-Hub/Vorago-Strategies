@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 3 Team Split",
+      "color": 1652623,
+      "description": "**On Drop**\nPre-detonate is optional <:Detonate:603015480466210842>\n\n**TC**\n<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:GuthixStaff:612419359649824779>\n\n**Team Split**\n<:Preparation:612343232743079967> <:Anticipation:612415877643501635> <:Freedom:612343164392570969> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:CorruptionBlast:603015451437432834> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:Sacrifice:612415762682085376>\n\n**Reflect**\n<:StormShards:612415793941970944> <:Sunshine:603015844263362570> <:Renewal:811286186823516181> <:Resonance:612343287835000832> <:Provoke:612343255866146835> <:BloodBlitz:731811271304806400> <:SonicWave:603015822671085569> <:DragonBreath:603015526557679646>\n\n**Team Split**\n<:Preparation:612343232743079967> <:Reprisal:612415749168037908> <:Anticipation:612415877643501635> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>",
+      "timestamp": "",
+      "author": {
+        "name": "Mage Rotations",
+        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
+        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
