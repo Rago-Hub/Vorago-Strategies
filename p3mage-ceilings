@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 3 Ceiling Collapse",
+      "color": 1652623,
+      "description": "**On Drop**\n<:Sunshine:603015844263362570> <:Renewal:811286186823516181>\n\n**TC**\n<:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:Limitless:624339238296485928> <:WildMagic:603015901343776772>\n\n**Jump**\n<:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646>\n\n**Reflect**\n<:Resonance:612343287835000832> <:StormShards:612415793941970944> <:Preparation:612343232743079967> <:Detonate:603015480466210842> <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:Asphyxiate:603015374941847567> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569>\n\n**Jump**\n<:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>",
+      "timestamp": "",
+      "author": {
+        "name": "Range Rotations",
+        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
+        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.emmbed:json
