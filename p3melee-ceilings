@@ -17,7 +17,7 @@
         "url": ""
       },
       "footer": {
-        "text": "For more rotations use: `{{ prefix }}ability`",
+        "text": "For more rotations use: {{ prefix }}ability",
         "icon_url": ""
       },
       "fields": []
