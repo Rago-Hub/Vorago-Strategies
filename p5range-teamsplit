@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 5 Non-Team Split",
+      "color": 1806105,
+      "description": "**On Drop**\n<:Surge:612343348455407626> <:DeathsSwiftness:624335314454052879> <:Renewal:811286186823516181>\n\n**TC**\n<:DazingShot:624335299694297110>\n\n**Team Split**\n<:Anticipation:612415877643501635> <:Reprisal:612415749168037908> <:Freedom:612343164392570969> <:SerenGodbow:613342746455048192> <:Snipe:624335396578394124> <:Limitless:624339238296485928> <:RapidFire:624335359660261387> <:SnapShot:624335384993726474> <:DazingShot:624335299694297110>",
+      "timestamp": "",
+      "author": {
+        "name": "Range Rotations",
+        "url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881",
+        "icon_url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
