@@ -1,0 +1,53 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 3 Scopulus (Base)",
+      "color": 1652623,
+      "description": "**On Drop**\n<:Sunshine:603015844263362570> <:Renewal:811286186823516181>\n\n**TC**\n<:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:Chain:603015419540013076> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:Detonate:603015480466210842> <:BloodBarrage:612422231439441946> rdeto3t <:ConcentratedBlast:603015440595156992> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:DragonBreath:603015526557679646>",
+      "timestamp": "",
+      "author": {
+        "name": "Mage Rotations",
+        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
+        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
+{
+  "embeds": [
+    {
+      "title": "Phase 3 Scopulus (Bomb)",
+      "color": 1652623,
+      "description": "**On Drop**\n<:Sunshine:603015844263362570> <:Renewal:811286186823516181>\n\n**TC**\n<:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:Chain:603015419540013076> <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:Detonate:603015480466210842> <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:ConcentratedBlast:603015440595156992> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:CorruptionBlast:603015451437432834> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:DragonBreath:603015526557679646>",
+      "timestamp": "",
+      "author": {
+        "name": "Mage Rotations",
+        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
+        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}.embed:json
