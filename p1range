@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 1",
+      "color": 1806105,
+      "description": "**TC**\n<:NeedleStrike:624335344241868852> <:Provoke:612343255866146835> <:Snipe:624335396578394124> <:RapidFire:624335359660261387> <:NeedleStrike:624335344241868852> <:SnapShot:624335384993726474> <:Snipe:624335396578394124> <:NeedleStrike:624335344241868852> <:ShadowTendrils:624335376877748245> <:Attack:612413657661308950> <:FragmentationShot:624335321194299413> <:NeedleStrike:624335344241868852> <:SerenGodbow:613342746455048192> <:Snipe:624335396578394124> <:RapidFire:624335359660261387> <:NeedleStrike:624335344241868852> <:Impatient:811283471599272046> <:SnapShot:624335384993726474> <:Provoke:612343255866146835> <:DazingShot:624335299694297110>\n\n**Jump**\n<:Preparation:612343232743079967> <:Resonance:612343287835000832> <:Anticipation:612415877643501635> <:Freedom:612343164392570969>\n\n**Post-Jump**\n<:RapidFire:624335359660261387> <:NeedleStrike:624335344241868852> <:SerenGodbow:613342746455048192> <:Snipe:624335396578394124> <:SnapShot:624335384993726474>",
+      "timestamp": "",
+      "author": {
+        "name": "Range Rotations",
+        "url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881",
+        "icon_url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
