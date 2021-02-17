@@ -3,7 +3,7 @@
     {
       "title": "Vorago - Help",
       "color": 50886,
-      "description": "Vorago Strategies is a bot that has a lot of Vorago related information. Use it to find:\n• **Normal Mode** & **Hard Mode** strategies for each rotation\n• **NM**: Duo to 4 man. **HM**: 5 to 7 man.\n• **Ability rotations** from easy to advanced\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+      "description": "Vorago Strategies is a bot that has a lot of Vorago related information. Use it to find:\n• **Normal Mode** & **Hard Mode** strategies for each rotation\n• **NM**: Duo to 4 man. **HM**: 5 to 7 man.\n• **Ability rotations** from Easy to Advanced\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
       "author": {},
       "image": {},
       "thumbnail": {},
@@ -21,12 +21,12 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Full list: `{{ prefix }}duo`. Examples:\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p3 vitalis`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 teamsplit`",
+          "value": "Full list: `{{ prefix }}ability` or `{{ prefix }}duo`. Example:\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p3 vitalis`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 teamsplit`",
           "inline": true
         },
         {
           "name": "Miscellaneous",
-          "value": "`{{ prefix }}vorago`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`\n`{{ prefix }}zerolink`\n`{{ prefix }}sololure`",
+          "value": "`{{ prefix }}vorago`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`\n`{{ prefix }}zerolink`\n`{{ prefix }}sololure`\n`{{ prefix }}clone`",
           "inline": true
         },
         {
