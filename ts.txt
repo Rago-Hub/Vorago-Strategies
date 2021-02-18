@@ -1,11 +1,15 @@
 {
   "embeds": [
     {
-      "title": "Team Split [NM]",
+      "title": "Team Split",
       "color": 14761277,
       "description": "• Two 2X2 color boxes (one red & one blue), will spawn from P3 to 5. Go inside your colour to avoid the 8K typeless hit. If you'll tank a TS, use a <:powerburstofvitality:680221224093483131> to save some HP.\n\n**Phase 3**\n*TS*→ 3 Att→ OFF→ 3 Att→ *TS*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *TS*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
-      "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw",
-      "author": {},
+      "url": "",
+      "author": {
+        "name": "Normal Mode strategies",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
       "image": {},
       "thumbnail": {},
       "footer": {},
