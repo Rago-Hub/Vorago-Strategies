@@ -1,11 +1,15 @@
 {
   "embeds": [
     {
-      "title": "Ceiling Collapse [NM]",
+      "title": "Ceiling Collapse",
       "color": 9849605,
       "description": "Enable Shadows (at least Medium) to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
-      "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw",
-      "author": {},
+      "url": "",
+      "author": {
+        "name": "Normal Mode strategies",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
       "image": {},
       "thumbnail": {},
       "footer": {},
