@@ -2,11 +2,15 @@
   "content": "",
   "embeds": [
     {
-      "title": "Ability rotations",
+      "title": "Basic strategies",
       "color": 50886,
-      "description": "Add `adv` before the rotation name to get the advanced strategy.\nExample: `{{ prefix }}p3melee adv vitalis` or `{{ prefix }}p5mage adv teamsplit`.",
+      "description": "",
       "timestamp": "",
-      "author": {},
+      "author": {
+        "name": "Ability Rotations",
+        "url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png",
+        "icon_url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png"
+      },
       "image": {},
       "thumbnail": {},
       "footer": {},
@@ -18,12 +22,49 @@
         },
         {
           "name": "Ranged",
-          "value": "`.p1range`\n\n`.p3range ceilings`\n`.p3range scopulus`\n`.p3range vitalis`\n`.p3range greenbomb`\n`.p3range teamsplit`\n`.p3range theend`\n\n`.p5range`\n`.p5range teamsplit`",
+          "value": "`.p1range`\n\n`.p3range ceilings`\n`.p3range vitalis`\n`.p3range greenbomb`\n`.p3range teamsplit`\n`.p3range theend`\n\n`.p5range`\n`.p5range teamsplit`",
           "inline": true
         },
         {
           "name": "Mage",
           "value": "`.p1mage`\n\n`.p3mage ceilings`\n`.p3mage scopulus`\n`.p3mage vitalis`\n`.p3mage greenbomb`\n`.p3mage teamsplit`\n`.p3mage theend`\n\n`.p5mage`\n`.p5mage teamsplit`",
+          "inline": true
+        }
+      ]
+    }
+  ]
+}
+.embed:json
+{
+  "content": "",
+  "embeds": [
+    {
+      "title": "Advanced strategies",
+      "color": 50886,
+      "description": "",
+      "timestamp": "",
+      "author": {
+        "name": "",
+        "url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png",
+        "icon_url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Melee",
+          "value": "`.p1melee adv`\n\n`.p3melee adv ceilings`\n`.p3melee adv scopulus`\n`.p3melee adv vitalis`\n`.p3melee adv greenbomb`\n`.p3melee adv teamsplit`\n`.p3melee adv theend`\n\n`.p5melee adv`\n`.p5melee adv teamsplit`",
+          "inline": true
+        },
+        {
+          "name": "Ranged",
+          "value": "`.p1range adv`\n\n`.p3range adv ceilings`\n`.p3range adv scopulus`\n`.p3range adv vitalis`\n`.p3range adv greenbomb`\n`.p3range adv teamsplit`\n`.p3range adv theend`\n\n`.p5range adv`\n`.p5range adv teamsplit`",
+          "inline": true
+        },
+        {
+          "name": "Mage",
+          "value": "`.p1mage adv`\n\n`.p3mage adv ceilings`\n`.p3mage adv scopulus`\n`.p3mage adv vitalis`\n`.p3mage adv greenbomb`\n`.p3mage adv teamsplit`\n`.p3mage adv theend`\n\n`.p5mage adv`\n`.p5mage adv teamsplit`",
           "inline": true
         }
       ]
