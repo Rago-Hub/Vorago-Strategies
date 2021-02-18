@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 3 Ceiling Collapse",
+      "color": 1652623,
+      "description": "• Natty: -30, Second Jump\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:Wrack:603015911384940545> <:Provoke:612343255866146835> <:Wrack:603015911384940545> <:Chain:603015419540013076>\n\n**Crack**\n<:Preparation:612343232743079967> <:BladedDive:612415619958046720> <:Sunshine:603015844263362570> <:Renewal:811286186823516181> <:Anticipation:612415877643501635> <:dbowauto:811018359507255296> <:Freedom:612343164392570969> <:GuthixStaff:612419359649824779>\n\n**TC**\n<:Vulnerability:625788254674747392> <:WildMagic:603015901343776772> <:Impact:603015572095238157> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779> <:Asphyxiate:603015374941847567>\n\n**Jump**\n<:GuthixStaff:612419359649824779>\n\n**Reflect**\n<:divert:811984930602877001> <:StormShards:612415793941970944> <:Preparation:612343232743079967> <:Detonate:603015480466210842> <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:CorruptionBlast:603015451437432834> <:Limitless:624339238296485928> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:DragonBreath:603015526557679646> <:Impatient:811283471599272046>\n\n**Jump**\n<:Asphyxiate:603015374941847567> <:GuthixStaff:612419359649824779>",
+      "timestamp": "",
+      "author": {
+        "name": "Advanced Mage Rotations",
+        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
+        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
