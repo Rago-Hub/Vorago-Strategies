@@ -24,7 +24,7 @@
     }
   ]
 }
-.emnbed:json
+.embed:json
 {
   "embeds": [
     {
@@ -51,4 +51,4 @@
     }
   ]
 }
-.emnbed:json
+.embed:json
