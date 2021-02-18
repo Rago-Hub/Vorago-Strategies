@@ -1,12 +1,16 @@
 {
   "embeds": [
     {
-      "title": "Vitalis - Normal Mode",
+      "title": "Vitalis",
       "color": 26316,
       "description": "Step back to block the Orb on P4 & P5. On Phase 4 it spawns NE unless Vorago was walked before the Special. Don't run to the orb on P3.\nFor the ability rotations use: `.p3 vitalis`\n\n**Phase 3**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 5 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Vit*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
       "timestamp": "",
-      "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw",
-      "author": {},
+      "url": "",
+      "author": {
+        "name": "Normal Mode strategies",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
       "image": {},
       "thumbnail": {},
       "footer": {},
