@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 1",
+      "color": 1806105,
+      "description": "**TC**\n<:GreaterRicochet:788061815271718943> <:Snipe:624335396578394124> <:SnapShot:624335384993726474> <:NeedleStrike:624335344241868852> <:SerenGodbow:613342746455048192> <:FragmentationShot:624335321194299413> <:EldritchCrossbow:644271590133071883> <:Attack:612413657661308950> <:GreaterRicochet:788061815271718943> <:CorruptionShot:624335289501876276> <:Limitless:624339238296485928> <:RapidFire:624335359660261387> <:Snipe:624335396578394124> <:GreaterRicochet:788061815271718943> <:DazingShot:624335299694297110> <:FragmentationShot:624335321194299413> <:NeedleStrike:624335344241868852> <:SnapShot:624335384993726474> <:Snipe:624335396578394124> <:GreaterRicochet:788061815271718943>",
+      "timestamp": "",
+      "author": {
+        "name": "Advanced Range Rotations",
+        "url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881",
+        "icon_url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
