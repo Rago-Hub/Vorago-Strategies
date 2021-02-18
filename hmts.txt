@@ -1,11 +1,15 @@
 {
   "embeds": [
     {
-      "title": "Team Split [HM]",
+      "title": "Team Split",
       "color": 14761277,
       "description": "• TS→ Reflect→ TS tank→ Repeat. If you are tanking, use <:reprisal:707318843743404102> for that TS.\n• If the even TS spawns far: DPS tank. Opposite case: BTs tank, and DPS can go in.\n\n**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *TS*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*TS* (ODD)→ 3 Att→ OFF→ 3 Att→ *TS* (EVEN)→ 3 Att\n**Phase 11**\n*TS*→ 3 Att→ OFF→ 3 Att→ *PB*→ 5 Att",
-      "url": "https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw",
-      "author": {},
+      "url": "",
+      "author": {
+        "name": "Hard Mode strategies",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
       "image": {},
       "thumbnail": {},
       "footer": {},
