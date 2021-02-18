@@ -21,7 +21,7 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Full list: `{{ prefix }}ability` or `{{ prefix }}duo`. Example:\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p3 vitalis`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 teamsplit`",
+          "value": "Full list: `{{ prefix }}ability`. Example:\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p3 vitalis`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 teamsplit`",
           "inline": true
         },
         {
@@ -30,13 +30,13 @@
           "inline": true
         },
         {
-          "name": "More guides",
-          "value": "• [Basic NM Guide](https://docs.google.com/document/d/14xHUtihIf5LyjFQ04YPRwUR9VbP6zvAVl-gofWUnwgM/edit?usp=sharing)\n• [Roles Miniguide](https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw/edit?usp=sharing)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)",
+          "name": "Mechanics",
+          "value": "More coming soon\n`{{ prefix }}reflect`",
           "inline": true
         },
         {
-          "name": "Discord",
-          "value": "• [Rago PvM](https://discord.gg/Q8xpnYp)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
+          "name": "Other",
+          "value": "• [Basic NM Guide](https://docs.google.com/document/d/14xHUtihIf5LyjFQ04YPRwUR9VbP6zvAVl-gofWUnwgM/edit?usp=sharing)\n• [Roles Miniguide](https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw/edit?usp=sharing)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)\n\n**Discord**\n• [Rago PvM](https://discord.gg/Q8xpnYp)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
           "inline": true
         }
       ]
