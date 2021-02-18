@@ -1,0 +1,27 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 5 Melee & Range",
+      "color": 1806105,
+      "description": "• Natty: -30, Second Jump\n\n**Vorago's Death**\n<:Provoke:612343255866146835> <:PiercingShot:624335352433344552> <:NaturalInstinct:612343197489692672> <:PiercingShot:624335352433344552> <:FragmentationShot:624335321194299413> <:Provoke:612343255866146835> <:PiercingShot:624335352433344552>\n\n**Crack**\n<:Resonance:612343287835000832> <:Surge:612343348455407626> <:DeathsSwiftness:624335314454052879> <:Anticipation:612415877643501635> <:dbowauto:811018359507255296> <:Renewal:811286186823516181> <:NeedleStrike:624335344241868852> <:SnapShot:624335384993726474>\n\n**TC**\n<:Vulnerability:625788254674747392> <:SerenGodbow:613342746455048192> <:Snipe:624335396578394124> <:RapidFire:624335359660261387> <:GreaterRicochet:788061815271718943> <:Impatient:811283471599272046> <:ShadowTendrils:624335376877748245> <:dbowauto:811018359507255296>",
+      "timestamp": "",
+      "author": {
+        "name": "Advanced Range Rotations",
+        "url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881",
+        "icon_url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
