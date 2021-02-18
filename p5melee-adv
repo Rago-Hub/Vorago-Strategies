@@ -1,0 +1,54 @@
+{
+  "embeds": [
+    {
+      "title": "Phase 5 Melee & Ranged",
+      "color": 16221227,
+      "description": "• Natty: -27, Second Land\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552> <:Provoke:612343255866146835> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552>\n\n**Crack**\n<:Berserk:629132737852473354> <:Anticipation:612415877643501635> <:Freedom:612343164392570969> <:Renewal:811286186823516181> <:Barge:629132727064461318> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**TC**\n<:Vulnerability:625788254674747392> <:Decimate:629132764637036554> <:Assault:629132704163692544> <:VestasLongsword:688114196285620331> <:Ingen:811285659460304957> <:Limitless:624339238296485928> <:Quake:629136298887741490> <:VestasLongsword:688114196285620331> <:Hurricane:629132870874693645> <:Cleave:629132756903002122>",
+      "timestamp": "",
+      "author": {
+        "name": "Advanced Melee Rotations",
+        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
+        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.emnbed:json
+{
+  "embeds": [
+    {
+      "title": "Phase 5 Melee & Mage",
+      "color": 16221227,
+      "description": "• Natty: -27, Second Land\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552> <:Provoke:612343255866146835> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552>\n\n**Crack**\n<:Berserk:629132737852473354> <:Anticipation:612415877643501635> <:Freedom:612343164392570969> <:Renewal:811286186823516181> <:Barge:629132727064461318> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**TC**\n<:Vulnerability:625788254674747392> <:Assault:629132704163692544> <:VestasLongsword:688114196285620331> <:Ingen:811285659460304957> <:Limitless:624339238296485928> <:Quake:629136298887741490> <:Cleave:629132756903002122> <:Sever:629136387542876170> <:Hurricane:629132870874693645> <:VestasLongsword:688114196285620331>",
+      "timestamp": "",
+      "author": {
+        "name": "Advanced Melee Rotations",
+        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
+        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "text": "For more rotations use: {{ prefix }}ability",
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.emnbed:json
