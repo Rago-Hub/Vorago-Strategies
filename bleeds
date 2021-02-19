@@ -4,20 +4,22 @@
     {
       "title": "Bleeds",
       "color": 13958912,
-      "description": "Vorago smashes his main target with both hands inflicting a Bleed  on them that deals 1200 melee damage every other tick (3000 in Hard Mode) and resets all defensive abilities.\n\n• Bleeds show up in the debuff bar with a <:Dismember:612416146569691148> icon\n• Vorago applies 5 Bleed on Phases 2, 3 and 4. On Phase 5 only 3 Bleeds will happen\n• A typless of 6000 damage (4500 on Phase 5) will be applied if another Bleed is received before the previous one is cleared\n• Bleed damage decreases with higher distance to vorago clearing at 6 squares away\n\n**Clearing Bleeds**\n__Phase 2, 3 and 4__\nThere are two primary ways of clearing a bleed\n• <:Freedom:612343164392570969>\n• Distancing - Being at least 7 tiles away from Vorago. To achieve this without taking a single bleed hit you can use <:Escape:612343146570842115>, <:BladedDive:612415619958046720> or <:Surge:612343348455407626>\n\nIn phases 2 - 4 (phases 2 - 9 in Hard Mode) there must be 7 tiles between Vorago and your character.\n\nIn phases 5 and 10 / 11 due to the nature of Vorago and the arena distancing works slightly different to other phases There must be 7 tiles between the location you received the Bleed <:Dismember:612416146569691148> at and your character's position. Here again you can simply use <:Escape:612343146570842115> <:Escape:612343146570842115> Bladed Dive <:BladedDive:612415619958046720> or <:Surge:612343348455407626> <:Surge:612343348455407626> but additionally you can make use of <:Barge:629132727064461318> <:Barge:629132727064461318> - Having a distance of 7 tiles or greater to melee distance of Vorago provides you with the capability of barging onto Vorago setting yourself 7 or more tiles away from the original location where the Bleed was applied. Bare in mind that staying too close to Vorago and at an edge either north or south of the arena will result in escaping diagonally. You can avoid this by taking 1 step to the center.\n\n__Phase 5__",
-      "timestamp": "",
+      "description": "Vorago smashes his main target with both hands inflicting a Bleed  on them that deals 1200 melee damage every other tick (3000 in Hard Mode) and resets all defensive abilities.\n\n• Bleeds show up in the debuff bar with a <:Dismember:612416146569691148> icon\n• Vorago applies 5 Bleed on Phases 2, 3 and 4. On Phase 5 only 3 Bleeds will happen\n• A typless of 6000 damage (4500 on Phase 5) will be applied if another Bleed is received before the previous one is cleared\n• Bleed damage decreases with higher distance to vorago clearing at 6 squares away\n\n**Clearing Bleeds**\n__Phases 2 to 4__\nThere are two primary ways of clearing a bleed:\n• Freedom <:Freedom:612343164392570969>\n• Distancing with <:Escape:612343146570842115>, <:Surge:612343348455407626> or <:BladedDive:612415619958046720>\n\n__Phase 5__\n• Freedom :Freedom: first Bleed\n• Escape <:Escape:612343146570842115> second Bleed\n• Bladed Dive <:BladedDive:612415619958046720> or Barge <:Barge:629132727064461318> last Bleed\n\nAlternatively you can also use Surge if staying 7+ tiles away from Vorago. You can of course switch around the order in which you clear each Bleed.\n\nOn this Phase there must be 7 tiles between the location you received the Bleed at and your character's position.\nBeing too close to Vorago and at an edge North or South of the arena will result in escaping diagonally. To avoid this always go to the middle and in melee distance as soon as Bleeds start regardless of who got the first bleed.\n\n\n",
+      "timestamp": null,
       "author": {
         "name": "Vorago Mechanics",
         "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
         "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
       },
       "image": {
-        "url": "https://i.imgur.com/sXR9B5R.gifv"
+        "url": ""
       },
       "thumbnail": {
         "url": ""
       },
-      "footer": {},
+      "footer": {
+        "icon_url": ""
+      },
       "fields": []
     }
   ]
