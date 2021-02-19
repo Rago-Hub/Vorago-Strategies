@@ -1,0 +1,27 @@
+{
+  "avatar_url": "",
+  "embeds": [
+    {
+      "title": "Bring Him Down",
+      "color": 13958912,
+      "description": "__Gravity Fields__\nThroughout phase 2 Vorago spawns Gravity Fields <:gravityfield:812441068758499329> (also known as Orbs) that have to be clicked so that Vorago absorbs them. Vorago has to be close enough to them so they can be clicked.\nEach Orb <:gravityfield:812441068758499329> spawns in a random quadrant during Reflect. This is why Vorago should be kept in the Base spot, as he can reach all the Orbs from there. Once the 4th Orb has been tagged Vorago will proceed to do Bring Him Down.\n\n__Bring Him Down (BHD)__\nA bar will appear over Vorago and you need to click him to fill it. Only one click per tick is registered, so you don't need to spam it as the speed won't register more click. Everyone will receive a 150 typeless hit every few ticks until the bar is filled. Avoid standing under Vorago during BHD.\nOnce the bar is full, you need o pass a 50k DMG test during 12 seconds. If you fail the damage required, Vorago will heal to 250k and 2 more Orbs will have to be tagged until you're able to repeat BHD.\nFinishing the Bring Him Down mechanic will loosen and drop the second maul piece.\n\nAfter the BHD has been passed Vorago can be killed and progressed to Phase 3.",
+      "timestamp": null,
+      "author": {
+        "name": "Vorago Mechanics",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
