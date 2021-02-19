@@ -21,7 +21,7 @@
       "fields": [
         {
           "name": "Red Bomb",
-          "value": "For a strategy on how to deal with Red Bombs <:redbomb:508944149257519104> refer to `{{ prefix }}cadecept`\n\n• Damage type Typeless\n• Affected area 2 tile radius (5x5 area)\n• Damage dealt 2000 increasing by 1000 for every player within a 5 tile radius capping at 7000\n• Hard Mode: 3000 increasing by 1500 for every player within a 5 tile radius capping at 10500\n• Cancels defensives\n\n__Non-Homing Blue Bomb__\n• This bomb behaves exactly like the normal attack Blue Bomb <:bluebomb:508944148557201408>\n• It targets the player's location at the time of launching instead of tracing the player\n• The Non-Homing Blue Bomb always hits before the Red Bomb (can be resonanced Resonance)\n• You can avoid damage by running away right after the Red Bomb has been launched"
+          "value": "For a strategy on how to deal with Red Bombs <:redbomb:508944149257519104> refer to `{{ prefix }}cadecept`\n\n• Damage type Typeless\n• Affected area 2 tile radius (5x5 area)\n• Damage dealt 2000 increasing by 1000 for every player within a 5 tile radius (11x11 area) capping at 7000\n• Hard Mode: 3000 increasing by 1500 for every player within a 5 tile radius (11x11 area) capping at 10500\n• Cancels defensives\n\n__Non-Homing Blue Bomb__\n• This bomb behaves exactly like the normal attack Blue Bomb <:bluebomb:508944148557201408>\n• It targets the player's location at the time of launching instead of tracing the player\n• The Non-Homing Blue Bomb always hits before the Red Bomb (can be resonanced Resonance)\n• You can avoid damage by running away after the <:redbomb:508944149257519104> has been launched"
         }
       ]
     }
