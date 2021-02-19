@@ -26,7 +26,7 @@
         },
         {
           "name": "Miscellaneous",
-          "value": "`{{ prefix }}vorago`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`\n`{{ prefix }}zerolink`\n`{{ prefix }}sololure`\n`{{ prefix }}cloneskip`",
+          "value": "`{{ prefix }}vorago`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`\n`{{ prefix }}zerolink`\n`{{ prefix }}sololure`\n`{{ prefix }}cadecept`\n`{{ prefix }}cloneskip`",
           "inline": true
         },
         {
