@@ -2,9 +2,13 @@
   "embeds": [
     {
       "title": "Stone Clone",
-      "color": 50886,
+      "color": 13958912,
       "description": "Vorago performs an attack visually similar to a melee <:Attack:612413657661308950> cloning selected players <:Vitalis:509426413112131620>. After this special Vorago's damage taken is reduced by approximately 80%.\n\n• Stone Clones always spawn three Auto Attacks <:bluebomb:508944148557201408> after a Waterfall waterfall\n• Combat style The same as their target used at the time of creation\n• One Stone Clone is spawned for every 7 players in the arena (clone count is doubled in Hard Mode)\n• The Base Tank never receives a clone\n• They can only be damaged by their target or someone who has already killed their clone\n• In Hard Mode Stone Clones begin their ability order with stunning the player",
-      "author": {},
+      "author": {
+        "name": "Vorago Mechanics",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
       "image": {
         "url": ""
       },
