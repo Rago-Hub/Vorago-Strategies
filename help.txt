@@ -35,7 +35,7 @@
         },
         {
           "name": "Mechanics",
-          "value": "More coming soon\n`{{ prefix }}attacks`\n`{{ prefix }}reflect`\n`{{ prefix }}bleeds`\n`{{ prefix }}bhd`\n`{{ prefix }}clone`\n`{{ prefix }}waterfall`",
+          "value": "`{{ prefix }}attacks`\n`{{ prefix }}reflect`\n`{{ prefix }}bleeds`\n`{{ prefix }}bhd`\n`{{ prefix }}clone`\n`{{ prefix }}waterfall`",
           "inline": true
         },
         {
