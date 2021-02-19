@@ -31,7 +31,7 @@
         },
         {
           "name": "Mechanics",
-          "value": "More coming soon\n`{{ prefix }}reflect`",
+          "value": "More coming soon\n`{{ prefix }}attacks`\n`{{ prefix }}reflect`",
           "inline": true
         },
         {
