@@ -1,0 +1,30 @@
+{
+  "avatar_url": "",
+  "embeds": [
+    {
+      "title": "Attacks",
+      "color": 13958912,
+      "description": "**Auto Attacks**\n\nVorago has 2 different basic attacks Blue Bombs <:bluebomb:508944148557201408> and melee Swipes <:Attack:612413657661308950> When the person holding Vorago's aggression (the Base Tank) stays in melee distance there is a 0.5 chance for Vorago to trigger each of his <:BloodBarrage:612422231439441946> Attacks. Vorago can fire both a Blue Bomb and use a <:Attack:612413657661308950> in the same action. If the Base Tank does not stay in melee distance Vorago throws a Blue Bomb guaranteed.\n\n<:bluebomb:508944148557201408> __Blue Bombs__\n• Damage type Magic <:deflectmagic:812294567247872021>\n• Affected area 3 tile radius (7x7 area)\n• Blue Bombs can not splash\n• Vorago always fires the Blue Bomb <:bluebomb:508944148557201408> to the player farthest away within his attack range\n• With 11 or more players in Normal Mode or at any team size in Hard Mode Vorago fires two Blue Bombs <:bluebomb:508944148557201408> at once\n\n<:Attack:612413657661308950> __Melee Swipes__\n• Damage type Melee <:deflectmelee:812294553096421386>\n• Affected area 2 tile radius (5x5 area) around the main target and in melee distance (area of 7x7 tiles from Vorago's center)\n• Swipes can splash\n• Vorago performs a <:Attack:612413657661308950> to his primary target (Base Tank)\n** **",
+      "timestamp": "",
+      "author": {
+        "name": "Vorago Mechanics",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {},
+      "fields": [
+        {
+          "name": "Red Bomb",
+          "value": "For a strategy on how to deal with Red Bombs <:redbomb:508944149257519104> refer to `{{ prefix }}cadecept`\n\n• Damage type Typeless\n• Affected area 2 tile radius (5x5 area)\n• Damage dealt 2000 increasing by 1000 for every player within a 5 tile radius capping at 7000\n• Hard Mode: 3000 increasing by 1500 for every player within a 5 tile radius capping at 10500\n• Cancels defensives\n\n__Non-Homing Blue Bomb__\n• This bomb behaves exactly like the normal attack Blue Bomb <:bluebomb:508944148557201408>\n• It targets the player's location at the time of launching instead of tracing the player\n• The Non-Homing Blue Bomb always hits before the Red Bomb (can be resonanced Resonance)\n• You can avoid damage by running away right after the Red Bomb has been launched"
+        }
+      ]
+    }
+  ]
+}
+.embed:json
