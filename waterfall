@@ -1,0 +1,27 @@
+{
+  "avatar_url": "",
+  "embeds": [
+    {
+      "title": "Waterfalls",
+      "color": 13958912,
+      "description": "The Waterfall <:waterfall:812439813286264843> mechanic is unique to phase 4 (phase 9 in Hard Mode) and occurs at all weekly rotations.\n\n• All active defensive abilities are reset\n• Vorago charges a blast dealing 9000 - 10000 typeless damage (10000 - 11000 in Hard Mode)\n• A <:waterfall:812439813286264843> appears in a random corner. Stand behind it to block the blast\n• Duration 10.2 seconds (7.8 in Hard Mode)\n• After the third <:waterfall:812439813286264843> the last maul piece drops on the floor and Vorago can be phased",
+      "timestamp": null,
+      "author": {
+        "name": "Vorago Mechanics",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {
+        "url": ""
+      },
+      "thumbnail": {
+        "url": ""
+      },
+      "footer": {
+        "icon_url": ""
+      },
+      "fields": []
+    }
+  ]
+}
+.embed:json
