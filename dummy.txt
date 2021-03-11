@@ -20,7 +20,7 @@
         },
         {
           "name": "Phase end dummy",
-          "value": "• Phase 2 (during BHD)\n• Scopulus (South)\n• Phase 9 (melee distance)\n• Phase 10 (before maul)",
+          "value": "• Phase 2 (during BHD)\n• Scopulus (South)\n• Phase 9 (Last Waterfall)\n• Phase 10 (before maul)",
           "inline": true
         }
       ]
