@@ -3,7 +3,7 @@
     {
       "title": "Vorago Bot",
       "color": 50886,
-      "description": "Vorago is a bot that has a lot of Vorago related information. Use it to find:\n• **Normal Mode** & **Hard Mode** strategies for each rotation\n• **NM**: Duo to 4 man. **HM**: 5 to 7 man.\n• **Ability rotations** from Easy to Advanced\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+      "description": "Vorago is a bot that has a lot of Vorago related information. Use it to find:\n• **Normal Mode** & **Hard Mode** strategies for each rotation\n• **NM**: Duo to 4 man. **HM**: 5 to 7 man.\n• **Ability rotations** from Easy to Advanced\n• `.guide` Retrieve specific information of any Vorago guide\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
       "author": {
         "name": "Help",
         "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
@@ -39,8 +39,8 @@
           "inline": true
         },
         {
-          "name": "Guides",
-          "value": ".guide Retrieve specific information of any Vorago guide",
+          "name": "Discord",
+          "value": "• [Rago PvM](https://discord.gg/Q8xpnYp)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
           "inline": true
         }
       ]
