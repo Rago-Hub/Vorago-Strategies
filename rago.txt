@@ -1,11 +1,11 @@
 {
   "embeds": [
     {
-      "title": "Vorago Information",
+      "title": "Current Rotation",
       "color": 50886,
       "description": "Current rotation: **$data_ragopvm:'Info HM'!A17$** for an additional **$data_ragopvm:'Info HM'!B20$ resets**.\nNext rotation: **$data_ragopvm:'Info HM'!H17$**.",
       "author": {
-        "name": "Current Rotation",
+        "name": "Miscellaneous",
         "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
         "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
       },
