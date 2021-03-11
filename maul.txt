@@ -1,4 +1,4 @@
-{{
+{
   "embeds": [
     {
       "title": "Maul guide for Hard Mode",
