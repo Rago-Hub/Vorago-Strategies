@@ -25,7 +25,7 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Full list: `{{ prefix }}ability`. Example:\n`{{ prefix }}p3 ceilings`\n`{{ prefix }}p3 scopulus`\n`{{ prefix }}p3 vitalis`\n`{{ prefix }}p5 purplebomb`\n`{{ prefix }}p5 teamsplit`",
+          "value": "Full list: `{{ prefix }}ability`. Example:\n`{{ prefix }}p3mage ceilings`\n`{{ prefix }}p3melee scopulus`\n`{{ prefix }}p3range vitalis`\n`{{ prefix }}p5range`\n`{{ prefix }}p5mage teamsplit`",
           "inline": true
         },
         {
