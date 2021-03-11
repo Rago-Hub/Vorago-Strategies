@@ -1,19 +1,29 @@
 {
-    "embed": {
-        "title": "Vorago - Droprates (per slot)",
-        "color": 65535,
-        "fields": [
-            {
-                "name": "Pets",
-                "value": "<:Vitalis:509426413112131620> Vitalis: 1/5000 NM, 1/2500 HM\n<:bluebomb:508944148557201408> Bomb: 1/100 HM only ",
-                "inline": false
-            },
-            {
-                "name": "Rares",
-                "value": "<:wand:663443694786969631> Seismic Wand: 1/200 NM, 1/100 HM\n<:seismicsingularity:708524420289003591> Seismic Singularity: 1/200 NM, 1/100 HM",
-                "inline": false
-            }
-        ]
+  "embeds": [
+    {
+      "title": "Droprates (per slot)",
+      "color": 65535,
+      "author": {
+        "name": "Miscellaneous",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Pets",
+          "value": "<:Vitalis:509426413112131620> Vitalis: 1/5000 NM, 1/2500 HM\n<:bluebomb:508944148557201408> Bomb: 1/100 HM only ",
+          "inline": false
+        },
+        {
+          "name": "Rares",
+          "value": "<:wand:663443694786969631> Seismic Wand: 1/200 NM, 1/100 HM\n<:seismicsingularity:708524420289003591> Seismic Singularity: 1/200 NM, 1/100 HM",
+          "inline": false
+        }
+      ]
     }
+  ]
 }
 .embed:json
