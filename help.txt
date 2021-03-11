@@ -39,8 +39,8 @@
           "inline": true
         },
         {
-          "name": "Other",
-          "value": "• [Basic NM Guide](https://docs.google.com/document/d/14xHUtihIf5LyjFQ04YPRwUR9VbP6zvAVl-gofWUnwgM/edit?usp=sharing)\n• [Roles Miniguide](https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw/edit?usp=sharing)\n• [Bomb Tank HM](https://bit.ly/3ateJvN)\n\n**Discord**\n• [Rago PvM](https://discord.gg/Q8xpnYp)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
+          "name": "Guides",
+          "value": ".guide Retrieve specific information of any Vorago guide",
           "inline": true
         }
       ]
