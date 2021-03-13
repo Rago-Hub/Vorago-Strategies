@@ -3,7 +3,7 @@
     {
       "title": "Vorago Bot",
       "color": 50886,
-      "description": "Vorago is a bot that has a lot of Vorago related information. Use it to find:\n• **Normal Mode** & **Hard Mode** strategies for each rotation\n• **NM**: Duo to 4 man. **HM**: 5 to 7 man.\n• **Ability rotations** from Easy to Advanced\n• `.guide` Retrieve specific information of any Vorago guide\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+      "description": "Vorago is a bot that has a lot of Vorago related information. Use it to find:\n• **Normal Mode** & **Hard Mode** strategies for each rotation\n• **NM**: Duo to 4 man. **HM**: 5 to 7 man.\n• **Ability rotations** from Easy to Advanced. Full list: `{{ prefix }}ability`\n• `.guide` Retrieve specific information of any Vorago guide\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
       "author": {
         "name": "Help",
         "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
@@ -25,7 +25,7 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Full list: `{{ prefix }}ability`\nUse: `phase style rotation`\n\n`{{ prefix }}p3 mage ceiling`\n`{{ prefix }}p3 melee scopulus`\n`{{ prefix }}p3 range vitalis`\n`{{ prefix }}p5 range`\n`{{ prefix }}p5 mage teamsplit`",
+          "value": "Use: `phase style rotation`\n\n`{{ prefix }}p3 mage ceiling`\n`{{ prefix }}p3 melee scopulus`\n`{{ prefix }}p3 range vitalis`\n`{{ prefix }}p5 range`\n`{{ prefix }}p5 mage teamsplit`",
           "inline": true
         },
         {
