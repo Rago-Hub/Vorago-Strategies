@@ -15,17 +15,17 @@
       "fields": [
         {
           "name": "Normal Mode",
-          "value": "`{{ prefix }}ceiling`\n`{{ prefix }}scopulus`\n`{{ prefix }}vitalis`\n`{{ prefix }}greenbomb`\n`{{ prefix }}teamsplit`\n`{{ prefix }}theend`",
+          "value": "Use: `nm rotation`.\n`{{ prefix }}nm ceiling`\n`{{ prefix }}nm scopulus`\n`{{ prefix }}nm vitalis`\n`{{ prefix }}nm greenbomb`\n`{{ prefix }}nm teamsplit`\n`{{ prefix }}nm theend`",
           "inline": true
         },
         {
           "name": "Hard Mode",
-          "value": "`{{ prefix }}hmceiling`\n`{{ prefix }}hmscopulus`\n`{{ prefix }}hmvitalis`\n`{{ prefix }}hmgreenbomb`\n`{{ prefix }}hmteamsplit`\n`{{ prefix }}hmtheend`",
+          "value": "Use: `hm rotation`.\n`{{ prefix }}hm ceiling`\n`{{ prefix }}hm scopulus`\n`{{ prefix }}hm vitalis`\n`{{ prefix }}hm greenbomb`\n`{{ prefix }}hm teamsplit`\n`{{ prefix }}hm theend`",
           "inline": true
         },
         {
           "name": "Ability Rotations",
-          "value": "Full list: `{{ prefix }}ability`. Examples:\n`{{ prefix }}p3mage ceilings`\n`{{ prefix }}p3melee scopulus`\n`{{ prefix }}p3range vitalis`\n`{{ prefix }}p5range`\n`{{ prefix }}p5mage teamsplit`",
+          "value": "Full list: `{{ prefix }}ability`.\nUse: `phase style rotation`.\n`{{ prefix }}p3 mage ceiling`\n`{{ prefix }}p3 melee scopulus`\n`{{ prefix }}p3 range vitalis`\n`{{ prefix }}p5 range`\n`{{ prefix }}p5 mage teamsplit`",
           "inline": true
         },
         {
@@ -34,7 +34,7 @@
           "inline": true
         },
         {
-          "name": "Mechanics",
+          "name": "Basic Information",
           "value": "`{{ prefix }}attacks`\n`{{ prefix }}reflect`\n`{{ prefix }}bleeds`\n`{{ prefix }}clone`",
           "inline": true
         },
