@@ -16,12 +16,12 @@
       "fields": [
         {
           "name": "> __Strategy: Phase 3__",
-          "value": "There's 2 methods for this Phase.\nRegardless of the method, start with thresholds ultimate in the third quadrant. If the damage of the team is really good, you can also opt to Ultimate on dropdown and kill it before Vorago stands.\n\n**First method breakdown**:\n\n• One person will tag all <:bluebomb:508944148557201408>\n• Someone else will <:devotion:628994904642682921> & <:intercept:628994881460895776> the whole team\n• Ignore Red Bombs <:redbomb:508944149257519104>\n• Try to glitch out from arms (South or East)\n• Base goes MD during reflect and uses provoke <a:provoke:629028145575755815>\n\n**First method breakdown**:\n• Ignore all Bombs and use <:powerburstofvitality:680221224093483131> on Stand Up\n• The Bomb Tank must provoke <a:provoke:629028145575755815> once Vorago stands\n\n** **",
+          "value": "Start with thresholds and Ultimate in the third quadrant. If the team's damage is good, you can opt to Ultimate on dropdown and kill it before Vorago stands.\n\n**First method breakdown**:\n\n• One person will tag all <:bluebomb:508944148557201408>. Someone else will <:devotion:628994904642682921> & <:intercept:628994881460895776> everyone. Ignore Reds <:redbomb:508944149257519104>\n• Try to glitch out from arms (South or East)\n• Base goes MD during reflect and uses provoke <a:provoke:629028145575755815>\n\n**First method breakdown**:\n• Ignore all Bombs and use <:powerburstofvitality:680221224093483131> on Stand Up\n• The Bomb Tank must provoke <a:provoke:629028145575755815> once Vorago stands\n\n** **",
           "inline": false
         },
         {
           "name": "> __Strategy: Phase 4__",
-          "value": "**Base/DPS**:\n• Heal the Bomb Tank once The End starts. Stay MD while the BT tags Reds. You can glitch out too\n\n**Bomb Tank**: \n• Tag all <:redbomb:508944149257519104> and move away from the team\n• Once Vorago stands up, <:intercept:628994881460895776> and <:barricade:751138571464998922> everyone\n\n** **",
+          "value": "**Base/DPS**:\n• Heal the Bomb Tank once The End starts. Stay MD or glitch out while the BT tags Reds\n\n**Bomb Tank**: \n• Tag all <:redbomb:508944149257519104> and move away from the team\n• Once Vorago stands up, <:intercept:628994881460895776> and <:barricade:751138571464998922> everyone\n\n** **",
           "inline": false
         },
         {
