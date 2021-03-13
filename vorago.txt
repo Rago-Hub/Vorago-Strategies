@@ -1,0 +1,25 @@
+{
+  "embeds": [
+    {
+      "title": "Current Rotation",
+      "color": 50886,
+      "description": "Current rotation: **$data_ragopvm:'Info HM'!A17$** for an additional **$data_ragopvm:'Info HM'!B20$ resets**.\nNext rotation: **$data_ragopvm:'Info HM'!H17$**.\n\n__**Hard Mode**__\n• Phase 10: **$data_ragopvm:'Info HM'!B17$**.\n• Phase 11: **$data_ragopvm:'Info HM'!C17$**.\n• Piece Unlock: **$data_ragopvm:'Info HM'!D17$**.\n\n• Barricade Phase 10: **$data_ragopvm:'Info HM'!E17$**.\n• Barricade Phase 11: **$data_ragopvm:'Info HM'!F17$**.\n• Optimal mauling: **$data_ragopvm:'Info HM'!G17$**.",
+      "author": {
+        "name": "Miscellaneous",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "",
+          "value": "",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
+.embed:json
