@@ -35,7 +35,7 @@
         },
         {
           "name": "Miscellaneous",
-          "value": "`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`",
+          "value": "`{{ prefix }}climb`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`",
           "inline": true
         },
         {
