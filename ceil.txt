@@ -21,7 +21,7 @@
         },
         {
           "name": "> __Strategy: Phase 5__",
-          "value": "• Can save <:reprisal:707318843743404102> for the second TS\n\n**Base/DPS**:\n• Ultimate South and MD after TS spawns. Go to it or Tank it\n• Go back to your ult and use thresholds until reflect\n• *Switching*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS\n\n**Bomb Tank**:\n• Use <:disruptionshield:628994905930465300> after TS spawns\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>\n• *Switching*: Ultimate during bleeds",
+          "value": "• Can save <:reprisal:707318843743404102> for the second TS\n\n**Base/DPS**:\n• Ultimate South and MD after TS spawns. It's advised to tank it\n• Go back to your ult and use thresholds until reflect\n• *Switching*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS\n\n**Bomb Tank**:\n• Use <:disruptionshield:628994905930465300> after TS spawns\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>\n• *Switching*: Ultimate during bleeds",
           "inline": false
         }
       ]
