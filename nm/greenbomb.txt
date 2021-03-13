@@ -1,0 +1,31 @@
+{
+  "embeds": [
+    {
+      "title": "Green Bomb",
+      "color": 2263842,
+      "description": "When a GB is tanked, Vorago will go to the next mechanic and skip auto-attacks.\nBase has to save BT from <:greenbomb:508944149152530438> on Phase 4 with <:barricade:751138571464998922>.\nVorago skips to the next mechanic if a <:greenbomb:508944149152530438> is tanked on Phase 3, 4 and 5.\n\n**Phase 3**\n*GB*→ 5 Att→ OFF→ 3 Att→ *GB*→ 5 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*GB*→ 5 Att→ OFF→ *Bleeds*→ 3 Att\n\n** **",
+      "url": "",
+      "author": {
+        "name": "Normal mode strategies",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "> __Strategy: Phase 3__",
+          "value": "• Everyone will be tanking the <:greenbomb:508944149152530438> on this Phase\n• Using a <:powerburstofvitality:680221224093483131> is recommended. The BT must tank it too\n• Alternatively, if it's on the BT, the Base can <:intercept:628994881460895776> and <:powerburstofvitality:680221224093483131>\n• Ultimate on dropdown (between two quadrants). Stay away from each other\n\n** **",
+          "inline": false
+        },
+        {
+          "name": "> __Strategy: Phase 5__",
+          "value": "**Base/DPS**:\n• Ultimate South on dropdown and use thresholds\n• If it's on the BT, deal with it like on P3\n• If a DPS gets it, go North and tank it (will be Intercepted)\n• Build to <:onslaught:707318842417872949> after bleeds\n• *Switching*: Same strategy as the Bomb Tank\n\n**Bomb Tank**:\n• Use <:disruptionshield:628994905930465300> as P4 ends, to block the first <:bluebomb:508944148557201408> on P5\n• Start with a threshold and build to 100%\n• If it's on the BT, use thresholds. If not, <:barricade:751138571464998922> and <:intercept:628994881460895776> everyone\n• *Switching*: Build to ultimate",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
+.embed:json
