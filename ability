@@ -17,17 +17,17 @@
       "fields": [
         {
           "name": "Melee",
-          "value": "`.p1melee`\n\n`.p3melee ceilings`\n`.p3melee scopulus`\n`.p3melee vitalis`\n`.p3melee greenbomb`\n`.p3melee teamsplit`\n`.p3melee theend`\n\n`.p5melee`\n`.p5melee teamsplit`",
+          "value": "`{{ prefix }}melee p1`\n\n`{{ prefix }}melee p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}melee p3 vitalis`\n`{{ prefix }}melee p3 greenbomb`\n`{{ prefix }}melee p3 teamsplit`\n`{{ prefix }}melee p3 theend`\n\n`{{ prefix }}melee p5`\n`{{ prefix }}melee p5 teamsplit`",
           "inline": true
         },
         {
           "name": "Ranged",
-          "value": "`.p1range`\n\n`.p3range ceilings`\n`.p3range vitalis`\n`.p3range greenbomb`\n`.p3range teamsplit`\n`.p3range theend`\n\n`.p5range`\n`.p5range teamsplit`",
+          "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`\n`{{ prefix }}range p5 teamsplit`",
           "inline": true
         },
         {
           "name": "Mage",
-          "value": "`.p1mage`\n\n`.p3mage ceilings`\n`.p3mage scopulus`\n`.p3mage vitalis`\n`.p3mage greenbomb`\n`.p3mage teamsplit`\n`.p3mage theend`\n\n`.p5mage`\n`.p5mage teamsplit`",
+          "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`\n`{{ prefix }}mage p5 teamsplit`",
           "inline": true
         }
       ]
@@ -54,17 +54,17 @@
       "fields": [
         {
           "name": "Melee",
-          "value": "`.p1melee adv`\n\n`.p3melee adv ceilings`\n`.p3melee adv scopulus`\n`.p3melee adv vitalis`\n`.p3melee adv greenbomb`\n`.p3melee adv teamsplit`\n`.p3melee adv theend`\n\n`.p5melee adv`\n`.p5melee adv teamsplit`",
+          "value": "`{{ prefix }}melee p1 adv`\n\n`{{ prefix }}melee p3 ceiling adv`\n`{{ prefix }}melee p3 scopulus adv`\n`{{ prefix }}melee p3 vitalis adv`\n`{{ prefix }}melee p3 greenbomb adv`\n`{{ prefix }}melee p3 teamsplit adv`\n`{{ prefix }}melee p3 theend adv`\n\n`{{ prefix }}melee p5 adv`\n`{{ prefix }}melee p5 teamsplit adv`",
           "inline": true
         },
         {
           "name": "Ranged",
-          "value": "`.p1range adv`\n\n`.p3range adv ceilings`\n`.p3range adv scopulus`\n`.p3range adv vitalis`\n`.p3range adv greenbomb`\n`.p3range adv teamsplit`\n`.p3range adv theend`\n\n`.p5range adv`\n`.p5range adv teamsplit`",
+          "value": "`{{ prefix }}range p1 adv`\n\n`{{ prefix }}range p3 ceiling adv`\n`{{ prefix }}range p3 scopulus adv`\n`{{ prefix }}range p3 vitalis adv`\n`{{ prefix }}range p3 greenbomb adv`\n`{{ prefix }}range p3 teamsplit adv`\n`{{ prefix }}range p3 theend adv`\n\n`{{ prefix }}range p5 adv`\n`{{ prefix }}range p5 teamsplit adv`",
           "inline": true
         },
         {
           "name": "Mage",
-          "value": "`.p1mage adv`\n\n`.p3mage adv ceilings`\n`.p3mage adv scopulus`\n`.p3mage adv vitalis`\n`.p3mage adv greenbomb`\n`.p3mage adv teamsplit`\n`.p3mage adv theend`\n\n`.p5mage adv`\n`.p5mage adv teamsplit`",
+          "value": "`{{ prefix }}mage p1 adv`\n\n`{{ prefix }}mage p3 ceiling adv`\n`{{ prefix }}mage p3 scopulus adv`\n`{{ prefix }}mage p3 vitalis adv`\n`{{ prefix }}mage p3 greenbomb adv`\n`{{ prefix }}mage p3 teamsplit adv`\n`{{ prefix }}mage p3 theend adv`\n\n`{{ prefix }}mage p5 adv`\n`{{ prefix }}mage p5 teamsplit adv`",
           "inline": true
         }
       ]
