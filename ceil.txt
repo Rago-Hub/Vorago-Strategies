@@ -3,7 +3,7 @@
     {
       "title": "Ceiling Collapse",
       "color": 9849605,
-      "description": "Enable Shadows on Medium to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att\n\n** **",
+      "description": "Enable Shadows on Medium to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att",
       "url": "",
       "author": {
         "name": "Normal Mode",
@@ -16,7 +16,7 @@
       "fields": [
         {
           "name": "> __Strategy: Phase 3__",
-          "value": "• Start with an ultimate on dropdown. Place it MD\n• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket)\n\n**Bomb Tank**:\n• <a:provoke:629028145575755815> and move out of MD after Vorago spawns\n• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump\n\n** **",
+          "value": "• Start with an ultimate on dropdown. Place it MD\n• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket)\n\n**Bomb Tank**:\n• <a:provoke:629028145575755815> and move out of MD after Vorago spawns\n• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump",
           "inline": false
         },
         {
