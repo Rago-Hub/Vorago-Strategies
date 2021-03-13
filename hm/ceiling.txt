@@ -1,0 +1,46 @@
+{
+  "embeds": [
+    {
+      "title": "Ceiling Collapse",
+      "color": 9849605,
+      "description": "**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*TS*→ 3 Att→ OFF→ 3 Att→ *GB*→ 5 Att\n**Phase 11**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Vit*→ 3 Att",
+      "url": "",
+      "author": {
+        "name": "Hard Mode",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Specials",
+          "value": "• **Phase 10**:  TS, GB\n• **Phase 11**: TS, Vitalis\n",
+          "inline": true
+        },
+        {
+          "name": "Barricade timing",
+          "value": "• **Phase 10**: Team Split\n• **Phase 11**: Vitalis",
+          "inline": true
+        },
+        {
+          "name": "Other",
+          "value": "• **Piece unlock**: <:torsoofomens:739555360846643312> Torso\n• **Maul**: Green Bomb release\n\n** **",
+          "inline": true
+        },
+        {
+          "name": "> __Strategy: Phase 10__",
+          "value": "**Base/DPS**:\n• Ultimate South and MD on dropdown\n• Build to <:onslaught:707318842417872949> after reflect\n• Base must save BTs from the GB <:greenbomb:508944149152530438>\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> after TS appears\n• BTs will take turns to barricade after Team Split\n\n• **BT 1**: Stay South on dropdown and <:barricade:751138571464998922> after the TS\n• Build to Ultimate\n• **BT 2**: Ultimate North on dropdown and use thresholds\n• Build for the next cycle\n\n** **",
+          "inline": false
+        },
+        {
+          "name": "> __Strategy: Phase 11__",
+          "value": "• Everyone must block the Vitalis orb.\n• Build to ultimate\n\n**Bomb Tanks**:\n• Threshold and build to <:barricade:751138571464998922> next Vitalis orb\n• The other BT must build to Ultimate",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
+.embed:json
