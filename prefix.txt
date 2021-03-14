@@ -1,0 +1,2 @@
+The prefix is set to `{{ prefix }}`
+You can change it with `{{ prefix }}prefix newprefix | reset`
