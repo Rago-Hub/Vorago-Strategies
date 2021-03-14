@@ -31,7 +31,7 @@
         },
         {
           "name": "> __Strategy: Phase 10__",
-          "value": "**Base/DPS**:\n• Ultimate South and MD on dropdown\n• If there's a 2nd cycle, use <:onslaught:707318842417872949>\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> when Phase 9 ends\n• **BT 1**: Stay South on dropdown.\n• <:barricade:751138571464998922> the bombs after <:purplebomb:508944149911961600> release\n• Ultimate if it's not close to the maul spot\n• **BT 2**: Ultimate North on dropdown\n• If it hasn't been mauled, build to <:barricade:751138571464998922> the next <:purplebomb:508944149911961600> release",
+          "value": "**Base/DPS**:\n• Ultimate South and MD on dropdown\n• If there's a 2nd cycle, use <:onslaught:707318842417872949>\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> when Phase 9 ends\n• **BT 1**: Stay South on dropdown\n• <:barricade:751138571464998922> the bombs after <:purplebomb:508944149911961600> release\n• Ultimate if it's not close to the maul spot\n• **BT 2**: Ultimate North on dropdown\n• If it hasn't been mauled, build to <:barricade:751138571464998922> the next <:purplebomb:508944149911961600> release\n\n** **",
           "inline": false
         },
         {
