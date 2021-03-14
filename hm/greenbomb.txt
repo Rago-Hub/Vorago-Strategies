@@ -6,7 +6,7 @@
       "description": "Everyone must block the Vitalis orb on Phase 10.\n\n**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*GB*→ 5 Att→ OFF→ 3 Att→ *Vit*→ 3 Att\n**Phase 11**\n*GB*→ 5 Att→ OFF→ 3 Att→ *TS*→ 3 Att",
       "url": "",
       "author": {
-        "name": "Hard Mode strategies",
+        "name": "Hard Mode",
         "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
         "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
       },
