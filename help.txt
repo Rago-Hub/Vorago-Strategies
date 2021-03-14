@@ -25,17 +25,17 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Use: `style phase rotation`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p5`\n`{{ prefix }}mage p5 teamsplit`",
+          "value": "Use: `style phase rotation`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p5 adv`\n`{{ prefix }}mage p5 teamsplit adv`",
           "inline": true
         },
         {
           "name": "Basic Information",
-          "value": "`{{ prefix }}vorago`\n`{{ prefix }}attacks`\n`{{ prefix }}reflect`\n`{{ prefix }}bleeds`\n`{{ prefix }}clone`",
+          "value": "`{{ prefix }}vorago`\n`{{ prefix }}attacks`\n`{{ prefix }}bleeds`\n`{{ prefix }}clone`\n`{{ prefix }}reflect`",
           "inline": true
         },
         {
           "name": "Other",
-          "value": "`{{ prefix }}climb`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`",
+          "value": "`{{ prefix }}cadecept`\n`{{ prefix }}climb`\n`{{ prefix }}droprate`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}tc`",
           "inline": true
         },
         {
