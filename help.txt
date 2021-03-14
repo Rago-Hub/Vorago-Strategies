@@ -25,7 +25,7 @@
         },
         {
           "name": "Ability Rotations",
-          "value": "Use: `style phase rotation`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p5 adv`\n`{{ prefix }}mage p5 teamsplit adv`",
+          "value": "Use: `style phase rotation`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p5`\n`{{ prefix }}mage p5 teamsplit`",
           "inline": true
         },
         {
