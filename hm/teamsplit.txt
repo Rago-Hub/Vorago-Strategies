@@ -1,0 +1,46 @@
+{
+  "embeds": [
+    {
+      "title": "Team Split",
+      "color": 14761277,
+      "description": "Tank all the \"even\" Team Splits: TS→ Reflect→ TS **tank**→ Repeat.\nIf the even TS spawns far: DPS tank. Opposite case: BTs tank, and DPS can go in.\nIf you are tanking, use <:reprisal:707318843743404102> for that TS.\n\n**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *TS*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*TS* (ODD)→ 3 Att→ OFF→ 3 Att→ *TS* (EVEN)→ 3 Att\n**Phase 11**\n*TS*→ 3 Att→ OFF→ 3 Att→ *PB*→ 5 Att",
+      "url": "",
+      "author": {
+        "name": "Hard Mode",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Specials",
+          "value": "• **Phase 10**: TS, TS\n• **Phase 11**: TS, PB",
+          "inline": true
+        },
+        {
+          "name": "Barricade timing",
+          "value": "• **Phase 10**: odd Team Split\n• **Phase 11**: Team Split",
+          "inline": true
+        },
+        {
+          "name": "Piece unlock",
+          "value": "• **Piece unlock**: <a:maulofomens:636361739683758081> Maul\n• **Maul**: Reflect\n\n** **",
+          "inline": true
+        },
+        {
+          "name": "> __Strategy: Phase 10__",
+          "value": "**Base/DPS**:\n• Ultimate South and MD after TS spawns. Go to it or Tank it\n\n**Bomb Tanks**:\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS\n• **BT 1**: Go South and <:barricade:751138571464998922> the second <:bluebomb:508944148557201408> after TS\n• Finish the phase with thresholds\n• **BT 2**: Ultimate North. Build to <:barricade:751138571464998922> the first <:bluebomb:508944148557201408> after the next odd TS",
+          "inline": false
+        },
+        {
+          "name": "> __Strategy: Phase 11__",
+          "value": "• Everyone should build to Ultimate\n\n**Bomb Tanks**:\n• Save <:disruptionshield:628994905930465300> and use it after the <:purplebomb:508944149911961600> release\n• <:barricade:751138571464998922> after the next TS",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
+.embed:json
