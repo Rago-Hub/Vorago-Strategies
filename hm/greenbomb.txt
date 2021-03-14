@@ -31,7 +31,7 @@
         },
         {
           "name": "> __Strategy: Phase 10__",
-          "value": "**Base/DPS**:\n• Stand MD South and <:onslaught:707318842417872949> as soon as Vorago falls\n• Base will get the <:greenbomb:508944149152530438> from BTs if they get it\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> after TS appears\n• One BT will Ultimate North and the other one has to use thresholds\n• Take turns to <:barricade:751138571464998922> after the Vitalis orb if needed\n• Make sure to pre <:intercept:628994881460895776> the whole team",
+          "value": "**Base/DPS**:\n• Stand MD South and <:onslaught:707318842417872949> as soon as Vorago falls\n• Base will get the <:greenbomb:508944149152530438> from BTs if they get it\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> after TS appears\n• One BT will Ultimate North and the other one has to use thresholds\n• Take turns to <:barricade:751138571464998922> after the Vitalis orb if needed\n• Make sure to pre <:intercept:628994881460895776> the whole team\n\n** **",
           "inline": false
         },
         {
