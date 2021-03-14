@@ -34,7 +34,7 @@
           "inline": true
         },
         {
-          "name": "Miscellaneous",
+          "name": "Other",
           "value": "`{{ prefix }}climb`\n`{{ prefix }}dummy`\n`{{ prefix }}maul`\n`{{ prefix }}droprate`\n`{{ prefix }}tc`",
           "inline": true
         },
