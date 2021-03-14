@@ -6,7 +6,7 @@
       "description": "• Natty: -24, Third Jump\n\n**Vorago's Death**\n<:GreaterFury:629132853451423766> <:NaturalInstinct:612343197489692672> <:Provoke:612343255866146835> <:GreaterFury:629132853451423766>\n\n**Crack**\n<:Resonance:612343287835000832> <:Preparation:612343232743079967> <:GreaterFury:629132853451423766> <:Berserk:629132737852473354> <:Renewal:811286186823516181> <:Attack:612413657661308950> <:Cleave:629132756903002122>\n\n**TC**\n<:Vulnerability:625788254674747392> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**Team Split**\n<:Anticipation:612415877643501635> <:Reprisal:612415749168037908> <:Barge:629132727064461318> <:Slaughter:629136398942863390> <:Vulnerability:625788254674747392> <:Cleave:629132756903002122> <:Assault:629132704163692544> <:Decimate:629132764637036554> <:Limitless:624339238296485928> <:GreaterFlurry:629132845322993697> <:Hurricane:629132870874693645>\n\n**Reflect**\n<:StormShards:612415793941970944> <:Provoke:612343255866146835> <:Resonance:612343287835000832> <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:VestasLongsword:688114196285620331>",
       "timestamp": "",
       "author": {
-        "name": "Advanced Melee Rotations",
+        "name": "Melee Rotations",
         "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
         "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
       },
