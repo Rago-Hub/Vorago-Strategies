@@ -12,13 +12,7 @@
       "image": {},
       "thumbnail": {},
       "footer": {},
-      "fields": [
-        {
-          "name": "",
-          "value": "",
-          "inline": false
-        }
-      ]
+      "fields": []
     }
   ]
 }
