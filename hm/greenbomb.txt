@@ -1,0 +1,46 @@
+{
+  "embeds": [
+    {
+      "title": "Green Bomb",
+      "color": 2263842,
+      "description": "Everyone must block the Vitalis orb on Phase 10.\n\n**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *GB*→ 5 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*GB*→ 5 Att→ OFF→ 3 Att→ *Vit*→ 3 Att\n**Phase 11**\n*GB*→ 5 Att→ OFF→ 3 Att→ *TS*→ 3 Att",
+      "url": "",
+      "author": {
+        "name": "Hard Mode strategies",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Specials",
+          "value": "• **Phase 10**: GB, Vitalis\n• **Phase 11**: GB, TS",
+          "inline": true
+        },
+        {
+          "name": "Barricade timing",
+          "value": "• **Phase 10**: Vitalis\n• **Phase 11**: Team Split",
+          "inline": true
+        },
+        {
+          "name": "Other",
+          "value": "• **Piece unlock**: <:bootsofomens:739555360867614871> Boots\n• **Maul**: Green Bomb release\n\n** **",
+          "inline": true
+        },
+        {
+          "name": "> __Strategy: Phase 10__",
+          "value": "**Base/DPS**:\n• Stand MD South and <:onslaught:707318842417872949> as soon as Vorago falls\n• Base will get the <:greenbomb:508944149152530438> from BTs if they get it\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> after TS appears\n• One BT will Ultimate North and the other one has to use thresholds\n• Take turns to <:barricade:751138571464998922> after the Vitalis orb if needed\n• Make sure to pre <:intercept:628994881460895776> the whole team",
+          "inline": false
+        },
+        {
+          "name": "> __Strategy: Phase 11__",
+          "value": "**Base/DPS**:\n• Build to Ultimate and tank the Team Split\n\n**Bomb Tanks**:\n• **BTs**: Take turns to <:barricade:751138571464998922> after the Team Split or Purple Bomb release\n• The other BT must build to Ultimate",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
+.embed:json
