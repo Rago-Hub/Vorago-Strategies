@@ -3,7 +3,7 @@
     {
       "title": "Vorago Bot",
       "color": 50886,
-      "description": "This is a bot that has a lot of Vorago related information. Use it to find:\n\n• **Normal Mode** (Trio+) & **Hard Mode** (5 man+) strategies for each rotation\n• `{{ prefix }}ability`  Find **ability rotations** from Easy to Advanced for all combat styles\n• `.guide` Retrieve specific information of any Vorago guide\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `.`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+      "description": "This is a bot that has a lot of Vorago related information. Use it to find:\n\n• **Normal Mode** (Trio+) & **Hard Mode** (5 man+) strategies for each rotation\n• `{{ prefix }}ability`  Find **ability rotations** from Easy to Advanced for all combat styles\n• `.guide` Retrieve specific information of any Vorago guide\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
       "author": {
         "name": "Help",
         "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
