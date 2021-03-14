@@ -2,12 +2,12 @@
   "content": "",
   "embeds": [
     {
-      "title": "Basic strategies",
+      "title": "Ability Rotations",
       "color": 50886,
       "description": "",
       "timestamp": "",
       "author": {
-        "name": "Ability Rotations",
+        "name": "Vorago",
         "url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png",
         "icon_url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png"
       },
@@ -22,49 +22,12 @@
         },
         {
           "name": "Ranged",
-          "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`\n`{{ prefix }}range p5 teamsplit`",
+          "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`\n`{{ prefix }}range p5 teamsplit`",
           "inline": true
         },
         {
           "name": "Mage",
           "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`\n`{{ prefix }}mage p5 teamsplit`",
-          "inline": true
-        }
-      ]
-    }
-  ]
-}
-.embed:json
-{
-  "content": "",
-  "embeds": [
-    {
-      "title": "Advanced strategies",
-      "color": 50886,
-      "description": "",
-      "timestamp": "",
-      "author": {
-        "name": "",
-        "url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png",
-        "icon_url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png"
-      },
-      "image": {},
-      "thumbnail": {},
-      "footer": {},
-      "fields": [
-        {
-          "name": "Melee",
-          "value": "`{{ prefix }}melee p1 adv`\n\n`{{ prefix }}melee p3 ceiling adv`\n`{{ prefix }}melee p3 scopulus adv`\n`{{ prefix }}melee p3 vitalis adv`\n`{{ prefix }}melee p3 greenbomb adv`\n`{{ prefix }}melee p3 teamsplit adv`\n`{{ prefix }}melee p3 theend adv`\n\n`{{ prefix }}melee p5 adv`\n`{{ prefix }}melee p5 teamsplit adv`",
-          "inline": true
-        },
-        {
-          "name": "Ranged",
-          "value": "`{{ prefix }}range p1 adv`\n\n`{{ prefix }}range p3 ceiling adv`\n`{{ prefix }}range p3 scopulus adv`\n`{{ prefix }}range p3 vitalis adv`\n`{{ prefix }}range p3 greenbomb adv`\n`{{ prefix }}range p3 teamsplit adv`\n`{{ prefix }}range p3 theend adv`\n\n`{{ prefix }}range p5 adv`\n`{{ prefix }}range p5 teamsplit adv`",
-          "inline": true
-        },
-        {
-          "name": "Mage",
-          "value": "`{{ prefix }}mage p1 adv`\n\n`{{ prefix }}mage p3 ceiling adv`\n`{{ prefix }}mage p3 scopulus adv`\n`{{ prefix }}mage p3 vitalis adv`\n`{{ prefix }}mage p3 greenbomb adv`\n`{{ prefix }}mage p3 teamsplit adv`\n`{{ prefix }}mage p3 theend adv`\n\n`{{ prefix }}mage p5 adv`\n`{{ prefix }}mage p5 teamsplit adv`",
           "inline": true
         }
       ]
