@@ -31,7 +31,7 @@
         },
         {
           "name": "> __Strategy: Phase 10__",
-          "value": "**Base/DPS**:\n• Ultimate South and MD after TS spawns. Go to it or Tank it\n\n**Bomb Tanks**:\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS\n• **BT 1**: Go South and <:barricade:751138571464998922> the second <:bluebomb:508944148557201408> after TS\n• Finish the phase with thresholds\n• **BT 2**: Ultimate North. Build to <:barricade:751138571464998922> the first <:bluebomb:508944148557201408> after the next odd TS",
+          "value": "**Base/DPS**:\n• Ultimate South and MD after TS spawns. Go to it or Tank it\n\n**Bomb Tanks**:\n• Use should use <:disruptionshield:628994905930465300> after the TS spawns. Can also save it for the even TS\n• **BT 1**: Go South and <:barricade:751138571464998922> the second <:bluebomb:508944148557201408> after TS\n• Finish the phase with thresholds\n• **BT 2**: Ultimate North. Build to <:barricade:751138571464998922> the first <:bluebomb:508944148557201408> after the next odd TS\n\n** **",
           "inline": false
         },
         {
