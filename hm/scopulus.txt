@@ -1,0 +1,46 @@
+{
+  "embeds": [
+    {
+      "title": "Scopulus",
+      "color": 1980145,
+      "description": "Everyone must block the Vitalis orb on Phase 11.\n\n**Phase 9**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Red*→ 4 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 10**\n*PB*→ 5 Att→ OFF→ 3 Att→ *TS*→ 3 Att\n**Phase 11**\n*PB*→ 5 Att→ OFF→ 3 Att→ *Vit*→ 3 Att",
+      "url": "",
+      "author": {
+        "name": "Hard Mode",
+        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
+        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "Specials",
+          "value": "• **Phase 10**: PB, TS\n• **Phase 11**: PB, Vitalis",
+          "inline": true
+        },
+        {
+          "name": "Barricade timing",
+          "value": "• **Phase 10**: Purple Bomb release\n• **Phase 11**: Vitalis",
+          "inline": true
+        },
+        {
+          "name": "Other",
+          "value": "• **Piec unlock**: <:helmofomens:739555361014546512> Helm\n• **Maul**: Team Split\n\n** **",
+          "inline": true
+        },
+        {
+          "name": "> __Strategy: Phase 10__",
+          "value": "**Base/DPS**:\n• Ultimate South and MD on dropdown\n• If there's a 2nd cycle, use <:onslaught:707318842417872949>\n\n**Bomb Tanks**:\n• BTs should use <:disruptionshield:628994905930465300> when Phase 9 ends\n• **BT 1**: Stay South on dropdown.\n• <:barricade:751138571464998922> the bombs after <:purplebomb:508944149911961600> release\n• Ultimate if it's not close to the maul spot\n• **BT 2**: Ultimate North on dropdown\n• If it hasn't been mauled, build to <:barricade:751138571464998922> the next <:purplebomb:508944149911961600> release",
+          "inline": false
+        },
+        {
+          "name": "> __Strategy: Phase 11__",
+          "value": "**Base/DPS**:\n• Build to Ultimate. Can also <:onslaught:707318842417872949> after reflect\n\n**Bomb Tanks**:\n• Take turns to <:barricade:751138571464998922> the Vitalis orb. The other BT must build to Ultimate",
+          "inline": false
+        }
+      ]
+    }
+  ]
+}
+.embed:json
