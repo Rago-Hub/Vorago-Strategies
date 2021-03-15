@@ -1,6 +1,6 @@
-`.nm ceiling`
-`.nm scopulus`
-`.nm vitalis`
-`.nm greenbomb`
-`.nm teamsplit`
-`.nm theend`
+`{{ prefix }}nm ceiling`
+`{{ prefix }}nm scopulus`
+`{{ prefix }}nm vitalis`
+`{{ prefix }}nm greenbomb`
+`{{ prefix }}nm teamsplit`
+`{{ prefix }}nm theend`
