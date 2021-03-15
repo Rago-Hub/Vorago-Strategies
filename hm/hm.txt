@@ -1,6 +1,6 @@
-`.hm ceiling`
-`.hm scopulus`
-`.hm vitalis`
-`.hm greenbomb`
-`.hm teamsplit`
-`.hm theend`
+`{{ prefix }}hm ceiling`
+`{{ prefix }}hm scopulus`
+`{{ prefix }}hm vitalis`
+`{{ prefix }}hm greenbomb`
+`{{ prefix }}hm teamsplit`
+`{{ prefix }}hm theend`
