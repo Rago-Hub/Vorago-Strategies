@@ -36,7 +36,7 @@
         },
         {
           "name": "> __Strategy: Phase 11__",
-          "value": "**Base/DPS**:\n• Build to Ultimate and tank the Team Split\n\n**Bomb Tanks**:\n• **BTs**: Take turns to <:barricade:751138571464998922> after the Team Split or Purple Bomb release\n• The other BT must build to Ultimate",
+          "value": "**Base/DPS**:\n• Build to Ultimate and tank the Team Split\n\n**Bomb Tanks**:\n• **BTs**: Take turns to <:barricade:751138571464998922> after the Team Split\n• The other BT must build to Ultimate",
           "inline": false
         }
       ]
