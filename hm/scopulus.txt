@@ -26,7 +26,7 @@
         },
         {
           "name": "Other",
-          "value": "• **Piec unlock**: <:helmofomens:739555361014546512> Helm\n• **Maul**: Team Split\n\n** **",
+          "value": "• **Piece unlock**: <:helmofomens:739555361014546512> Helm\n• **Maul**: Team Split\n\n** **",
           "inline": true
         },
         {
