@@ -1,30 +1,15 @@
-{
-  "embeds": [
-    {
-      "title": "Phase 1 No Hammer",
-      "color": 16221227,
-      "description": "**TC**\n<:Barge:629132727064461318> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:Assault:629132704163692544> <:Quake:629136298887741490> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:GreaterFlurry:629132845322993697> <:Sever:629136387542876170> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:Dismember:612416146569691148> <:Slaughter:629136398942863390> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:BloodTendrils:640603278551547934> <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:Sever:629136387542876170>\n\n**Jump**\n<:Preparation:612343232743079967> <:Resonance:612343287835000832> <:Anticipation:612415877643501635> <:Freedom:612343164392570969>\n\n**Post-Jump**\n<:Barge:629132727064461318> <:ZarosGodsword:629133733601083394> <:Attack:612413657661308950> <:Assault:629132704163692544> <:Cleave:629132756903002122> <:Decimate:629132764637036554> <:Destroy:629132772094640161> <:Decimate:629132764637036554>",
-      "timestamp": "",
-      "author": {
-        "name": "Melee Rotations",
-        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
-        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+<:meleecape:854744278236266526> Melee - Phase 1
+__TC_
+<:Barge:629132727064461318> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:Quake:629136298887741490> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:GreaterFlurry:629132845322993697> → <:Sever:629136387542876170>
+<:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Dismember:612416146569691148> → <:Slaughter:629136398942863390> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554>
+<:BloodTendrils:640603278551547934> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Sever:629136387542876170>
+
+__Jump__
+<:Preparation:612343232743079967> → <:Resonance:612343287835000832> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969>
+
+__Post-Jump__
+(duals) <:Barge:629132727064461318> → <:ZarosGodsword:629133733601083394> <:Attack:612413657661308950> → <:Assault:629132704163692544> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Destroy:629132772094640161> → <:Decimate:629132764637036554>
+
 {
   "embeds": [
     {
