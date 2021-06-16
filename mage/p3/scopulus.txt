@@ -1,4 +1,4 @@
-<magecape854434844851699762> **Mage - Phase 3 Scopulus (Base)**
+<:magecape:854434844851699762> **Mage - Phase 3 Scopulus (Base)**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -12,7 +12,7 @@ __TC__
 Obs <:devotion:811600042602922024> when one Scopulus is about to die
 
 .
-<magecape854434844851699762> **Mage - Phase 3 Scopulus (Bomb)**
+<:magecape:854434844851699762> **Mage - Phase 3 Scopulus (Bomb)**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -26,7 +26,7 @@ __TC__
 Obs <:devotion:811600042602922024> when one Scopulus is about to die
 
 .
-<magecape854434844851699762> **Mage - Phase 3 Scopulus (Advanced)**
+<:magecape:854434844851699762> **Mage - Phase 3 Scopulus (Advanced)**
 Natural Instinct -30 Second Jump
 
 __Vorago's-Death__
