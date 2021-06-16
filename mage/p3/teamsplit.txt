@@ -1,54 +1,38 @@
-{
-  "embeds": [
-    {
-      "title": "Phase 3 Team Split",
-      "color": 1652623,
-      "description": "**On Drop**\nPre-detonate is optional <:Detonate:603015480466210842>\n\n**TC**\n<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:GuthixStaff:612419359649824779>\n\n**Team Split**\n<:Preparation:612343232743079967> <:Anticipation:612415877643501635> <:Freedom:612343164392570969> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:CorruptionBlast:603015451437432834> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:Sacrifice:612415762682085376>\n\n**Reflect**\n<:StormShards:612415793941970944> <:Sunshine:603015844263362570> <:Renewal:811286186823516181> <:Resonance:612343287835000832> <:Provoke:612343255866146835> <:BloodBlitz:731811271304806400> <:SonicWave:603015822671085569> <:DragonBreath:603015526557679646>\n\n**Team Split**\n<:Preparation:612343232743079967> <:Reprisal:612415749168037908> <:Anticipation:612415877643501635> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>",
-      "timestamp": "",
-      "author": {
-        "name": "Mage Rotations",
-        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
-        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
-{
-  "embeds": [
-    {
-      "title": "Phase 3 Team Split",
-      "color": 1652623,
-      "description": "• Natty: -28\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552> <:Provoke:612343255866146835> <:Wrack:603015911384940545>\n\n**Crack**\n<:Resonance:612343287835000832> <:Sunshine:603015844263362570> <:Renewal:811286186823516181> <:Preparation:612343232743079967> <:Anticipation:612415877643501635> <:Detonate:603015480466210842>\n\n**TC**\n<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:GuthixStaff:612419359649824779>\n\n**Team Split**\n<:Freedom:612343164392570969> <:Reprisal:612415749168037908> <:dbowauto:811018359507255296> <:DragonBreath:603015526557679646> <:Vulnerability:625788254674747392> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:Limitless:624339238296485928> <:Asphyxiate:603015374941847567> <:Impact:603015572095238157> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>",
-      "timestamp": "",
-      "author": {
-        "name": "Advanced Mage Rotations",
-        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
-        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+magecape **Mage - Phase 3 Team Split**
+
+__On Drop__
+:Detonate: (optional)
+
+__TC__
+:BloodBarrage: (optional) :Detonate: :GuthixStaff:
+
+__Team Split__
+:Preparation: → :Anticipation: → :Freedom:
+
+__After Team Split__
+:WildMagic: → :CorruptionBlast: → :BloodBarrage: :Asphyxiate: → :DragonBreath: → :BloodBarrage: :Sacrifice:
+
+__Reflect__
+:StormShards: → :Sunshine: :Renewal: → :Resonance:  → :Provoke: → :Blitz: :SonicWave:
+
+__After Reflect__
+:DragonBreath: → :Preparation: → :Reprisal: → :Anticipation: → :BloodBarrage: :WildMagic: → :DragonBreath: → :BloodBarrage: :Asphyxiate:
+:GuthixStaff: → :BloodBarrage: :ConcentratedBlast: → :GuthixStaff: → :BloodBarrage: → :DragonBreath: → :GuthixStaff: → :BloodBarrage: :GuthixStaff:
+
+.
+magecape **Mage - Phase 3 Team Split (Advanced)**
+
+__Vorago's-Death__
+Natty: → :Wrack: → :Provoke: → :Wrack: →  :Chain:
+
+__Crack__
+:Resonance: → :Sunshine: :Renewal: → :Preparation: → :Anticipation: → :Detonate:
+
+__TC__
+:BloodBarrage: :Detonate: :GuthixStaff:
+
+__Team Split__
+:Freedom: → :Reprisal:
+
+__After Team-Split__
+:DragonBreath: → :BloodBarrage: :WildMagic: →  :Ingen: :SGB: → :Limitless: :Asphyxiate: → (flank) :Impact: →:BloodBarrage: :GuthixStaff:
