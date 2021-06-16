@@ -9,8 +9,8 @@ __Jump__
 
 __Post-Jump__
 (duals) <:Barge:629132727064461318> → <:ZarosGodsword:629133733601083394> <:Attack:612413657661308950> → <:Assault:629132704163692544> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Destroy:629132772094640161> → <:Decimate:629132764637036554>
-.embed:json
 
+.
 <:meleecape:854744278236266526> **Melee - Phase 1 (Advanced)**
 
 __Challenge__
@@ -29,4 +29,3 @@ __Jump__
 
 __Post-Jump__
 <:Vulnerability:625788254674747392> (release) <:Hurricane:629132870874693645> <:Assault:629132704163692544> → (3t) <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554>
-.embed:json
