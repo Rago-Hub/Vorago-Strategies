@@ -1,6 +1,6 @@
-<:meleecape:854744278236266526> Melee - Phase 1
+<:meleecape:854744278236266526> **Melee - Phase 1**
 __TC_
-<:Barge:629132727064461318> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:Quake:629136298887741490> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:GreaterFlurry:629132845322993697> → <:Sever:629136387542876170>
+<:Barge:629132727064461318> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:Quake:629136298887741490> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → (3t) <:GreaterFlurry:629132845322993697> → <:Sever:629136387542876170>
 <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Dismember:612416146569691148> → <:Slaughter:629136398942863390> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554>
 <:BloodTendrils:640603278551547934> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Sever:629136387542876170>
 
@@ -10,33 +10,25 @@ __Jump__
 __Post-Jump__
 (duals) <:Barge:629132727064461318> → <:ZarosGodsword:629133733601083394> <:Attack:612413657661308950> → <:Assault:629132704163692544> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Destroy:629132772094640161> → <:Decimate:629132764637036554>
 
-{
-  "embeds": [
-    {
-      "title": "Phase 1 No Hammer",
-      "color": 16221227,
-      "description": "**Challenge**\n8 Abilities + 1t <:NaturalInstinct:612343197489692672> <:GreaterFury:629132853451423766>\n\n**Entry Hit**\n<:Slice:629136409340411912> <:Preparation:612343232743079967> <:Anticipation:612415877643501635> <:Freedom:612343164392570969> <:Berserk:629132737852473354> <:Renewal:811286186823516181>\n\n**TC**\n<:Barge:629132727064461318> <:Assault:629132704163692544> <:Decimate:629132764637036554> <:Quake:629136298887741490> <:Cleave:629132756903002122> <:Hurricane:629132870874693645> <:Slaughter:629136398942863390> <:Sever:629136387542876170> <:GreaterFlurry:629132845322993697> <:Decimate:629132764637036554> <:VestasLongsword:688114196285620331> <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:Cleave:629132756903002122> <:Preparation:612343232743079967> <:Resonance:612343287835000832> <:Anticipation:612415877643501635> <:Barge:629132727064461318> <:Limitless:624339238296485928> <:Hurricane:629132870874693645> <:Vulnerability:625788254674747392> <:Assault:629132704163692544> <:GreaterFlurry:629132845322993697> <:Decimate:629132764637036554>",
-      "timestamp": "",
-      "author": {
-        "name": "Advanced Melee Rotations",
-        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
-        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+
+<:meleecape:854744278236266526> **Melee - Phase 1 (Advanced)**
+
+__Challenge__
+8 Abilities + 1t → <:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766>
+
+__Entry Hit__
+<:Slice:629136409340411912> → <:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → <:Berserk:629132737852473354> → <:Renewal:811286186823516181>
+
+__TC__
+<:Barge:629132727064461318> → <:Assault:629132704163692544> → <:Decimate:629132764637036554> → <:Quake:629136298887741490> → <:Cleave:629132756903002122> → <:Hurricane:629132870874693645> → <:Slaughter:629136398942863390> → <:Sever:629136387542876170>
+(3t) <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554> → <:VestasLongsword:688114196285620331> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122>
+
+__Jump__
+<:Preparation:612343232743079967> → <:Resonance:612343287835000832> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → (dummy) <:Barge:629132727064461318> → <:Limitless:624339238296485928> (stall) <:Hurricane:629132870874693645>
+
+__Post-Jump__
+<:Vulnerability:625788254674747392> (release) <:Hurricane:629132870874693645> <:Assault:629132704163692544> → (3t) <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554>
+
 {
   "embeds": [
     {
