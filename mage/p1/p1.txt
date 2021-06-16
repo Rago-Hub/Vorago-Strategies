@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> Mage Rotations - Phase1
+<:magecape:854434844851699762> **Mage Rotations - Phase1**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -17,7 +17,7 @@ __Post-Jump__
 <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:WildMagic:603015901343776772> → <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> Mage Rotations - Phase1 (Advanced)
+<:magecape:854434844851699762> **Mage Rotations - Phase1 (Advanced)**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
