@@ -1,38 +1,38 @@
-magecape **Mage - Phase 3 Team Split**
+<:magecape:854434844851699762> **Mage - Phase 3 Team Split**
 
 __On Drop__
-:Detonate: (optional)
+<:Detonate:603015480466210842> (optional)
 
 __TC__
-:BloodBarrage: (optional) :Detonate: :GuthixStaff:
+<:BloodBarrage:612422231439441946> (optional) <:Detonate:603015480466210842> <:GuthixStaff:612419359649824779>
 
 __Team Split__
-:Preparation: → :Anticipation: → :Freedom:
+<:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969>
 
 __After Team Split__
-:WildMagic: → :CorruptionBlast: → :BloodBarrage: :Asphyxiate: → :DragonBreath: → :BloodBarrage: :Sacrifice:
+<:WildMagic:603015901343776772> → <:CorruptionBlast:603015451437432834> → <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:Sacrifice:612415762682085376>
 
 __Reflect__
-:StormShards: → :Sunshine: :Renewal: → :Resonance:  → :Provoke: → :Blitz: :SonicWave:
+<:StormShards:612415793941970944> → <:Sunshine:603015844263362570> <:Renewal:811286186823516181> → <:Resonance:612343287835000832> → <:Provoke:612343255866146835> → <:BloodBlitz:731811271304806400> <:SonicWave:603015822671085569>
 
 __After Reflect__
-:DragonBreath: → :Preparation: → :Reprisal: → :Anticipation: → :BloodBarrage: :WildMagic: → :DragonBreath: → :BloodBarrage: :Asphyxiate:
-:GuthixStaff: → :BloodBarrage: :ConcentratedBlast: → :GuthixStaff: → :BloodBarrage: → :DragonBreath: → :GuthixStaff: → :BloodBarrage: :GuthixStaff:
+<:DragonBreath:603015526557679646> → <:Preparation:612343232743079967> → <:Reprisal:612415749168037908> → <:Anticipation:612415877643501635> → <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> → <:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567>
+<:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> → <:DragonBreath:603015526557679646> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
 
 .
-magecape **Mage - Phase 3 Team Split (Advanced)**
+<:magecape:854434844851699762> **Mage - Phase 3 Team Split (Advanced)**
 
 __Vorago's-Death__
-Natty: → :Wrack: → :Provoke: → :Wrack: →  :Chain:
+<:NaturalInstinct:612343197489692672> → <:Wrack:603015911384940545> → <:Provoke:612343255866146835> → <:Wrack:603015911384940545> → <:Chain:603015419540013076>
 
 __Crack__
-:Resonance: → :Sunshine: :Renewal: → :Preparation: → :Anticipation: → :Detonate:
+<:Resonance:612343287835000832> → <:Sunshine:603015844263362570> <:Renewal:811286186823516181> → <:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:Detonate:603015480466210842>
 
 __TC__
-:BloodBarrage: :Detonate: :GuthixStaff:
+<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:GuthixStaff:612419359649824779>
 
 __Team Split__
-:Freedom: → :Reprisal:
+<:Freedom:612343164392570969> → <:Reprisal:612415749168037908>
 
 __After Team-Split__
-:DragonBreath: → :BloodBarrage: :WildMagic: →  :Ingen: :SGB: → :Limitless: :Asphyxiate: → (flank) :Impact: →:BloodBarrage: :GuthixStaff:
+<:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:Asphyxiate:603015374941847567> → (flank) <:Impact:603015572095238157> →BloodBarrage <:GuthixStaff:612419359649824779>
