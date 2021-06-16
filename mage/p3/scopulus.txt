@@ -11,19 +11,6 @@ __TC__
 
 Obs <:devotion:811600042602922024> when one Scopulus is about to die
 
-
-
-__On-Drop__
-<:Sunshine:603015844263362570> <:Renewal:811286186823516181>
-
-__TC__
-1t later <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> → <:Chain:603015419540013076> → <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:WildMagic:603015901343776772>
-<:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:Detonate:603015480466210842> → <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:ConcentratedBlast:603015440595156992> → <:DragonBreath:603015526557679646>
-<:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> → <:CorruptionBlast:603015451437432834> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779>
-<:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> → <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:DragonBreath:603015526557679646>
-
-Obs <:devotion:811600042602922024> when one Scopulus is about to die
-
 .
 <magecape854434844851699762> **Mage - Phase 3 Scopulus (Bomb)**
 
