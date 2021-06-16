@@ -1,54 +1,36 @@
-{
-  "embeds": [
-    {
-      "title": "Phase 1",
-      "color": 1652623,
-      "description": "**TC**\n<:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:Limitless:624339238296485928> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:Detonate:603015480466210842> <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:ConcentratedBlast:603015440595156992> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:Combust:603015429488771072> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:CorruptionBlast:603015451437432834> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779> <:Provoke:612343255866146835>\n\n**Jump**\n<:Preparation:612343232743079967> <:Resonance:612343287835000832> <:Anticipation:612415877643501635> <:Freedom:612343164392570969>\n\n**Post-Jump**\n<:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:WildMagic:603015901343776772> <:GuthixStaff:612419359649824779>",
-      "timestamp": "",
-      "author": {
-        "name": "Mage Rotations",
-        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
-        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
-{
-  "embeds": [
-    {
-      "title": "Phase 1",
-      "color": 1652623,
-      "description": "**TC**\n<:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> <:GuthixStaff:612419359649824779> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:Combust:603015429488771072> <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> <:Limitless:624339238296485928> <:Detonate:603015480466210842> <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:ConcentratedBlast:603015440595156992> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> <:Combust:603015429488771072> <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> <:WildMagic:603015901343776772> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779> <:DragonBreath:603015526557679646> <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>",
-      "timestamp": "",
-      "author": {
-        "name": "Advanced Mage Rotations",
-        "url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424",
-        "icon_url": "https://runescape.wiki/images/1/19/Magic_master_cape.png?1b424"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+magecape Mage Rotations - Phase1
+
+__On Drop__
+Sunshine AdrenRenewal
+
+__TC__
+:BloodBarrage: :DragonBreath: → :GuthixStaff: → :BloodBarrage: :ConcentratedBlast: 
+:Limitless: :WildMagic: → :BloodBarrage: :Asphyxiate: →  :Detonate:  → :BloodBarrage: :Detonate: :ConcentratedBlast:
+:DragonBreath: → :BloodBarrage: :SonicWave: → :Combust:
+:BloodBarrage: :ConcentratedBlast: → :GuthixStaff: → :BloodBarrage: :SonicWave:  → :CorruptionBlast:
+:BloodBarrage: :WildMagic:  → :DragonBreath:  → :BloodBarrage: :GuthixStaff:  → :Provoke:
+
+__Jump__
+:Preparation: → :Resonance:  → :Anticipation:  → :Freedom:
+
+__Post-Jump__
+:BloodBarrage: :Asphyxiate:  → :WildMagic:  → :GuthixStaff:
+
+.
+magecape Mage Rotations - Phase1 (Advanced)
+
+__On Drop__
+Sunshine AdrenRenewal
+
+__TC__
+:BloodBarrage: :DragonBreath:  →  :GuthixStaff: →  :BloodBarrage: :SonicWave: →  :Combust:
+:BloodBarrage: :WildMagic:  → :DragonBreath:  → :BloodBarrage: :Asphyxiate: →  :Limitless: :Detonate: 
+BloodBarrage: :Detonate: :ConcentratedBlast:  → :DragonBreath:  → :BloodBarrage: :SonicWave: 
+:Combust: →  :BloodBarrage: :ConcentratedBlast: →  :WildMagic:  → :BloodBarrage: :GuthixStaff: 
+:DragonBreath: :BloodBarrage: :GuthixStaff:
+
+__Jump__
+:Preparation: → :Resonance:  → :Anticipation:  → :Freedom:
+
+__Post-Jump__
+:BloodBarrage: :Asphyxiate:  → :WildMagic:  → :GuthixStaff:
