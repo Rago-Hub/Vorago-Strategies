@@ -35,7 +35,7 @@ __TC__
 Obs <:Hurricane:629132870874693645> will be stalled by the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
 
 __Reflect__
-<:StormShards:612415793941970944> → <:Resonance:612343287835000832> → <:Preparation:612343232743079967>
+<:StormShards:612415793941970944> → <:Resonance:612343287835000832> → <:Preparation:612343232743079967> → <:Freedom:612343164392570969>
 
 __ After Reflect__
 <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122>
