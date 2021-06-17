@@ -8,7 +8,7 @@ __On Drop__
 <:Berserk:629132737852473354> → <:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:Barge:629132727064461318> → <:Renewal:811286186823516181> → (stall) <:SuperiorStatiusWarhammer:612419367883505685>
 
 __TC__
-<:Vulnerability:625788254674747392> → <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:dclaws:811020902498041856> → <:Cleave:629132756903002122>
+<:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:dclaws:811020902498041856> → <:Cleave:629132756903002122>
 <:Limitless:624339238296485928> <:Hurricane:629132870874693645> → <:VestasLongsword:688114196285620331> or <:Quake:629136298887741490>
 Obs <:Hurricane:629132870874693645> will be stalled due to the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
 
@@ -25,7 +25,7 @@ Natural Instinct -27 Second Jump
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:dbowauto:811018359507255296> (auto) → <:glaive:855110178407055361> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbowauto:811018359507255296> (auto) → <:PiercingShot:624335352433344552>
 
-Crack
+__On Drop__
 <:Berserk:629132737852473354> → <:Anticipation:612415877643501635> → <:Barge:629132727064461318> → <:Freedom:612343164392570969> → <:dbowauto:811018359507255296> → <:SuperiorStatiusWarhammer:612419367883505685> <:Renewal:811286186823516181>
 
 __TC__
