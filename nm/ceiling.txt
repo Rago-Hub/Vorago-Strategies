@@ -1,31 +1,40 @@
-{
-  "embeds": [
-    {
-      "title": "Ceiling Collapse",
-      "color": 9849605,
-      "description": "Enable Shadows on Medium to see Rocks fall on Phase 3.\n\n **Phase 3**\n*Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att\n\n** **",
-      "url": "",
-      "author": {
-        "name": "Normal Mode",
-        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
-        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
-      },
-      "image": {},
-      "thumbnail": {},
-      "footer": {},
-      "fields": [
-        {
-          "name": "> __Strategy: Phase 3__",
-          "value": "• Start with an ultimate on dropdown. Place it MD\n• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket)\n\n**Bomb Tank**:\n• <a:provoke:629028145575755815> and move out of MD after Vorago spawns\n• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump\n\n** **",
-          "inline": false
-        },
-        {
-          "name": "> __Strategy: Phase 5__",
-          "value": "• Can save <:reprisal:707318843743404102> for the second TS\n\n**Base/DPS**:\n• Ultimate South and MD after TS spawns. It's advised to tank it\n• Go back to your ult and use thresholds until reflect\n• *Switching*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS\n\n**Bomb Tank**:\n• Use <:disruptionshield:628994905930465300> after TS spawns\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>\n• *Switching*: Ultimate during bleeds",
-          "inline": false
-        }
-      ]
-    }
-  ]
-}
-.embed:json
+<:meleecape:854744278236266526> **Melee - Phase 3 Ceiling Collapse**
+Natural Instinct -33 First Jump
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766> → <:Provoke:612343255866146835> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766>
+
+__On Drop__
+<:Berserk:629132737852473354> → <:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:Barge:629132727064461318> → <:Renewal:811286186823516181> → (stall) <:SuperiorStatiusWarhammer:612419367883505685>
+
+__TC__
+<:Vulnerability:625788254674747392> → <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:dclaws:811020902498041856> → <:Cleave:629132756903002122>
+<:Limitless:624339238296485928> <:Hurricane:629132870874693645> → <:VestasLongsword:688114196285620331> or <:Quake:629136298887741490>
+Obs <:Hurricane:629132870874693645> will be stalled due to the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
+
+__Reflect__
+<:StormShards:612415793941970944> → <:Provoke:612343255866146835> → <:divert:811984930602877001> → <:Preparation:612343232743079967> → (on dummy) <:Barge:629132727064461318>
+
+__After Reflect__
+<:GreaterFlurry:629132845322993697> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:GreaterFury:629132853451423766> → <:VestasLongsword:688114196285620331>
+
+.
+<:meleecape:854744278236266526> **Melee - Phase 3 Ceiling Collapse (Advanced)**
+Natural Instinct -27 Second Land
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> → <:dbowauto:811018359507255296> (auto) → <:glaive:855110178407055361> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbowauto:811018359507255296> (auto) → <:PiercingShot:624335352433344552>
+
+Crack
+<:Berserk:629132737852473354> → <:Anticipation:612415877643501635> → <:Barge:629132727064461318> → <:Freedom:612343164392570969> → <:dbowauto:811018359507255296> → <:SuperiorStatiusWarhammer:612419367883505685> <:Renewal:811286186823516181>
+
+__TC__
+<:Vulnerability:625788254674747392> → <:Assault:629132704163692544> → <:Slaughter:629136398942863390> → <:Decimate:629132764637036554> → <:dclaws:811020902498041856>
+<:Limitless:624339238296485928> <:Hurricane:629132870874693645> → <:VestasLongsword:688114196285620331> or <:Quake:629136298887741490>
+Obs <:Hurricane:629132870874693645> will be stalled due to the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
+
+__Reflect__
+<:StormShards:612415793941970944> → <:Resonance:612343287835000832> → <:Preparation:612343232743079967>
+
+__ After Reflect__
+<:Ingen:811285659460304957> → <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122>
