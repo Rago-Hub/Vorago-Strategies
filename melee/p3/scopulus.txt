@@ -1,54 +1,25 @@
-{
-  "embeds": [
-    {
-      "title": "Phase 3 Scopulus",
-      "color": 16221227,
-      "description": "• Natty: -27, Second Land\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:Attack:612413657661308950> <:Provoke:612343255866146835> <:Attack:612413657661308950> <:GreaterFury:629132853451423766> <:Slice:629136409340411912>\n\n**Crack**\n<:Anticipation:612415877643501635> <:Preparation:612343232743079967> <:Berserk:629132737852473354> <:Renewal:811286186823516181> <:Barge:629132727064461318> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**TC**\n<:Vulnerability:625788254674747392> <:Decimate:629132764637036554> <:Assault:629132704163692544> <:Cleave:629132756903002122> <:Quake:629136298887741490> <:Sever:629136387542876170> <:GreaterFlurry:629132845322993697> <:Decimate:629132764637036554>  <:Limitless:624339238296485928> <:Hurricane:629132870874693645>",
-      "timestamp": "",
-      "author": {
-        "name": "Melee Rotations",
-        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
-        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
-{
-  "embeds": [
-    {
-      "title": "Phase 3 Scopulus",
-      "color": 16221227,
-      "description": "• Natty: -27, Second Land\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552> <:Provoke:612343255866146835> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552>\n\n**Crack**\n<:Anticipation:612415877643501635> <:Berserk:629132737852473354> <:Renewal:811286186823516181> <:Barge:629132727064461318> <:Freedom:612343164392570969> <:dbowauto:811018359507255296> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**TC**\n<:Vulnerability:625788254674747392> <:Assault:629132704163692544> <:Decimate:629132764637036554> <:Impatient:811283471599272046> <:Cleave:629132756903002122> <:Provoke:612343255866146835> <:SuperiorStatiusWarhammer:612419367883505685> <:Quake:629136298887741490> <:GreaterFlurry:629132845322993697>  <:Limitless:624339238296485928> <:Hurricane:629132870874693645>",
-      "timestamp": "",
-      "author": {
-        "name": "Advanced Melee Rotations - Dark Bow",
-        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
-        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+Copy this
+<:meleecape:854744278236266526> **Melee - Phase 3 Scopulus**
+Natural Instinct -27 Second Jump
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> <:Attack:612413657661308950> → <:Provoke:612343255866146835> <:Attack:612413657661308950> → <:GreaterFury:629132853451423766> → <:Slice:629136409340411912>
+
+__Crack__
+<:Anticipation:612415877643501635> → <:Preparation:612343232743079967> → <:Berserk:629132737852473354> <:Renewal:811286186823516181> → <:Barge:629132727064461318> → <:SuperiorStatiusWarhammer:612419367883505685>
+
+__TC__
+<:Vulnerability:625788254674747392> → <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:Cleave:629132756903002122> → <:Quake:629136298887741490> → <:Sever:629136387542876170> → <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554>
+
+.
+<:meleecape:854744278236266526> **Melee - Phase 3 Scopulus (Advanced)**
+Natural Instinct -27 Second Land
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> → <:dbowauto:811018359507255296> (auto) → <:glaive:855110178407055361> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbowauto:811018359507255296> (auto) → <:PiercingShot:624335352433344552>
+
+Crack
+<:Anticipation:612415877643501635> → <:Berserk:629132737852473354> <:Renewal:811286186823516181> → <:Barge:629132727064461318> → <:Freedom:612343164392570969> <:dbowauto:811018359507255296> → <:SuperiorStatiusWarhammer:612419367883505685>
+
+__TC__
+<:Vulnerability:625788254674747392> → <:Assault:629132704163692544> → <:Decimate:629132764637036554> → <:Cleave:629132756903002122> → <:Provoke:612343255866146835> → <:SuperiorStatiusWarhammer:612419367883505685> → <:Quake:629136298887741490> → <:GreaterFlurry:629132845322993697>
