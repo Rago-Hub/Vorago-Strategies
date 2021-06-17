@@ -1,54 +1,42 @@
-{
-  "embeds": [
-    {
-      "title": "Phase 3 The End",
-      "color": 16221227,
-      "description": "• Natty: -30, Second Jump\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:GreaterFury:629132853451423766> <:Slice:629136409340411912> <:Provoke:612343255866146835> <:Slice:629136409340411912>\n\n**Crack**\n<:Preparation:612343232743079967> <:Berserk:629132737852473354> <:Renewal:811286186823516181> <:Barge:629132727064461318> <:Freedom:612343164392570969> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**TC**\n<:Vulnerability:625788254674747392> <:Limitless:624339238296485928> <:Destroy:629132772094640161>\n\n**The End**\n<:Resonance:612343287835000832> <:Slice:629136409340411912> <:Barge:629132727064461318>\n\n**Quadrant 1**\n<:Assault:629132704163692544> <:dclaws:811020902498041856> <:Backhand:629132712141127751> <:Cleave:629132756903002122> <:Sever:629136387542876170> <:Decimate:629132764637036554> <:GreaterFury:629132853451423766> <:Freedom:612343164392570969> <:Cleave:629132756903002122> <:Dismember:612416146569691148> <:BloodTendrils:640603278551547934> <:Slice:629136409340411912> <:GreaterFury:629132853451423766>\n\n**Quadrant 4**\n<:Anticipation:612415877643501635> <:ZarosGodsword:629133733601083394> <:Barge:629132727064461318> <:Slice:629136409340411912>\n\n**Stand Up**\n<:Cleave:629132756903002122> <:Assault:629132704163692544> <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> <:Decimate:629132764637036554> <:GreaterFury:629132853451423766> <:VestasLongsword:688114196285620331>",
-      "timestamp": "",
-      "author": {
-        "name": "Melee Rotations",
-        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
-        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
-{
-  "embeds": [
-    {
-      "title": "Phase 3 The End",
-      "color": 16221227,
-      "description": "• Natty: -27, Second Land\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552> <:Provoke:612343255866146835> <:dbowauto:811018359507255296> <:PiercingShot:624335352433344552>\n\n**Crack**\n<:Resonance:612343287835000832> <:Berserk:629132737852473354> <:Renewal:811286186823516181> <:Barge:629132727064461318> <:Freedom:612343164392570969> <:dbowauto:811018359507255296> <:SuperiorStatiusWarhammer:612419367883505685>\n\n**TC**\n<:Vulnerability:625788254674747392> <:Destroy:629132772094640161>\n\n**The End**\n<:Anticipation:612415877643501635> stall <:Slice:629136409340411912> <:Barge:629132727064461318>\n\n**Quadrant 1**\n<:Assault:629132704163692544> <:dclaws:811020902498041856>  <:Backhand:629132712141127751>",
-      "timestamp": "",
-      "author": {
-        "name": "Advanced Melee Rotations - Dark Bow",
-        "url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451",
-        "icon_url": "https://runescape.wiki/images/6/65/Attack_master_cape.png?8f451"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+<:meleecape:854744278236266526> **Melee - Phase 3 The end**
+Natural Instinct -30 Second Jump
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:GreaterFury:629132853451423766> → <:Slice:629136409340411912>
+
+__On Drop__
+<:Preparation:612343232743079967> → <:Berserk:629132737852473354> <:Renewal:811286186823516181> → <:Barge:629132727064461318> → <:Freedom:612343164392570969> → (stall) <:SuperiorStatiusWarhammer:612419367883505685>
+
+__TC__
+<:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Limitless:624339238296485928> → <:Destroy:629132772094640161>
+
+__The End__
+<:Resonance:612343287835000832> → <:Slice:629136409340411912> → <:Barge:629132727064461318>
+
+__Quadrant 1__
+<:Assault:629132704163692544> → <:dclaws:811020902498041856> → <:Backhand:629132712141127751> → <:Cleave:629132756903002122> → <:Sever:629136387542876170> → <:Decimate:629132764637036554> → <:GreaterFury:629132853451423766> → <:Cleave:629132756903002122> → <:Dismember:612416146569691148> → <:BloodTendrils:640603278551547934> → 
+
+__Quadrant 4__
+Build to <:ZarosGodsword:629133733601083394> → <:Freedom:612343164392570969> → <:Resonance:612343287835000832> → <:Barge:629132727064461318>
+
+__Stand__
+<:Cleave:629132756903002122> → <:Assault:629132704163692544> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Decimate:629132764637036554> → <:GreaterFury:629132853451423766> → <:VestasLongsword:688114196285620331>
+
+.
+<:meleecape:854744278236266526> **Melee - Phase 3 The End (Advanced)**
+Natural Instinct -27 Second Jump
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> → <:dbowauto:811018359507255296> (auto) → <:glaive:855110178407055361> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbowauto:811018359507255296> (auto) → <:PiercingShot:624335352433344552>
+
+__On Drop__
+<:Berserk:629132737852473354> → <:Anticipation:612415877643501635> → mobile <:Barge:629132727064461318> → <:Freedom:612343164392570969> → (stall) <:SuperiorStatiusWarhammer:612419367883505685> <:Renewal:811286186823516181>
+
+__TC__
+<:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Destroy:629132772094640161>
+
+__The End__
+(on dummy) <:Anticipation:612415877643501635> → <:Provoke:612343255866146835> → <:Barge:629132727064461318> and <:BladedDive:612415619958046720> md
+
+__Quadrant 1__
+<:Assault:629132704163692544> → <:dclaws:811020902498041856> → <:Backhand:629132712141127751>
