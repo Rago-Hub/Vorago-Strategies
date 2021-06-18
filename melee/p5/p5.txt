@@ -13,10 +13,10 @@ __TC (Melee & Range)__
 __TC (Melee & Mage)__
 <:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> → <:Assault:629132704163692544> → <:VestasLongsword:688114196285620331> → <:Ingen:811285659460304957> <:Limitless:624339238296485928> <:Quake:629136298887741490> → <:Cleave:629132756903002122> → <:Sever:629136387542876170> → <:Hurricane:629132870874693645> → <:VestasLongsword:688114196285620331>
 
-**Note** This rotation may also be used during Team Split if you want to 0 spec.
+**Note**: This rotation may also be used during Team Split if you want to 0 spec.
 
 .
-meleecape **Melee - Phase 5 (Team Split)**
+<:meleecape:854744278236266526> **Melee - Phase 5 (Team Split)**
 Natural Instinct -27, Second Jump
 
 __Vorago's Death__
