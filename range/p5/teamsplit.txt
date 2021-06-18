@@ -19,7 +19,7 @@ Natural Instinct -30, Second Jump
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:PiercingShot:624335352433344552> → <:DazingShot:624335299694297110>
 
-__Crack__
+__On Drop__
 <:Preparation:612343232743079967> <:Surge:612343348455407626> → <:DeathsSwiftness:624335314454052879> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → <:Resonance:612343287835000832> → Equip <:hydrix:855519733582528552>
 
 __TC__
