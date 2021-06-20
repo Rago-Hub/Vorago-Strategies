@@ -2,6 +2,7 @@
 Natural Instinct -24, Third Jump
 
 __Vorago's Death__
+To time -24 use an ability during the Second Jump (-27) as follows:
 <:GreaterFury:629132853451423766> → <:NaturalInstinct:612343197489692672> → <:Provoke:612343255866146835> → <:GreaterFury:629132853451423766>
 
 __On Drop__
@@ -27,6 +28,7 @@ __After Reflect__
 Natural Instinct -24, Third Jump
 
 __Vorago's Death__
+To time -24 use an ability during the Second Jump (-27) as follows:
 <:GreaterFury:629132853451423766> → <:NaturalInstinct:612343197489692672> → <:Provoke:612343255866146835> → <:GreaterFury:629132853451423766>
 
 __On Drop__
