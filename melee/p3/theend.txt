@@ -1,5 +1,5 @@
 <:meleecape:854744278236266526> **Melee - Phase 3 The end**
-Natural Instinct -30 (1 gcd after First Jump)
+Natural Instinct -30, Second Jump
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:Slice:629136409340411912>
@@ -24,7 +24,7 @@ __Stand__
 
 .
 <:meleecape:854744278236266526> **Melee - Phase 3 The End (Advanced)**
-Natural Instinct -27, Second Jump
+Natural Instinct -27, Second Land
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:dbowauto:811018359507255296> (auto) → <:glaive:855110178407055361> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbowauto:811018359507255296> (auto) → <:PiercingShot:624335352433344552>
