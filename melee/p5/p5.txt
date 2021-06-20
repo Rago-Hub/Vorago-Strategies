@@ -20,7 +20,7 @@ __TC (Melee & Mage)__
 Natural Instinct -27, Second Jump
 
 __Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766>
+<:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:Slice:629136409340411912>
 
 __On Drop__
 <:Resonance:612343287835000832> → <:Preparation:612343232743079967>
