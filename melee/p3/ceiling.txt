@@ -1,5 +1,5 @@
 <:meleecape:854744278236266526> **Melee - Phase 3 Ceiling Collapse**
-Natural Instinct -33, First Jump
+Natural Instinct -33, First Land
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766> → <:Provoke:612343255866146835> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766>
