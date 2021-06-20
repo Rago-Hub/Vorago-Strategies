@@ -1,5 +1,5 @@
 <:meleecape:854744278236266526> **Melee - Phase 5 (Non Team Split)**
-Natural Instinct -27, Second Jump
+Natural Instinct -27, Second Land
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:dbowauto:811018359507255296> (auto) → <:glaive:855110178407055361> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbowauto:811018359507255296> (auto) → <:PiercingShot:624335352433344552>
@@ -17,7 +17,7 @@ __TC (Melee & Mage)__
 
 .
 <:meleecape:854744278236266526> **Melee - Phase 5 (Team Split)**
-Natural Instinct -27, Second Jump
+Natural Instinct -27, Second Land
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:Slice:629136409340411912>
