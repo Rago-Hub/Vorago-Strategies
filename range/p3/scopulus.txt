@@ -1,27 +1,11 @@
-{
-  "embeds": [
-    {
-      "title": "Phase 3 Scopulus",
-      "color": 1806105,
-      "description": "• Natty: -29\n\n**Vorago's Death**\n<:NaturalInstinct:612343197489692672> <:PiercingShot:624335352433344552> <:Provoke:612343255866146835> <:PiercingShot:624335352433344552>\n\n**Crack**\n<:DazingShot:624335299694297110> <:Preparation:612343232743079967> <:BladedDive:612415619958046720> <:DeathsSwiftness:624335314454052879> <:Anticipation:612415877643501635> <:Impatient:811283471599272046> <:Freedom:612343164392570969> <:GreaterRicochet:788061815271718943>\n\n**TC**\n<:Vulnerability:625788254674747392> <:CorruptionShot:624335289501876276> Equip Chinchompas <:Snipe:624335396578394124> <:dbowauto:811018359507255296> <:Renewal:811286186823516181> <:SnapShot:624335384993726474> <:dbowauto:811018359507255296> <:GreaterRicochet:788061815271718943> <:Limitless:624339238296485928> <:RapidFire:624335359660261387>",
-      "timestamp": "",
-      "author": {
-        "name": "Advanced Range Rotations",
-        "url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881",
-        "icon_url": "https://runescape.wiki/images/3/3c/Ranged_master_cape.png?4d881"
-      },
-      "image": {
-        "url": ""
-      },
-      "thumbnail": {
-        "url": ""
-      },
-      "footer": {
-        "text": "For more rotations use: {{ prefix }}ability",
-        "icon_url": ""
-      },
-      "fields": []
-    }
-  ]
-}
-.embed:json
+<:rangecape:854744277850914827>  **Range - Phase 3 Scopulus (Advanced)**
+Natural Instinct -29
+
+__Vorago's Death__
+<:NaturalInstinct:612343197489692672> → <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:PiercingShot:624335352433344552> → <:DazingShot:624335299694297110>
+
+__Crack__
+<:Preparation:612343232743079967> → <:DeathsSwiftness:624335314454052879> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → (stall) <:GreaterRicochet:788061815271718943>
+
+__TC__
+<:Vulnerability:625788254674747392> (release) <:GreaterRicochet:788061815271718943> <:CorruptionShot:624335289501876276> → (Equip Chinchompas) <:Snipe:624335396578394124> → <:dbowauto:811018359507255296> <:eof:855489669918359572> <:Renewal:811286186823516181> → <:SnapShot:624335384993726474> → (3Hit) <:RapidFire:624335359660261387> → <:GreaterRicochet:788061815271718943> → <:dbowauto:811018359507255296> <:eof:855489669918359572>
