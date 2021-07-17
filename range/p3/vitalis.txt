@@ -17,7 +17,7 @@ __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:PiercingShot:624335352433344552> → <:DazingShot:624335299694297110>
 
 __Crack__
-<:Preparation:612343232743079967> → <:DeathsSwiftness:624335314454052879> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → (stall) <:SerenGodbow:613342746455048192>
+<:Preparation:612343232743079967> → <:DeathsSwiftness:624335314454052879> → <:Anticipation:612415877643501635> → <:EldritchCrossbow:644271590133071883> → (stall) <:SerenGodbow:613342746455048192>
 
 __TC__
 <:Vulnerability:625788254674747392> (release) <:SerenGodbow:613342746455048192> <:GreaterRicochet:788061815271718943> → (walked) <:FragmentationShot:624335321194299413> → <:ShadowTendrils:624335376877748245> → <:Limitless:624339238296485928> (7hit) <:RapidFire:624335359660261387> → <:SnapShot:624335384993726474>
