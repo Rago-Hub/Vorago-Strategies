@@ -1,0 +1,410 @@
+{
+"<:magecape:854434844851699762>": [
+"Magecape",
+],
+"<:rangecape:854744277850914827> ": [
+"Rangecape",
+],
+"<:meleecape:854744278236266526>": [
+"Meleecape",
+],
+"<:Attack:612413657661308950>": [
+"Attack",
+],
+"<:ranged:854785024351928400>": [
+"Ranged",
+],
+"<:eof:855519350035709953>": [
+"Eof",
+],
+"<:BloodBarrage:612422231439441946>": [
+"BloodBarrage",
+],
+"<:BloodBarrage:612422231439441946>": [
+"Barrage",
+],
+"<:BloodBlitz:731811271304806400>": [
+"Blitz",
+],
+"<:Vulnerability:625788254674747392>": [
+"Vulnerability",
+],
+"<:Vulnerability:625788254674747392>": [
+"Vuln",
+],
+"<:intercept:811607916196266024>": [
+"Intercept",
+],
+"<:healother:812041131290001482>": [
+"Heal",
+],
+"<:disruptionshield:811978965953937409>": [
+"DS",
+],
+"<:hydrix:855519733582528552>": [
+"Hydrix",
+],
+"<:glaive:855110178407055361>": [
+"Glaive",
+],
+"<:NoxiousScythe:701118924468781106>": [
+"Scythe",
+],
+"<:dbowauto:811018359507255296>": [
+"DBow",
+],
+"<:maul4:812778058812751933>": [
+"Maul",
+],
+"<:Powerburstofacceleration:812779084035784714>": [
+"Accel",
+],
+"<:excalibur:811978817605468201>": [
+"Excalibur",
+],
+"<:SuperiorStatiusWarhammer:612419367883505685>": [
+"swh",
+],
+"<:VestasLongsword:688114196285620331>": [
+"Vls",
+],
+"<:ZarosGodsword:629133733601083394>": [
+"ZGS",
+],
+"<:dclaws:811020902498041856>": [
+"DClaws",
+],
+"<:SerenGodbow:613342746455048192>": [
+"SGB",
+],
+"<:EldritchCrossbow:644271590133071883>": [
+"ECB",
+],
+"<:dbowauto:811018359507255296>": [
+"DarkBow",
+],
+"<:GuthixStaff:612419359649824779>": [
+"GuthixStaff",
+],
+"<:GuthixStaff:612419359649824779>": [
+"GStaff",
+],
+"<:Slice:629136409340411912>": [
+"Slice",
+],
+"<:eslice:879009345029947442>": [
+"eSlice",
+],
+"<:GreaterFury:629132853451423766>": [
+"Fury",
+],
+"<:Dismember:612416146569691148>": [
+"Dismember",
+],
+"<:Backhand:629132712141127751>": [
+"Backhand",
+],
+"<:fbackhand:879009344451133502>": [
+"fBackhand",
+],
+"<:Barge:629132727064461318>": [
+"Barge",
+],
+"<:Decimate:629132764637036554>": [
+"Decimate",
+],
+"<:Cleave:629132756903002122>": [
+"Cleave",
+],
+"<:Sever:629136387542876170>": [
+"Sever",
+],
+"<:BladedDive:612415619958046720>": [
+"BladedDive",
+],
+"<:BladedDive:612415619958046720>": [
+"BD",
+],
+"<:Quake:629136298887741490>": [
+"Quake",
+],
+"": [
+"Forceful",
+],
+"<:fforceful:879009344585334796>": [
+"fForceful",
+],
+"<:Hurricane:629132870874693645>": [
+"Hurricane",
+],
+"<:Destroy:629132772094640161>": [
+"Destroy",
+],
+"<:Assault:629132704163692544>": [
+"Assault",
+],
+"<:Assault:629132704163692544>": [
+"mAssault",
+],
+"<:GreaterFlurry:629132845322993697>": [
+"Flurry",
+],
+"<:BloodTendrils:640603278551547934>": [
+"BloodTendrils",
+],
+"<:Slaughter:629136398942863390>": [
+"Slaughter",
+],
+"<:Berserk:629132737852473354>": [
+"Berserk",
+],
+"<:Berserk:629132737852473354>": [
+"Zerk",
+],
+"<:MeteorStrike:629136340230995978>": [
+"Meteor",
+],
+"<:PiercingShot:624335352433344552>": [
+"Piercing",
+],
+"<:epiercing:879009345222885386>": [
+"ePiercing",
+],
+"<:Rout:691056729462407208>": [
+"Rout",
+],
+"<:BindingShot:624335271466500106>": [
+"BindingShot",
+],
+"<:fbinding:879009344816037921>": [
+"fBindingShot",
+],
+"<:FragmentationShot:624335321194299413>": [
+"FragmentationShot",
+],
+"<:FragmentationShot:624335321194299413>": [
+"Frag",
+],
+"<:CorruptionShot:624335289501876276>": [
+"CorruptionShot",
+],
+"<:Snipe:624335396578394124>": [
+"Snipe",
+],
+"<:NeedleStrike:624335344241868852>": [
+"Needle",
+],
+"<:DazingShot:624335299694297110>": [
+"Dazing",
+],
+"<:GreaterRicochet:788061815271718943>": [
+"GreaterRicochet",
+],
+"<:GreaterRicochet:788061815271718943>": [
+"Grico",
+],
+"<:cgrico:879009345239658537>": [
+"cGrico",
+],
+"<:Escape:612343146570842115>": [
+"Escape",
+],
+"<:RapidFire:624335359660261387>": [
+"Rapid",
+],
+"<:SnapShot:624335384993726474>": [
+"Snapshot",
+],
+"<:SnapShot:624335384993726474>": [
+"Snap",
+],
+"<:ShadowTendrils:624335376877748245>": [
+"ShadowTendrils",
+],
+"<:SaltTheWound:640573102761312257>": [
+"Salt",
+],
+"<:Bombardment:624335282036277248>": [
+"Bombardment",
+],
+"": [
+"Demoralise",
+],
+"<:TightBindings:624335403922620417>": [
+"TightBindings",
+],
+"<:ftightbindings:879009345046716446>": [
+"fTightBindings",
+],
+"<:DeathsSwiftness:624335314454052879>": [
+"Swiftness",
+],
+"<:IncendiaryShot:624335336612429824>": [
+"Incendiary",
+],
+"<:Unload:624335410775982081>": [
+"Unload",
+],
+"<:Deadshot:624335306983997445>": [
+"Deadshot",
+],
+"<:Wrack:603015911384940545>": [
+"Wrack",
+],
+"<:ewrack:879009344765698069>": [
+"eWrack",
+],
+"": [
+"Shock",
+],
+"<:Impact:603015572095238157>": [
+"fImpact",
+],
+"<:Combust:603015429488771072>": [
+"Combust",
+],
+"<:CorruptionBlast:603015451437432834>": [
+"CorruptionBlast",
+],
+"<:DragonBreath:603015526557679646>": [
+"DragonBreath",
+],
+"<:DragonBreath:603015526557679646>": [
+"Db",
+],
+"<:DragonBreath:603015526557679646>": [
+"DBreath",
+],
+"<:ConcentratedBlast:603015440595156992>": [
+"ConcentratedBlast",
+],
+"<:ConcentratedBlast:603015440595156992>": [
+"Conc",
+],
+"<:gconc:879020912920371210>": [
+"gConc",
+],
+"<:SonicWave:603015822671085569>": [
+"SonicWave",
+],
+"<:SonicWave:603015822671085569>": [
+"Sonic",
+],
+"": [
+"Impact",
+],
+"<:fimpact:879009345097064488>": [
+"fImpact",
+],
+"<:Chain:603015419540013076>": [
+"Chain",
+],
+"<:Surge:612343348455407626>": [
+"Surge",
+],
+"<:Asphyxiate:603015374941847567>": [
+"Asphyxiate",
+],
+"<:Asphyxiate:603015374941847567>": [
+"Asphyx",
+],
+"<:WildMagic:603015901343776772>": [
+"wm",
+],
+"<:WildMagic:603015901343776772>": [
+"wildmagic",
+],
+"<:Detonate:603015480466210842>": [
+"Detonate",
+],
+"<:DeepImpact:603015470953791509>": [
+"Deep",
+],
+"<:fdeep:879009345503903755>": [
+"fDeep",
+],
+"<:Tsunami:603015873917353999>": [
+"Tsunami",
+],
+"<:Omnipower:603015641896583182>": [
+"Omnipower",
+],
+"<:Sunshine:603015844263362570>": [
+"Sunshine",
+],
+"<:Metamorphosis:603015598347124781>": [
+"Meta",
+],
+"<:StormShards:612415793941970944>": [
+"StormShards",
+],
+"<:StormShards:612415793941970944>": [
+"Shards",
+],
+"<:StormShards:612415793941970944>": [
+"Shard",
+],
+"<:TuskasWrath:640644043696504891>": [
+"Tuska",
+],
+"<:Sacrifice:612415762682085376>": [
+"Sacrifice",
+],
+"<:Shatter:612415777135394838>": [
+"Shatter",
+],
+"<:Reprisal:612415749168037908>": [
+"Reprisal",
+],
+"<:Provoke:612343255866146835>": [
+"Provoke",
+],
+"<:Provoke:612343255866146835>": [
+"Voke",
+],
+"<:divert:811984930602877001>": [
+"Divert",
+],
+"<:Freedom:612343164392570969>": [
+"Freedom",
+],
+"<:Anticipation:612415877643501635>": [
+"Anticipate",
+],
+"<:Anticipation:612415877643501635>": [
+"Anticipation",
+],
+"<:Preparation:612343232743079967>": [
+"Preparation",
+],
+"<:Resonance:612343287835000832>": [
+"Resonance",
+],
+"<:Revenge:612343310329053186>": [
+"Revenge",
+],
+"<:devotion:811600042602922024>": [
+"Devotion",
+],
+"<:NaturalInstinct:612343197489692672>": [
+"Natty",
+],
+"<:Barricade:612343091621527572>": [
+"Barricade",
+],
+"<:Ingen:811285659460304957>": [
+"Ingen",
+],
+"<:Limitless:624339238296485928>": [
+"Limitless",
+],
+"<:bluebomb:508944148557201408>": [
+"Bluebomb",
+],
+"<:redbomb:508944149257519104>": [
+"Redbomb",
+],
+"<:Renewal:811286186823516181>": [
+"Renewal",
+]
+}
