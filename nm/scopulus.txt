@@ -1,4 +1,4 @@
-Using AoE abilities and Barrage spells   is recommended for Phase 3.
+Using AoE abilities and Barrage spells <:bloodbarrage:537338981747261446> <:icebarrage:537340400185245701> is recommended for Phase 3.
 
 **Phase 3**
 2 *Scopulii* will spawn (SW and SE)→ Blues (until both die)
@@ -11,30 +11,30 @@ Waterfall→ 3 Att→ Clone→ 7 Att→ *Red*→ 4 Att→ *Bleeds*→ 3 Att→ O
 
 __Base/DPS:__
 
-• Ultimate South-West and tag both Scopulus  as soon as possible
+• Ultimate South-West and tag both Scopulus <:scopulus:851518053430329384> as soon as possible
 • Stand together to stack them
 • Use Provoke if they turn to the BT
 
 __Bomb Tank:__
 
 • Ultimate by the South-West corner
-• Make sure to target Scopulus  after the Base/DPS tag them, to avoid aggro switching
+• Make sure to target Scopulus <:scopulus:851518053430329384> after the Base/DPS tag them, to avoid aggro switching
 
 > __**Strategy: Phase 5**__
 
 __Base/DPS:__
 
 • Ultimate South and MD on dropdown
-• If it's a Trio, start with  (Base North, DPS South)
-• Switching: disruptionshield the next bluebomb, built to  after
+• If it's a Trio, start with <:onsl:513190159085207555> (Base North, DPS South)
+• Switching: disruptionshield the next bluebomb, built to <:cade:535541306353778689> after
 
 __Bomb Tank:__
 
-• Use ionshield as P4 ends, to block the first bluebomb on 
+• Use disrupt as Phase 4 ends, to block the first Blue on Phase 5
 • Start with one threshold and vuln / vulnbomb
-• Build to  the second bluebomb
+• Build to <:cade:535541306353778689> the second bluebomb
 • Switching: Use an Ultimate or finish the Phase with thresholds
 
 > __**Relevant clips**__
 
-•  Target Cycling Quick Guide - Luring Scops: https://www.youtube.com/watch?v=wRcdDVuHvwA
+• <:vorago:572867742613635082> Target Cycling Quick Guide - Luring Scops: https://www.youtube.com/watch?v=wRcdDVuHvwA
