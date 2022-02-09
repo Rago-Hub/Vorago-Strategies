@@ -9,25 +9,33 @@ Waterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ 
 **Phase 5**
 *TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att
 
-> __Strategy: Phase 3__
+> __**Strategy: Phase 3**__
+
 • Start with an ultimate on dropdown. Place it MD
 • Vorago jumps after the second auto attack
 • BT places it North and Base/DPS South. Example:
-https://clips.twitch.tv/BumblingDependableWheelPanicBasket
 
-**Bomb Tank**
+__Bomb Tank__
+
 • Provoke <:voke:535541259465392143> the whole phase and move out of MD
 • Alternative: Ultimate after second Rock lands
 
-> __Strategy: Phase 5__
+> __**Strategy: Phase 5**__
+
 • Can save <:Reprisal:513190159462694912> for the second Team Split
 
-**Base/DPS**:
+__Base/DPS__
+
 • Ultimate South and MD after Team Split spawns. It's advised to tank it
 • Go back to your ult and use thresholds until Reflect
-• *Switching*: Activate <:disrupt:535614336207552523> inside the Team Split, then use a threshold and build to <:cade:535541306353778689> the second blue
+• *Switching*: Use <:disrupt:535614336207552523> for the second blue after Bleeds. Build to <:cade:535541306353778689> on the first blue after Team Split
 
-**Bomb Tank**:
-• Use <:disrupt:535614336207552523>ionshield after TS spawns
+__Bomb Tank__
+
+• Use <:disrupt:535614336207552523> after Team Split spawns
 • Use one threshold and build to <:cade:535541306353778689> the second Blue
 • *Switching*: Ultimate during bleeds
+
+> __**Relevant clips**__
+
+• Ultimate placement Phase 3: https://clips.twitch.tv/BumblingDependableWheelPanicBasket
