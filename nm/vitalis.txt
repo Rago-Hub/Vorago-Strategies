@@ -16,6 +16,7 @@ __Base/DPS:__
 • Provoke <:voke:535541259465392143> before the third attack
 
 __Bomb Tank:__
+
 • Ultimate in the South-West quadrant on dropdown
 • Only go Melee Distance when Bleeds <:dismember:535532879376023572> will start
 
