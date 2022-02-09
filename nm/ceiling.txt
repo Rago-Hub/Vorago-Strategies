@@ -26,13 +26,13 @@ __Base/DPS__
 
 • Ultimate South and MD after Team Split spawns. It's advised to tank it
 • Go back to your ult and use thresholds until Reflect
-• *Switching*: Use <:disrupt:535614336207552523> for the second blue after Bleeds. Build to <:cade:535541306353778689> on the first blue after Team Split
+• Switching: Use <:disrupt:535614336207552523> for the second blue after Bleeds. Build to <:cade:535541306353778689> on the first blue after Team Split
 
 __Bomb Tank__
 
 • Use <:disrupt:535614336207552523> after Team Split spawns
 • Use one threshold and build to <:cade:535541306353778689> the second Blue
-• *Switching*: Ultimate during bleeds
+• Switching: Ultimate during bleeds
 
 > __**Relevant clips**__
 
