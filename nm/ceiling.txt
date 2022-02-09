@@ -1,29 +1,33 @@
-Enable Shadows on Medium to see Rocks fall on Phase 3.
+Enable Shadows on Medium and disable skyboxes to see Rocks fall on Phase 3 and 4.
 
  **Phase 3**
 *Rock*→ 3 Att→ OFF→ 3 Att→ *Rock*→ 3 Att→ *Red*→ 4 Att
+
 **Phase 4**
 Waterfall→ 3 Att→ Clone→ 7 Att→ *Rock*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att
+
 **Phase 5**
 *TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att
 
 > __Strategy: Phase 3__
 • Start with an ultimate on dropdown. Place it MD
-• BT places it North and Base/DPS South. Refer to [this example](https://clips.twitch.tv/BumblingDependableWheelPanicBasket)
+• Vorago jumps after the second auto attack
+• BT places it North and Base/DPS South. Example:
+https://clips.twitch.tv/BumblingDependableWheelPanicBasket
 
-**Bomb Tank**:
-• <a:provoke:629028145575755815> and move out of MD after Vorago spawns
-• Alternative: Start with thresholds, <:onslaught:707318842417872949> after second jump
+**Bomb Tank**
+• Provoke <:voke:535541259465392143> the whole phase and move out of MD
+• Alternative: Ultimate after second Rock lands
 
 > __Strategy: Phase 5__
-• Can save <:reprisal:707318843743404102> for the second TS
+• Can save <:Reprisal:513190159462694912> for the second Team Split
 
 **Base/DPS**:
-• Ultimate South and MD after TS spawns. It's advised to tank it
-• Go back to your ult and use thresholds until reflect
-• *Switching*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS
+• Ultimate South and MD after Team Split spawns. It's advised to tank it
+• Go back to your ult and use thresholds until Reflect
+• *Switching*: Activate <:disrupt:535614336207552523> inside the Team Split, then use a threshold and build to <:cade:535541306353778689> the second blue
 
 **Bomb Tank**:
-• Use <:disruptionshield:628994905930465300> after TS spawns
-• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>
+• Use <:disrupt:535614336207552523>ionshield after TS spawns
+• Use one threshold and build to <:cade:535541306353778689> the second Blue
 • *Switching*: Ultimate during bleeds
