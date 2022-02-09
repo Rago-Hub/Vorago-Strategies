@@ -16,6 +16,7 @@ Waterfall→ 3 Att→ Clone→ 7 Att→ *GB* <:gb:646794380623085579>→ 5 Att�
 • Using a Vitality potion <:vitality:654618235097972737> is recommended. The BT must tank it too
 • Alternatively, if it's on the Bomb Tank, someone in the team (usually the Base Tank) can use Intercept <:Cept:543478434509357098> and <:vitality:654618235097972737>
 • Ultimate on dropdown (between two quadrants) and use thresholds until Reflect
+.
 
 > __**Strategy: Phase 5**__
 
