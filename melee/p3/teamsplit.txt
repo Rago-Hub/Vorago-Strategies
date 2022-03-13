@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 Teamsplit**
+> **Phase 3 (Team Split) - Melee**
 Natural Instinct -24, Third Jump
 
 __Vorago's Death__
@@ -18,13 +18,13 @@ __After Team Split__
 <:Vulnerability:625788254674747392> (release) <:Slaughter:629136398942863390> <:Cleave:629132756903002122> → <:Assault:629132704163692544> → <:Decimate:629132764637036554> → <:Limitless:624339238296485928> <:GreaterFlurry:629132845322993697> → <:Hurricane:629132870874693645>
 
 __Reflect__
-<:StormShards:612415793941970944> → <:Provoke:612343255866146835> → <:Resonance:612343287835000832> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> 
+<:StormShards:612415793941970944> → <:Provoke:612343255866146835> → <:Resonance:612343287835000832> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> 
 
 __After Reflect__
 <:VestasLongsword:688114196285620331>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 Team Split (Advanced)**
+> **Phase 3 (Team Split) - Advanced Melee**
 Natural Instinct -24, Third Jump
 
 __Vorago's Death__
@@ -32,7 +32,7 @@ To time -24 use an ability during the Second Jump (-27) as follows:
 <:GreaterFury:629132853451423766> → <:NaturalInstinct:612343197489692672> → <:Provoke:612343255866146835> → <:GreaterFury:629132853451423766>
 
 __On Drop__
-<:Resonance:612343287835000832> → <:Preparation:612343232743079967> → <:GreaterFury:629132853451423766> → <:Berserk:629132737852473354> <:dbowauto:811018359507255296> (auto) <:Renewal:811286186823516181> → (stall) <:Cleave:629132756903002122>
+<:Resonance:612343287835000832> → <:Preparation:612343232743079967> → <:GreaterFury:629132853451423766> → <:Berserk:629132737852473354> <:dbow:643848618553507843> (auto) <:Renewal:811286186823516181> → (stall) <:Cleave:629132756903002122>
 
 __TC__
 <:Vulnerability:625788254674747392> (release) <:Cleave:629132756903002122> <:SuperiorStatiusWarhammer:612419367883505685>

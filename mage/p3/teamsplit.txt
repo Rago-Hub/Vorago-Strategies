@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 Team Split**
+> **Phase 3 (Team Split) - Mage**
 
 __On Drop__
 <:Detonate:603015480466210842> (optional)
@@ -20,7 +20,7 @@ __After Reflect__
 <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> → <:DragonBreath:603015526557679646> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 Team Split (Advanced)**
+> **Phase 3 (Team Split) - Advanced Mage**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__
@@ -36,4 +36,4 @@ __Team Split__
 <:Freedom:612343164392570969> → <:Reprisal:612415749168037908>
 
 __After Team Split__
-<:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:Asphyxiate:603015374941847567> → (flank) <:Impact:603015572095238157> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
+<:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:Asphyxiate:603015374941847567> → (flank) <:Impact:603015572095238157> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>

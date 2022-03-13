@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 Ceiling Collapse**
+> **Phase 3 (Ceiling Collapse) - Mage**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -17,7 +17,7 @@ __Jump__
 <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 Ceiling Collapse (Advanced)**
+> **Phase 3 (Ceiling Collapse) - Advanced Mage**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__
@@ -31,7 +31,7 @@ __TC__
 <:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779>
 
 __Reflect__
-<:divert:811984930602877001> → <:StormShards:612415793941970944> → <:Preparation:612343232743079967> → <:Detonate:603015480466210842>
+<:divert:787904334377648130> → <:StormShards:612415793941970944> → <:Preparation:612343232743079967> → <:Detonate:603015480466210842>
 
 __Post-Reflect__
-<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:CorruptionBlast:603015451437432834> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> → <:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779>
+<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:CorruptionBlast:603015451437432834> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> → <:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779>

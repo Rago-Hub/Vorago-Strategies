@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 Green Bomb**
+> **Phase 3 (Green Bomb) - Mage**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -15,7 +15,7 @@ __After Reflect__
 <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:DragonBreath:603015526557679646>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 Green Bomb (Advanced)**
+> **Phase 3 (Green Bomb) - Advanced Mage**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__
@@ -25,11 +25,11 @@ __On Drop__
 <:Preparation:612343232743079967> → <:BladedDive:612415619958046720> → <:Sunshine:603015844263362570> <:Renewal:811286186823516181> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → (stall) <:GuthixStaff:612419359649824779>
 
 __TC__
-(release) <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779> <:WildMagic:603015901343776772> → <:Impact:603015572095238157> → <:Ingen:811285659460304957> <:SerenGodbow:613342746455048192> → <:Detonate:603015480466210842>
+(release) <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779> <:WildMagic:603015901343776772> → <:Impact:603015572095238157> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Detonate:603015480466210842>
 <:Limitless:624339238296485928> <:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779> → <:DragonBreath:603015526557679646>
 
 __Reflect__
-<:divert:811984930602877001> → <:StormShards:612415793941970944> → <:Preparation:612343232743079967> → <:BloodBlitz:731811271304806400> <:SonicWave:603015822671085569>
+<:divert:787904334377648130> → <:StormShards:612415793941970944> → <:Preparation:612343232743079967> → <:BloodBlitz:731811271304806400> <:SonicWave:603015822671085569>
 
 __After Reflect__
 <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772>
