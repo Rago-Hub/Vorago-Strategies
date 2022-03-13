@@ -11,7 +11,7 @@ __TC__
 <:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:dragonclaw:779048041088024606> <:eof:855519350035709953> → <:Cleave:629132756903002122>
 <:Limitless:624339238296485928> <:Hurricane:629132870874693645> → <:VestasLongsword:688114196285620331> or <:Quake:629136298887741490>
 
-Obs <:Hurricane:629132870874693645> will be stalled by the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
+**Note:** <:Hurricane:629132870874693645> will be stalled by the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
 
 __Reflect__
 <:StormShards:612415793941970944> → <:Provoke:612343255866146835> → <:divert:787904334377648130> → <:Preparation:612343232743079967> → (on dummy) <:Barge:629132727064461318>
@@ -32,7 +32,7 @@ __On Drop__
 __TC__
 <:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Assault:629132704163692544> → <:Slaughter:629136398942863390> → <:Decimate:629132764637036554> → <:dragonclaw:779048041088024606> <:eof:855519350035709953> → <:Limitless:624339238296485928> <:Hurricane:629132870874693645> → <:VestasLongsword:688114196285620331> or <:Quake:629136298887741490>
 
-Obs <:Hurricane:629132870874693645> will be stalled by the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
+**Note:** <:Hurricane:629132870874693645> will be stalled by the Jump; <:BladedDive:612415619958046720> close to Vorago and click him to release it.
 
 __Reflect__
 <:StormShards:612415793941970944> → <:Resonance:612343287835000832> → <:Preparation:612343232743079967> → <:Freedom:612343164392570969>
