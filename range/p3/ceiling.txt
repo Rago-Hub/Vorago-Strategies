@@ -1,4 +1,4 @@
-<:rangecape:854744277850914827>  **Range - Phase 3 Ceiling Collapse**
+> **Phase 3 (Ceiling Collapse) - Range**
 
 __On Drop__
 <:DeathsSwiftness:624335314454052879> <:Renewal:811286186823516181>
@@ -16,7 +16,7 @@ __Jump__
 <:Snipe:624335396578394124> → <:SnapShot:624335384993726474> → <:NeedleStrike:624335344241868852> → <:SerenGodbow:613342746455048192>
 
 .
-<:rangecape:854744277850914827>  **Range - Phase 3 Ceiling Collapse (Advanced)**
+> **Phase 3 (Ceiling Collapse) - Advanced Range**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__

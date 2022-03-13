@@ -1,4 +1,4 @@
-<:rangecape:854744277850914827>  **Range - Phase 5 (Team Split)**
+> **Phase 5 (Team Split) - Range**
 
 __On Drop__
 <:Surge:612343348455407626> → <:DeathsSwiftness:624335314454052879> <:Renewal:811286186823516181>
@@ -13,7 +13,7 @@ __After Team Split__
 <:SerenGodbow:613342746455048192> <:renewal:855519350035709953> → <:Snipe:624335396578394124> → <:Limitless:624339238296485928> (7hit) <:RapidFire:624335359660261387> → <:SnapShot:624335384993726474> → <:DazingShot:624335299694297110>
 
 .
-<:rangecape:854744277850914827>  **Range - Phase 5 (Advanced Team Split)**
+> **Phase 5 (Team Split) - Advanced Range**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__

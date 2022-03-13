@@ -1,4 +1,4 @@
-<:rangecape:854744277850914827>  **Range - Phase 3 Team Split**
+> **Phase 3 (Team Split) - Range**
 
 __On Drop__
 <:Surge:612343348455407626>
@@ -16,7 +16,7 @@ __Team Split__
 <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → <:Reprisal:612415749168037908> <:disruptionshield:811978965953937409> → (7hit) <:RapidFire:624335359660261387> → <:NeedleStrike:624335344241868852> → <:SerenGodbow:613342746455048192> → <:Snipe:624335396578394124> → <:NeedleStrike:624335344241868852> → <:SnapShot:624335384993726474> → <:CorruptionShot:624335289501876276> → <:NeedleStrike:624335344241868852> → <:ShadowTendrils:624335376877748245> → <:DazingShot:624335299694297110>
 
 .
-<:rangecape:854744277850914827>  **Range - Phase 3 Team Split (Advanced)**
+> **Phase 3 (Team Split) - Advanced Range**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__

@@ -1,4 +1,4 @@
-<:rangecape:854744277850914827>  **Range - Phase 3 The End**
+> **Phase 3 (The End) - Range**
 
 __On Drop__
 <:Surge:612343348455407626>
@@ -19,7 +19,7 @@ __Stand Up__
 <:SnapShot:624335384993726474> → <:NeedleStrike:624335344241868852> → <:SerenGodbow:613342746455048192> → (7hit) <:RapidFire:624335359660261387> → <:DazingShot:624335299694297110>
 
 .
-<:rangecape:854744277850914827>  **Range - Phase 3 The End (Advanced)**
+> **Phase 3 (The End) - Advanced Range**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__
