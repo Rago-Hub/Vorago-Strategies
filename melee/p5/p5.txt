@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 5 (Non Team Split)**
+> **Phase 5 (Non-Team Split) - Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__
@@ -16,7 +16,7 @@ __TC (Melee & Mage)__
 **Note**: This rotation may also be used during Team Split if you want to 0 spec.
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 5 (Team Split)**
+> **Phase 5 (Team Split) - Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__

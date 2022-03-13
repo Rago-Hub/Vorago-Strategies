@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 Scopulus**
+> **Phase 3 (Scopulus) - Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__
@@ -11,7 +11,7 @@ __TC__
 <:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Decimate:629132764637036554> → <:Assault:629132704163692544> → <:Cleave:629132756903002122> → <:Quake:629136298887741490> → <:Sever:629136387542876170> → (3t) <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554> → <:Hurricane:629132870874693645>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 Scopulus (Advanced)**
+> **Phase 3 (Scopulus) - Advanced Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__

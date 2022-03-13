@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 The end**
+> **Phase 3 (The end) - Melee**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__
@@ -23,7 +23,7 @@ __Stand__
 <:Cleave:629132756903002122> → <:Assault:629132704163692544> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Decimate:629132764637036554> → <:GreaterFury:629132853451423766> → <:VestasLongsword:688114196285620331>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 The End (Advanced)**
+> **Phase 3 (The End) - Advanced Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__

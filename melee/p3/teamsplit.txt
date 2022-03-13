@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 Teamsplit**
+> **Phase 3 (Team Split) - Melee**
 Natural Instinct -24, Third Jump
 
 __Vorago's Death__
@@ -24,7 +24,7 @@ __After Reflect__
 <:VestasLongsword:688114196285620331>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 Team Split (Advanced)**
+> **Phase 3 (Team Split) - Advanced Melee**
 Natural Instinct -24, Third Jump
 
 __Vorago's Death__

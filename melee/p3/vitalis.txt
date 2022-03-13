@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 Vitalis**
+> **Phase 3 (Vitalis) - Melee**
 Natural Instinct -33, First Land
 
 __Vorago's Death__
@@ -18,7 +18,7 @@ __After Reflect__
 <:Barge:629132727064461318> → <:Destroy:629132772094640161> → <:ingen:641339234111848463> → <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 Vitalis (Advanced)**
+> **Phase 3 (Vitalis) - Advanced Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__

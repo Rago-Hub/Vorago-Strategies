@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 1**
+> **Phase 1 - Melee**
 
 __TC__
 <:SuperiorStatiusWarhammer:612419367883505685> → <:Dismember:612416146569691148> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Resonance:612343287835000832> → <:Berserk:629132737852473354> <:Renewal:811286186823516181> → <:Barge:629132727064461318> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554>
@@ -12,7 +12,7 @@ __Post-Jump__
 (duals) <:Barge:629132727064461318> → <:ZarosGodsword:629133733601083394> <:Attack:612413657661308950> → <:Assault:629132704163692544> → <:Cleave:629132756903002122> → <:Decimate:629132764637036554> → <:Destroy:629132772094640161> → <:Decimate:629132764637036554>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 1 (Advanced)**
+> **Phase 1 - Advanced Melee**
 
 __Challenge__
 9 Abilities + 1t → <:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766>

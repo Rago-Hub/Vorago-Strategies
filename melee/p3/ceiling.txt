@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 Ceiling Collapse**
+> **Phase 3 (Ceiling Collapse) - Melee**
 Natural Instinct -33, First Land
 
 __Vorago's Death__
@@ -20,7 +20,7 @@ __After Reflect__
 <:GreaterFlurry:629132845322993697> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:GreaterFury:629132853451423766> → <:VestasLongsword:688114196285620331>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 Ceiling Collapse (Advanced)**
+> **Phase 3 (Ceiling Collapse) - Advanced Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__

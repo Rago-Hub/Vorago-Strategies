@@ -1,4 +1,4 @@
-<:meleecape:854744278236266526> **Melee - Phase 3 Green Bomb**
+> **Phase 3 (Green Bomb) - Melee**
 Natural Instinct -33, First Land
 
 __Vorago's Death__
@@ -17,7 +17,7 @@ __After Reflect__
 <:Decimate:629132764637036554> → <:GreaterFlurry:629132845322993697> → <:VestasLongsword:688114196285620331>
 
 .
-<:meleecape:854744278236266526> **Melee - Phase 3 Green Bomb (Advanced)**
+> **Phase 3 (Green Bomb) - Advanced Melee**
 Natural Instinct -27, Second Land
 
 __Vorago's Death__
