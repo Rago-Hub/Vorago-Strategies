@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 Team Split**
+> **Phase 3 (Team Split) - Mage**
 
 __On Drop__
 <:Detonate:603015480466210842> (optional)
@@ -20,7 +20,7 @@ __After Reflect__
 <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> → <:DragonBreath:603015526557679646> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 Team Split (Advanced)**
+> **Phase 3 (Team Split) - Advanced Mage**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__

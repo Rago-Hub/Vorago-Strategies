@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 5 (Non Team Split)**
+> **Phase 5 (Non-Team Split) - Mage**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -8,7 +8,7 @@ __TC__
 <:Impact:603015572095238157> → <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> → <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 5 (Advanced Non Team Split)**
+> **Phase 5 (Non-Team Split) - Advanced Mage**
 Natural Instinct -31, 1 tick before Second Jump
 
 __Vorago's-Death__

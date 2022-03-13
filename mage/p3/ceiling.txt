@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 Ceiling Collapse**
+> **Phase 3 (Ceiling Collapse) - Mage**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -17,7 +17,7 @@ __Jump__
 <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 Ceiling Collapse (Advanced)**
+> **Phase 3 (Ceiling Collapse) - Advanced Mage**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__

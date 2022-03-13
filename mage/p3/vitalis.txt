@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 Vitalis**
+> **Phase 3 (Vitalis) - Mage**
 
 __On Drop__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -15,7 +15,7 @@ __After Reflect__
 <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> → <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:ConcentratedBlast:603015440595156992> → <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 Vitalis (Advanced)**
+> **Phase 3 (Vitalis) - Advanced Mage**
 Natural Instinct -30, Second Jump
 
 __Vorago's Death__

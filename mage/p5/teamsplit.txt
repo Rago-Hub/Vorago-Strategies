@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 5 (Team Split)**
+> **Phase 5 (Team Split) - Mage**
 
 __On-Drop-Optional__
 <:Sunshine:603015844263362570> <:Renewal:811286186823516181>
@@ -13,7 +13,7 @@ __After-Team-Split__
 <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:DragonBreath:603015526557679646>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 5 (Advanced Team Split)**
+> **Phase 5 (Team Split) - Advanced Mage**
 Natural Instinct -31, 1 tick before Second Jump
 
 __Vorago's-Death__

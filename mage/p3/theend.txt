@@ -1,4 +1,4 @@
-<:magecape:854434844851699762> **Mage - Phase 3 The End**
+> **Phase 3 (The End) - Mage**
 
 __On Drop__
 <:Detonate:603015480466210842> (optional)
@@ -22,7 +22,7 @@ __Stand Up__
 <:BloodBarrage:612422231439441946> <:WildMagic:603015901343776772> → <:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779>
 
 .
-<:magecape:854434844851699762> **Mage - Phase 3 The End (Advanced)**
+> **Phase 3 (The End) - Advanced Mage**
 
 __Vorago's Death__
 Natural Instinct -30, Second Jump
