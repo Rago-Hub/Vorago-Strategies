@@ -4,7 +4,7 @@
     {
       "title": "Ability Rotations",
       "color": 50886,
-      "description": "",
+      "description": "<:DeflectMage:544195487926845462>\n\n",
       "timestamp": "",
       "author": {
         "name": "Vorago",
@@ -16,23 +16,24 @@
       "footer": {},
       "fields": [
         {
-          "name": "Melee",
+          "name": "<:DeflectMelee:544195488447201300> Melee",
           "value": "`{{ prefix }}melee p1`\n\n`{{ prefix }}melee p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}melee p3 vitalis`\n`{{ prefix }}melee p3 greenbomb`\n`{{ prefix }}melee p3 teamsplit`\n`{{ prefix }}melee p3 theend`\n\n`{{ prefix }}melee p5`\n`{{ prefix }}melee p5 teamsplit`",
           "inline": true
         },
         {
-          "name": "Ranged",
+          "name": "<:DeflectRange:544195488317046812> Ranged",
           "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`\n`{{ prefix }}range p5 teamsplit`",
           "inline": true
         },
         {
-          "name": "Mage",
+          "name": "<:DeflectMage:544195487926845462> Mage",
           "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`\n`{{ prefix }}mage p5 teamsplit`",
           "inline": true
         },
         {
-          "name": "Mage FSoa",
-          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit`\n`{{ prefix }}fsoa p3 theend`\n\n`{{ prefix }}fsoa p5`\n`{{ prefix }}fsoa p5 teamsplit`"
+          "name": "<:soa:869284271595069451> Mage FSoa",
+          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit`\n`{{ prefix }}fsoa p3 theend`\n\n`{{ prefix }}fsoa p5`\n`{{ prefix }}fsoa p5 teamsplit`",
+          "inline": true
         }
       ]
     }
