@@ -3,7 +3,7 @@
     {
       "title": "Vorago Bot",
       "color": 50886,
-      "description": "This is a bot that has a lot of Vorago related information. Use it to find:\n\n• **Normal Mode** (Trio+) & **Hard Mode** (5 man+) strategies for each rotation\n• `{{ prefix }}ability`  Find **ability rotations** from Easy to Advanced for all combat styles\n• `ragoguide` (__no prefix__) Retrieve specific information of any Vorago guide\n\nTo change the prefix use `{{ prefix }}prefix`. It's currently set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)",
+      "description": "Vorago Strategies, in a bot.\n\n• **Normal Mode** and **Hard Mode** strategies for each rotation\n• `{{ prefix }}ability`  to find **ability rotations** from Easy to Advanced for all combat styles\n\nTo change the prefix use `{{ prefix }}prefix`. It is currently set to: `{{ prefix }}`\nTo invite this bot use: `{{ prefix }}invite` or [click here](https://discordapp.com/oauth2/authorize?client_id=702279874714533999&scope=bot&permissions=1077275712)\n\n**Discord**\n• [Rago PvM](https://discord.gg/Q8xpnYp) - Team forming\n• [Rago Hub Guides](https://discord.gg/uqGJbKH) - Guides\n",
       "timestamp": "",
       "author": {
         "name": "Help",
@@ -27,16 +27,6 @@
         {
           "name": "Ability Rotations",
           "value": "Use: `style phase rotation`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p5`\n`{{ prefix }}mage p5 teamsplit`",
-          "inline": true
-        },
-        {
-          "name": "Basic Information",
-          "value": "`{{ prefix }}vorago`\n`{{ prefix }}attacks`\n`{{ prefix }}bleeds`\n`{{ prefix }}clone`\n`{{ prefix }}reflect`",
-          "inline": true
-        },
-        {
-          "name": "Discord",
-          "value": "• [Rago PvM](https://discord.gg/Q8xpnYp)\n• [Rago Hub Guides](https://discord.gg/uqGJbKH)",
           "inline": true
         }
       ]
