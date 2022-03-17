@@ -29,9 +29,14 @@
           "name": "Mage",
           "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`\n`{{ prefix }}mage p5 teamsplit`",
           "inline": true
+        },
+        {
+          "name": "Mage FSoa",
+          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit`\n`{{ prefix }}fsoa p3 theend`\n\n`{{ prefix }}fsoa p5`\n`{{ prefix }}fsoa p5 teamsplit`"
         }
       ]
     }
-  ]
+  ],
+  "components": []
 }
 .embed:json
