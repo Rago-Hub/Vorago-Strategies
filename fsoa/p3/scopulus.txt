@@ -1,0 +1,16 @@
+> **Phase 3 (Scopulus) - Advanced FSoA**
+Natural Instinct: `-30, Second Jump`
+Relics: `COE, DH`
+
+__Vorago's Death__
+(duals) <:nat:535541258131865633> → <:bloodbarrage:537338981747261446> (auto) → <:wrackenergising:867678153429221387> → <:freedom:535541258240786434> → <:bloodbarrage:537338981747261446> (auto) → <:dbow:643848618553507843> (auto) → <:soa:869284271595069451> → <:wrackenergising:867678153429221387>
+
+__On Drop__
+<:anti:535541306475151390> → <:bloodbarrage:537338981747261446> (auto) <:wrackenergising:867678153429221387> → <:adrenrenewal:736298121704767538> → <:meta:535533811304497183> → <:magmatempesttarget:924741973858996284> → (stall) <:tsunami:535533809995874304>
+
+__TC East__
+<:Vuln:537349530551582720> (release) <:tsunami:535533809995874304> <:gchain:787904334495088672> → <:omni:535533809664262179>
+
+__Target West__
+<:smoketendrils:536257336130404372> (full) → <:wm:535533809978966037> → <:gstaff:513203008608141314> → add <:asphyx:535533833072672778> if needed
+** **
