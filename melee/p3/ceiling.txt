@@ -1,5 +1,5 @@
 > **Phase 3 (Ceiling Collapse) - Melee**
-Natural Instinct -33, First Land
+Natural Instinct: `-33, First Land`
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766> → <:Provoke:612343255866146835> → <:Slice:629136409340411912> → <:GreaterFury:629132853451423766>
@@ -21,7 +21,8 @@ __After Reflect__
 
 .
 > **Phase 3 (Ceiling Collapse) - Advanced Melee**
-Natural Instinct -27, Second Land
+Natural Instinct: `-27, Second Land`
+Relics: `COE, DH`
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:dbow:643848618553507843> (auto) → <:glaivemh:643161561988595782> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbow:643848618553507843> (auto) → <:PiercingShot:624335352433344552>
