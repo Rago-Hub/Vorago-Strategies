@@ -39,4 +39,5 @@
     }
   ],
   "components": []
-}.embed:json
+}
+.embed:json
