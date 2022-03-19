@@ -13,7 +13,7 @@ __Post-Jump__
 
 .
 > **Phase 1 - Advanced Melee**
-Relics: `COE, DH`
+Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
 
 __Challenge__
 5 Abilities → <:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766>
