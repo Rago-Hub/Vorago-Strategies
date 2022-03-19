@@ -1,5 +1,5 @@
 > **Phase 3 (Team Split) - Melee**
-Natural Instinct -24, Third Jump
+Natural Instinct: `-24, Third Jump`
 
 __Vorago's Death__
 To time -24 use an ability during the Second Jump (-27) as follows:
@@ -25,7 +25,8 @@ __After Reflect__
 
 .
 > **Phase 3 (Team Split) - Advanced Melee**
-Natural Instinct -24, Third Jump
+Natural Instinct: `-24, Third Jump`
+Relics: `COE, DH`
 
 __Vorago's Death__
 To time -24 use an ability during the Second Jump (-27) as follows:
