@@ -31,4 +31,4 @@ __Jump__
 __Post-Jump__
 <:Vulnerability:625788254674747392> (release) <:Hurricane:629132870874693645> <:Assault:629132704163692544> → (3t) <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554>
 
-**Note:** You must click your first ability at the same time as challenge. Otherwise do 4 abilities and lose 2 ticks. [Reference](https://i.imgur.com/mwG0scc.png).
+**Note:** You must click your first ability at the same time as challenge. Otherwise do 4 abilities and lose 2 ticks. Reference: <https://i.imgur.com/mwG0scc.png>.
