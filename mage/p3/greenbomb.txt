@@ -16,7 +16,7 @@ __After Reflect__
 
 .
 > **Phase 3 (Green Bomb) - Advanced Mage**
-Natural Instinct `-30, Second Jump`
+Natural Instinct: `-30, Second Jump`
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:Wrack:603015911384940545> → <:Provoke:612343255866146835> → <:Wrack:603015911384940545> → <:Chain:603015419540013076>
