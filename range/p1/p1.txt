@@ -1,4 +1,5 @@
 > **Phase 1 - Range**
+Relics: `HS` <:heightenedsenses:697808773573771344>, `FOTS` <:furyofthesmall:697808773917573233>
 
 __On Drop__
 <:DeathsSwiftness:624335314454052879> <:Renewal:811286186823516181>
@@ -15,6 +16,7 @@ __Post-Jump__
 
 .
 > **Phase 1 - Advanced Range**
+Relics: `HS` <:heightenedsenses:697808773573771344>, `FOTS` <:furyofthesmall:697808773917573233>
 
 __On Drop__
 <:DeathsSwiftness:624335314454052879> <:Renewal:811286186823516181>
