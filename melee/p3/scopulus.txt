@@ -16,7 +16,7 @@ Natural Instinct: `-27, Second Land`
 Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
 
 __Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:dbow:643848618553507843> (auto) → <:glaivemh:643161561988595782> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbow:643848618553507843> (auto) → <:PiercingShot:624335352433344552>
+<:nat:535541258131865633> → 2h <:melee:615612332521029632> (auto) → <:glaivemh:643161561988595782> <:piercingenergising:867678153979854868> → <:voke:535541259465392143> → <:dbow:643848618553507843> (auto) → <:piercingenergising:867678153979854868>
 
 __On Drop__
 <:Anticipation:612415877643501635> → <:Berserk:629132737852473354> <:Renewal:811286186823516181> → <:gbarge:535532879250456578> → <:Freedom:612343164392570969> <:dbow:643848618553507843> (auto) → (stall) <:SuperiorStatiusWarhammer:612419367883505685>
