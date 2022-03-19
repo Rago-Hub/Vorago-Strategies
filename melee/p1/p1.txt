@@ -13,9 +13,10 @@ __Post-Jump__
 
 .
 > **Phase 1 - Advanced Melee**
+Relics: `COE, DH`
 
 __Challenge__
-9 Abilities + 1t → <:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766>
+5 Abilities → <:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766>
 
 __Entry Hit__
 <:Slice:629136409340411912> → <:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → <:Berserk:629132737852473354> → <:Renewal:811286186823516181>
@@ -29,3 +30,5 @@ __Jump__
 
 __Post-Jump__
 <:Vulnerability:625788254674747392> (release) <:Hurricane:629132870874693645> <:Assault:629132704163692544> → (3t) <:GreaterFlurry:629132845322993697> → <:Decimate:629132764637036554>
+
+**Note:** You must click your first ability at the same time as challenge. Otherwise do 4 abilities and lose 2 ticks. (Reference)[https://i.imgur.com/mwG0scc.png].
