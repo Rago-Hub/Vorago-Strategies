@@ -13,7 +13,7 @@ __TC__
 .
 > **Phase 3 (Scopulus) - Advanced Melee**
 Natural Instinct: `-27, Second Land`
-Relics: `COE, DH`
+Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
 
 __Vorago's Death__
 <:NaturalInstinct:612343197489692672> → <:dbow:643848618553507843> (auto) → <:glaivemh:643161561988595782> <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:dbow:643848618553507843> (auto) → <:PiercingShot:624335352433344552>
