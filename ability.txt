@@ -32,12 +32,11 @@
         },
         {
           "name": "<:soa:869284271595069451> Mage FSoa",
-          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit`\n`{{ prefix }}fsoa p3 theend`\n\n`{{ prefix }}fsoa p5`\n`{{ prefix }}fsoa p5 teamsplit`",
+          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit` (to be done)\n`{{ prefix }}fsoa p3 theend` (to be done)\n\n`{{ prefix }}fsoa p5`\n`{{ prefix }}fsoa p5 teamsplit` (to be done)",
           "inline": true
         }
       ]
     }
   ],
   "components": []
-}
-.embed:json
+}.embed:json
