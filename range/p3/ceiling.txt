@@ -18,7 +18,7 @@ __Jump__
 
 .
 > **Phase 3 (Ceiling Collapse) - Advanced Range**
-Natural Instinct: -30, Second Jump
+Natural Instinct: `-30, Second Jump`
 Relics: `HS` <:heightenedsenses:697808773573771344>, `FOTS` <:furyofthesmall:697808773917573233>
 
 __Vorago's Death__
