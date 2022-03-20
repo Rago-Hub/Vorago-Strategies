@@ -1,2 +1,2 @@
-The current prefix is: `{{ prefix }}`
-To change the prefix: `vs$commands prefix prefix|reset`
+The current prefix is set to: `{{ prefix }}`
+To change it use: `vs$commands prefix prefix|reset`
