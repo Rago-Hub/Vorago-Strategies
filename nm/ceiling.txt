@@ -11,10 +11,9 @@ TS → 3 Att → OFF → 3 Att → Bleeds <:dismember:535532879376023572> → 3 
 
 • Start with an ultimate on dropdown. Place it MD
 • Vorago jumps after the second auto attack
-• BT places it North and Base/DPS South. Example:
+• BT places it North and Base/DPS South
 
 **Bomb Tank**
-
 • Provoke <:voke:535541259465392143> the whole phase and move out of MD
 • Alternative: Ultimate after second Rock lands
 
@@ -23,13 +22,11 @@ TS → 3 Att → OFF → 3 Att → Bleeds <:dismember:535532879376023572> → 3 
 • Can save <:Reprisal:513190159462694912> for the second Team Split
 
 **Base/DPS**
-
 • Ultimate South and MD after Team Split spawns. It's advised to tank it
 • Go back to your ult and use thresholds until Reflect
 • Switching: Use <:disrupt:535614336207552523> for the second blue after Bleeds. Build to <:cade:535541306353778689> on the first blue after Team Split
 
 **Bomb Tank**
-
 • Use <:disrupt:535614336207552523> after Team Split spawns
 • Use one threshold and build to <:cade:535541306353778689> the second Blue
 • Switching: Ultimate during bleeds
@@ -37,4 +34,3 @@ TS → 3 Att → OFF → 3 Att → Bleeds <:dismember:535532879376023572> → 3 
 > __**Relevant clips**__
 
 • Ultimate placement Phase 3: <https://clips.twitch.tv/BumblingDependableWheelPanicBasket>
-** **
