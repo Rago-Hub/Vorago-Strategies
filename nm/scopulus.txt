@@ -1,40 +1,36 @@
 Using AoE abilities and Barrage spells <:bloodbarrage:537338981747261446> <:icebarrage:537340400185245701> is recommended for Phase 3.
 
 **Phase 3**
-2 *Scopulii* will spawn (SW and SE)→ Blues (until both die)
+2 Scopulii will spawn (SW and SE) → Blues (until both die)
 **Phase 4**
-Waterfall→ 3 Att→ Clone→ 7 Att→ *Red* <:redbomb:761711981186646096>→ 4 Att→ *Bleeds* <:dismember:535532879376023572>→ 3 Att→ OFF→ 3 Att
+Waterfall → 3 Att → Clone → 7 Att → Red <:redbomb:761711981186646096> → 4 Att → Bleeds <:dismember:535532879376023572> → 3 Att → OFF → 3 Att
 **Phase 5**
-*PB* <:pb:646794381055229953>→ 5 Att→ OFF→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 3 Att]
+PB <:pb:646794381055229953> → 5 Att → OFF → 3 Att → Bleeds <:dismember:535532879376023572> → 3 Att
 
-> __**Strategy: Phase 3**__
+> **Strategy: Phase 3**
 
-__Base/DPS:__
-
-• Ultimate South-West and tag both Scopulus <:scopulus:851518053430329384> as soon as possible
+**Base/DPS**
+• Ultimate South-West and tag both <:scopulus:851518053430329384> as soon as possible
 • Stand together to stack them
-• Use Provoke if they turn to the BT
+• Use <:voke:535541259465392143> if they turn to the BT
 
-__Bomb Tank:__
-
+**Bomb Tank**
 • Ultimate by the South-West corner
-• Make sure to target Scopulus <:scopulus:851518053430329384> after the Base/DPS tag them, to avoid aggro switching
+• Make sure to target <:scopulus:851518053430329384> after the Base/DPS tag them, to avoid aggro switching
 
-> __**Strategy: Phase 5**__
+> **Strategy: Phase 5**
 
-__Base/DPS:__
-
+**Base/DPS**
 • Ultimate South and MD on dropdown
-• If it's a Trio, start with <:onsl:513190159085207555> (Base North, DPS South)
-• Switching: disruptionshield the next bluebomb, built to <:cade:535541306353778689> after
+• If it's a Trio, start with Ultimate <:Sunshine:583430011948630016>/<:deathsswift:535541258924326912>/<:Berserk:513190158468907012> (Base North, DPS South)
+• Switching: <:disrupt:535614336207552523> the next bluebomb, built to <:cade:535541306353778689> after
 
-__Bomb Tank:__
-
+**Bomb Tank**
 • Use <:disrupt:535614336207552523> as Phase 4 ends, to block the first Blue on Phase 5
-• Start with one threshold and vuln / vulnbomb
+• Start with one threshold and <:Vuln:537349530551582720> / <:vulnbomb:655341074235129858>
 • Build to <:cade:535541306353778689> the second bluebomb
 • Switching: Use an Ultimate or finish the Phase with thresholds
 
-> __**Relevant clips**__
+> **Relevant clips**
 
-• Vorago Target Cycling Quick Guide - Luring Scops: https://www.youtube.com/watch?v=wRcdDVuHvwA
+• Vorago Target Cycling Quick Guide - Luring Scops: <https://www.youtube.com/watch?v=wRcdDVuHvwA>
