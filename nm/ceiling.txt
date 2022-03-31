@@ -1,6 +1,6 @@
 Enable Shadows on Medium and disable skyboxes to see Rocks fall on Phase 3 and 4.
 
- **Phase 3**
+**Phase 3**
 Rock → 3 Att → OFF → 3 Att → Rock → 3 Att → Red <:redbomb:761711981186646096> → 4 Att
 **Phase 4**
 Waterfall → 3 Att → Clone → 7 Att → Rock → 3 Att → Bleeds <:dismember:535532879376023572> → 3 Att → OFF → 3 Att
