@@ -3,9 +3,9 @@ Using AoE abilities and Barrage spells <:bloodbarrage:537338981747261446> <:iceb
 **Phase 3**
 2 Scopulii will spawn (SW and SE) → Blues (until both die)
 **Phase 4**
-Waterfall → 3 Att → Clone → 7 Att → Red <:redbomb:761711981186646096> → 4 Att → Bleeds <:dismember:535532879376023572> → 3 Att → OFF → 3 Att
+Waterfall → 3 Auto → Clone → 7 Auto → Red <:redbomb:761711981186646096> → 4 Auto → Bleeds <:dismember:535532879376023572> → 3 Auto → OFF → 3 Auto
 **Phase 5**
-PB <:pb:646794381055229953> → 5 Att → OFF → 3 Att → Bleeds <:dismember:535532879376023572> → 3 Att
+PB <:pb:646794381055229953> → 5 Auto → OFF → 3 Auto → Bleeds <:dismember:535532879376023572> → 3 Auto
 
 > **Strategy: Phase 3**
 
