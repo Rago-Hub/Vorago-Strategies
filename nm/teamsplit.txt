@@ -1,31 +1,32 @@
-{
-  "embeds": [
-    {
-      "title": "Team Split",
-      "color": 14761277,
-      "description": "Two 2x2 color boxes (one Red & one Blue), will spawn from P3 to 5. Go inside your colour to avoid the 8K typeless hit. If you'll tank a TS, use a <:powerburstofvitality:680221224093483131> to save some HP.\n\n**Phase 3**\n*TS*→ 3 Att→ OFF→ 3 Att→ *TS*→ 3 Att→ *Red*→ 4 Att\n**Phase 4**\nWaterfall→ 3 Att→ Clone→ 7 Att→ *TS*→ 3 Att→ *Bleeds*→ 3 Att→ OFF→ 3 Att\n**Phase 5**\n*TS*→ 3 Att→ OFF→ 3 Att→ *Bleeds*→ 3 Att\n\n** **",
-      "url": "",
-      "author": {
-        "name": "Normal Mode strategies",
-        "url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1",
-        "icon_url": "https://cdn.discordapp.com/emojis/608387956679507968.png?v=1"
-      },
-      "image": {},
-      "thumbnail": {},
-      "footer": {},
-      "fields": [
-        {
-          "name": "> __Strategy: Phase 3__",
-          "value": "**Base/DPS**:\n• Use two thresholds out of the first TS\n• Build to Ultimate before or during reflect. Finish the Phase with thresholds\n• Base must use <a:provoke:629028145575755815> and go melee distance during reflect\n• Alternative: Start with thresholds, then build to <:onslaught:707318842417872949> after the second TS\n\n**Bomb Tank**:\n• Start with thresholds. Build during reflect\n• <:devotion:628994904642682921> + <:replenishmentpotion:649072001662713867>/<:enhancedreplenishmentpotion:628994870945644613>/<:powerburstofoverkill:680221222008913972> after the second TS and <:onslaught:707318842417872949>\n• Alternative: You can Ultimate instead\n\n** **",
-          "inline": false
-        },
-        {
-          "name": "> __Strategy: Phase 5__",
-          "value": "• Can save <:reprisal:707318843743404102> for the second TS\n\n**Base/DPS**:\n• Ultimate South and MD after TS spawns. It's advised to tank it\n• Go back to your ult and use thresholds until reflect\n• *Switching*: <:disruptionshield:628994905930465300> the second <:bluebomb:508944148557201408>, <:barricade:751138571464998922> the first blue after next TS\n\n**Bomb Tank**:\n• Use <:disruptionshield:628994905930465300> after TS spawns\n• Use one threshold and build to <:barricade:751138571464998922> the second <:bluebomb:508944148557201408>\n• *Switching*: Ultimate during bleeds",
-          "inline": false
-        }
-      ]
-    }
-  ]
-}
-.embed:json
+Two 2x2 color boxes (one Red & one Blue), will spawn from P3 to 5. Go inside your colour to avoid the 8K typeless hit. If you'll tank a TS, use a <:vitality:654618235097972737> to save some HP.
+
+**Phase 3**
+TS → 3 Auto → OFF → 3 Auto → TS → 3 Auto → Red → 4 Auto
+**Phase 4**
+<:waterfall:956816428730810398> Waterfall → 3 Auto → Clone → 7 Auto → TS → 3 Auto → Bleeds → 3 Auto → OFF → 3 Auto
+**Phase 5**
+TS → 3 Auto → OFF → 3 Auto → Bleeds → 3 Auto
+
+> **Strategy: Phase 3**
+
+**Base/DPS**
+• Use two thresholds out of the first TS
+• Build to Ultimate <:Sunshine:583430011948630016>/<:deathsswift:535541258924326912>/<:zerk:535532854004678657> before or during reflect. Finish the Phase with thresholds
+• Base must use <:voke:535541259465392143> and go melee distance during reflect
+
+**Bomb Tank**
+• Use two thresholds out of the first TS
+• Build to Ultimate before or during reflect. Finish the Phase with thresholds
+
+> **Strategy: Phase 5**
+• Can save <:Reprisal:513190159462694912> for the second TS
+
+**Base/DPS**
+• Ultimate South <:Sunshine:583430011948630016>/<:deathsswift:535541258924326912>/<:zerk:535532854004678657> and MD after TS spawns. It's advised to tank it
+• Go back to your ultimate and use thresholds until reflect
+• Switching: <:disrupt:535614336207552523> the second <:bluebomb:923249600276615200>, <:cade:535541306353778689> the first blue after next TS
+
+**Bomb Tank**
+• Use <:disrupt:535614336207552523> after TS spawns
+• Use one threshold and build to <:cade:535541306353778689> the second <:bluebomb:923249600276615200>
+• Switching: Ultimate during bleeds
