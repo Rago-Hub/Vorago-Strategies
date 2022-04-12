@@ -1,4 +1,4 @@
-> **Phase 5 (Non-Team Split) - Advanced FSoA**
+> **Phase 5 - Advanced FSoA**
 Natural Instinct: `-33, First Land`
 Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
 
@@ -12,3 +12,4 @@ __TC__
 <:Vuln:537349530551582720> (release) <:wm:535533809978966037> <:tsunami:535533809995874304> → <:smoketendrils:536257336130404372> (full) → <:omni:535533809664262179> → <:gstaff:513203008608141314> → <:asphyx:535533833072672778> (2-3hits)
 
 **Note:** You can replace all <:wrackenergising:867678153429221387> with <:piercingenergising:867678153979854868> if you don't have Energising4 on your armour.
+
