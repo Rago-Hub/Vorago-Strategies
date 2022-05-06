@@ -1,6 +1,6 @@
 > **Phase 3 (Ceilings, Vitalis, Green Bomb) - Advanced FSoA**
-Natural Instinct: `-33, First Jump`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
+Natural Instinct: `-33, First Land`
+Relics: `COE` <:conservationofenergy:697808773711921195>, `FOTS` <:furyofthesmall:697808773917573233>
 
 __Vorago's Death__
 (duals) <:nat:535541258131865633> → <:bloodbarrage:537338981747261446> (auto) → <:freedom:535541258240786434> → <:bloodbarrage:537338981747261446> (auto) → <:soa:869284271595069451> → <:wrackenergising:867678153429221387> → <:gconc:869285393223254107> → <:wrackenergising:867678153429221387>
