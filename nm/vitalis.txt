@@ -2,11 +2,11 @@ Step back to block the Orb on Phase 4 & Phase 5 and kill any Vitalis that spawns
 Ignore the orb and any spawns on Phase 3.
 
 **Phase 3**
-*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 5 Att
+*Vit*→ 3 Autos→ OFF→ 3 Autos→ *Bleeds* <:dismember:535532879376023572>→ 5 Autos
 **Phase 4**
-Waterfall→ 3 Att→ Clone→ 7 Att→ *Vit* vit→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 3 Att→ OFF→ 3 Att
+Waterfall→ 3 Autos→ Clone→ 7 Autos→ *Vit* vit→ 3 Autos→ *Bleeds* <:dismember:535532879376023572>→ 3 Autos→ OFF→ 3 Autos
 **Phase 5**
-*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 3 Att
+*Vit*→ 3 Autos→ OFF→ 3 Autos→ *Bleeds* <:dismember:535532879376023572>→ 3 Autos
 
 > __**Strategy: Phase 3**__
 
@@ -31,7 +31,7 @@ __Base/DPS:__
 __Bomb Tank:__
 
 • Use <:disrupt:535614336207552523> as Phase 4 ends, to block the first Blue on Phase 5
-• Make sure to <:Cept:543478434509357098> the team before Vorago spawns. If Vitalis spawn they will block you from using intercept
+• Make sure to intercept <:Cept:543478434509357098> the team before the orb explodes. If Vitalis spawn they will block you from using intercept
 • Start with a strong basic/bleeds or use one threshold
 • Barricade <:cade:535541306353778689> as soon as the Vitalis orb is about to hit and inter<:Cept:543478434509357098> again
 • Switching: Build to Ultimate or finish the phase with thresholds
