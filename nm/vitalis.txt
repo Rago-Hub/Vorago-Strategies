@@ -3,11 +3,11 @@ The Vitalis orb is thrown  in the North-East quadrant (N/NE/E).
 Ignore the orb and any spawns on Phase 3.
 
 **Phase 3**
-Vitalis → 3 Auto → OFF → 3 Auto → Bleeds <:dismember:535532879376023572> → 5 Auto
+Vitalis → 3 Autos → OFF → 3 Autos → Bleeds <:dismember:535532879376023572> → 5 Autos
 **Phase 4**
-Waterfall <:waterfall:956816428730810398> → 3 Auto → Clone → 7 Auto → Vitalis → 3 Auto → Bleeds <:dismember:535532879376023572> → 3 Auto → OFF → 3 Auto
+Waterfall <:waterfall:956816428730810398> → 3 Autos → Clone → 7 Autos → Vitalis → 3 Autos → Bleeds <:dismember:535532879376023572> → 3 Autos → OFF → 3 Autos
 **Phase 5**
-Vitalis → 3 Auto → OFF → 3 Auto → Bleeds <:dismember:535532879376023572> → 3 Auto
+Vitalis → 3 Autos → OFF → 3 Autos → Bleeds <:dismember:535532879376023572> → 3 Autos
 
 > **Strategy: Phase 3**
 
@@ -29,7 +29,7 @@ Vitalis → 3 Auto → OFF → 3 Auto → Bleeds <:dismember:535532879376023572>
 
 **Bomb Tank**
 • Use <:disrupt:535614336207552523> as Phase 4 ends, to block the first Blue on Phase 5
-• Make sure to intercept <:Cept:543478434509357098> the team before Vorago spawns. If Vitalis spawn they will block you from using intercept
+• Make sure to intercept <:Cept:543478434509357098> the team before the orb explodes. If Vitalis spawn they will block you from using intercept
 • Start with a strong basic/bleeds or use one threshold
 • Barricade <:cade:535541306353778689> before Vitalis orb is about to hit and intercept <:Cept:543478434509357098> again
 • Switching: Build to Ultimate or finish the phase with thresholds
