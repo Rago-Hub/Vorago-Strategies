@@ -3,11 +3,11 @@ Base has to save BT from greenbomb on Phase 4 with <:cade:535541306353778689>. B
 Good examples are Dark Bow <:dbow:643848618553507843>, Defender (any tier) <:kalphitedefender:643151141382651907>, and so on.
 
 **Phase 3**
-GB <:gb:646794380623085579> → 5 Att → OFF → 3 Att → GB <:gb:646794380623085579> → 5 Att → Red → 4 Att
+GB <:gb:646794380623085579> → 5 Autos → OFF → 3 Autos → GB <:gb:646794380623085579> → 5 Autos → Red → 4 Autos
 **Phase 4**
-Waterfall → 3 Att → Clone → 7 Att→ GB <:gb:646794380623085579> → 5 Att → Bleeds <:dismember:535532879376023572> → 3 Att → OFF → 3 Att
+Waterfall → 3 Autos → Clone → 7 Autos → GB <:gb:646794380623085579> → 5 Autos → Bleeds <:dismember:535532879376023572> → 3 Autos → OFF → 3 Autos
 **Phase 5**
-GB <:gb:646794380623085579> → 5 Att → OFF → Bleeds <:dismember:535532879376023572> → 3 Att
+GB <:gb:646794380623085579> → 5 Autos → OFF → Bleeds <:dismember:535532879376023572> → 3 Autos
 .
 
 > **Strategy: Phase 3**
