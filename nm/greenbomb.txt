@@ -1,5 +1,5 @@
 When a Green Bomb <:gb:646794380623085579> is tanked (on any phase), Vorago will go to the next mechanic and skip the remaining auto-attacks.
-Base has to save BT from greenbomb on Phase 4 with <:cade:535541306353778689>. Bringing a low-tier shield is advised to be able to use cade twice if needed.
+Base has to save BT from greenbomb on Phase 4 with barricade <:cade:535541306353778689>. Bringing a low-tier shield is advised to be able to use cade twice if needed.
 Good examples are Dark Bow <:dbow:643848618553507843>, Defender (any tier) <:kalphitedefender:643151141382651907>, and so on.
 
 **Phase 3**
