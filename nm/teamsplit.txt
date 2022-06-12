@@ -1,11 +1,11 @@
 Two 2x2 color boxes (one Red & one Blue), will spawn from P3 to 5. Go inside your colour to avoid the 8K typeless hit. If you'll tank a TS, use a <:vitality:654618235097972737> to save some HP.
 
 **Phase 3**
-TS → 3 Auto → OFF → 3 Auto → TS → 3 Auto → Red → 4 Auto
+TS → 3 Autos → OFF → 3 Autos → TS → 3 Autos → Red → 4 Autos
 **Phase 4**
-<:waterfall:956816428730810398> Waterfall → 3 Auto → Clone → 7 Auto → TS → 3 Auto → Bleeds → 3 Auto → OFF → 3 Auto
+<:waterfall:956816428730810398> Waterfall → 3 Autos → Clone → 7 Autos → TS → 3 Autos → Bleeds → 3 Autos → OFF → 3 Autos
 **Phase 5**
-TS → 3 Auto → OFF → 3 Auto → Bleeds → 3 Auto
+TS → 3 Autos → OFF → 3 Autos → Bleeds → 3 Autos
 
 > **Strategy: Phase 3**
 
@@ -28,5 +28,5 @@ TS → 3 Auto → OFF → 3 Auto → Bleeds → 3 Auto
 
 **Bomb Tank**
 • Use <:disrupt:535614336207552523> after TS spawns
-• Use one threshold and build to <:cade:535541306353778689> the second <:bluebomb:923249600276615200>
+• Use one threshold and build to <:cade:535541306353778689> on the second <:bluebomb:923249600276615200>
 • Switching: Ultimate during bleeds
