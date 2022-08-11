@@ -17,7 +17,7 @@
       "fields": [
         {
           "name": "<:DeflectMelee:544195488447201300> Melee",
-          "value": "`{{ prefix }}melee p1`\n\n`{{ prefix }}melee p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}melee p3 vitalis`\n`{{ prefix }}melee p3 greenbomb`\n`{{ prefix }}melee p3 teamsplit`\n`{{ prefix }}melee p3 theend`\n\n`{{ prefix }}melee p5`\n`{{ prefix }}melee p5 teamsplit`",
+          "value": "`{{ prefix }}melee p1`\n\n`{{ prefix }}melee p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}melee p3 vitalis`\n`{{ prefix }}melee p3 greenbomb`\n`{{ prefix }}melee p3 teamsplit`\n`{{ prefix }}melee p3 theend`\n\n`{{ prefix }}melee p5`",
           "inline": true
         },
         {
