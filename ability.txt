@@ -22,17 +22,17 @@
         },
         {
           "name": "<:DeflectRange:544195488317046812> Ranged",
-          "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`\n`{{ prefix }}range p5 teamsplit`",
+          "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`",
           "inline": true
         },
         {
           "name": "<:DeflectMage:544195487926845462> Mage",
-          "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`\n`{{ prefix }}mage p5 teamsplit`",
+          "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`",
           "inline": true
         },
         {
           "name": "<:soa:869284271595069451> Mage FSoa",
-          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit` (to be done)\n`{{ prefix }}fsoa p3 theend` (to be done)\n\n`{{ prefix }}fsoa p5`\n`{{ prefix }}fsoa p5 teamsplit` (to be done)",
+          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit` (to be done)\n`{{ prefix }}fsoa p3 theend` (to be done)\n\n`{{ prefix }}fsoa p5`",
           "inline": true
         }
       ]
