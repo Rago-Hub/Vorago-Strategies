@@ -1,37 +1,35 @@
-Step back to block the Orb on Phase 4 & Phase 5 and kill any Vitalis that spawns as soon as possible. The Vitalis orb is thrown  in the North-East quadrant (N/NE/E).
+Step back to block the Orb on Phase 4 & Phase 5 and kill any Vitalis that spawns as soon as possible.
+The Vitalis orb is thrown  in the North-East quadrant (N/NE/E).
 Ignore the orb and any spawns on Phase 3.
 
 **Phase 3**
-*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 5 Att
+Vitalis → 3 Autos → OFF → 3 Autos → Bleeds <:dismember:535532879376023572> → 5 Autos
 **Phase 4**
-Waterfall→ 3 Att→ Clone→ 7 Att→ *Vit* vit→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 3 Att→ OFF→ 3 Att
+Waterfall <:waterfall:956816428730810398> → 3 Autos → Clone → 7 Autos → Vitalis → 3 Autos → Bleeds <:dismember:535532879376023572> → 3 Autos → OFF → 3 Autos
 **Phase 5**
-*Vit*→ 3 Att→ OFF→ 3 Att→ *Bleeds* <:dismember:535532879376023572>→ 3 Att
+Vitalis → 3 Autos → OFF → 3 Autos → Bleeds <:dismember:535532879376023572> → 3 Autos
 
-> __**Strategy: Phase 3**__
+> **Strategy: Phase 3**
 
-__Base/DPS:__
-
+**Base/DPS**
 • Ultimate North-East and in Melee Distance on dropdown. Use thresholds until reflect
-• Provoke <:voke:535541259465392143> before the third attack
+• Provoke <:voke:535541259465392143> before the third auto
 
-__Bomb Tank:__
-
+**Bomb Tank**
 • Ultimate in the South-West quadrant on dropdown
 • Only go Melee Distance when Bleeds <:dismember:535532879376023572> will start
 
-> __**Strategy: Phase 5**__
+> **Strategy: Phase 5**
 
-__Base/DPS:__
-
-• Ultimate MD and South on dropdown
+**Base/DPS**
+• Ultimate <:Sunshine:583430011948630016>/<:deathsswift:535541258924326912>/<:zerk:535532854004678657> MD and South on dropdown
 • Kill any Vitali that spawns
-• Switching: Use <:disrupt:535614336207552523> for the first Blue after Bleeds <:dismember:535532879376023572>. Build to barricade <:cade:535541306353778689> before the next special and Intercept <:Cept:543478434509357098> everyone
+• Switching: Use <:disrupt:535614336207552523> for the first Blue after Bleeds <:dismember:535532879376023572>. 
+• Build to barricade <:cade:535541306353778689> before the next special and Intercept <:Cept:543478434509357098> everyone
 
-__Bomb Tank:__
-
+**Bomb Tank**
 • Use <:disrupt:535614336207552523> as Phase 4 ends, to block the first Blue on Phase 5
-• Make sure to <:Cept:543478434509357098> the team before Vorago spawns. If Vitalis spawn they will block you from using intercept
+• Make sure to intercept <:Cept:543478434509357098> the team before the orb explodes. If Vitalis spawn they will block you from using intercept
 • Start with a strong basic/bleeds or use one threshold
-• Barricade <:cade:535541306353778689> as soon as the Vitalis orb is about to hit and inter<:Cept:543478434509357098> again
+• Barricade <:cade:535541306353778689> before Vitalis orb is about to hit and intercept <:Cept:543478434509357098> again
 • Switching: Build to Ultimate or finish the phase with thresholds
