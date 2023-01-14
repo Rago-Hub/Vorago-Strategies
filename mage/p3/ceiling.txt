@@ -1,33 +1,4 @@
-> **Phase 3 (Ceiling Collapse) - Mage**
-
-__On Drop__
-<:Sunshine:603015844263362570> <:Renewal:811286186823516181>
-
-__TC__
-<:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:gconc:869285393223254107> → <:Limitless:624339238296485928> <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646>
-
-__Reflect__
-<:Resonance:612343287835000832> → <:StormShards:612415793941970944> → <:Preparation:612343232743079967> → <:Detonate:603015480466210842>
-
-__After Reflect__
-<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> → <:Asphyxiate:603015374941847567> → <:DragonBreath:603015526557679646> → <:BloodBarrage:612422231439441946> <:SonicWave:603015822671085569> → <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:gconc:869285393223254107> → <:GuthixStaff:612419359649824779> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779>
-
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
 .
-> **Phase 3 (Ceiling Collapse) - Advanced Mage**
-Natural Instinct: `-30, Second Jump`
-
-__Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:Wrack:603015911384940545> → <:Provoke:612343255866146835> → <:Wrack:603015911384940545> → <:Chain:603015419540013076>
-
-__Crack__
-<:Preparation:612343232743079967> <:BladedDive:612415619958046720> → <:Sunshine:603015844263362570> → <:Renewal:811286186823516181> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → (stall) <:GuthixStaff:612419359649824779>
-
-__TC__
-<:BloodBarrage:612422231439441946> (release) <:GuthixStaff:612419359649824779> <:WildMagic:603015901343776772> → <:impactflank:867678154369400862> → <:BloodBarrage:612422231439441946> <:GuthixStaff:612419359649824779> → <:Asphyxiate:603015374941847567>
-<:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779>
-
-__Reflect__
-<:divert:787904334377648130> → <:StormShards:612415793941970944> → <:Preparation:612343232743079967> → <:Detonate:603015480466210842>
-
-__Post-Reflect__
-<:BloodBarrage:612422231439441946> <:Detonate:603015480466210842> <:CorruptionBlast:603015451437432834> → <:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Limitless:624339238296485928> <:WildMagic:603015901343776772> → <:BloodBarrage:612422231439441946> <:DragonBreath:603015526557679646> → <:Asphyxiate:603015374941847567> → <:GuthixStaff:612419359649824779>
+https://imgur.com/lYUYfVH.png
