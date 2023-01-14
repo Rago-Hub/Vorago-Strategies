@@ -1,0 +1,48 @@
+{
+  "content": "",
+  "embeds": [
+    {
+      "title": "Ability Rotations",
+      "color": 50886,
+      "description": "<:DeflectMage:544195487926845462>\n\n",
+      "timestamp": "",
+      "author": {
+        "name": "Vorago",
+        "url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png",
+        "icon_url": "https://images-ext-1.discordapp.net/external/UEGswCA4JdLAgHaSud8VEfKpnmG5Axgfj2TraWGjwCM/%3Fv%3D1/https/cdn.discordapp.com/emojis/608387956679507968.png"
+      },
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": [
+        {
+          "name": "<:DeflectMelee:544195488447201300> Melee",
+          "value": "`{{ prefix }}melee p1`\n\n`{{ prefix }}melee p3 ceiling`\n`{{ prefix }}melee p3 scopulus`\n`{{ prefix }}melee p3 vitalis`\n`{{ prefix }}melee p3 greenbomb`\n`{{ prefix }}melee p3 teamsplit`\n`{{ prefix }}melee p3 theend`\n\n`{{ prefix }}melee p5`",
+          "inline": true
+        },
+        {
+          "name": "<:DeflectRange:544195488317046812> Ranged",
+          "value": "`{{ prefix }}range p1`\n\n`{{ prefix }}range p3 ceiling`\n`{{ prefix }}range p3 scopulus`\n`{{ prefix }}range p3 vitalis`\n`{{ prefix }}range p3 greenbomb`\n`{{ prefix }}range p3 teamsplit`\n`{{ prefix }}range p3 theend`\n\n`{{ prefix }}range p5`",
+          "inline": true
+        },
+        {
+          "name": "<:DeflectMage:544195487926845462> Mage",
+          "value": "`{{ prefix }}mage p1`\n\n`{{ prefix }}mage p3 ceiling`\n`{{ prefix }}mage p3 scopulus`\n`{{ prefix }}mage p3 vitalis`\n`{{ prefix }}mage p3 greenbomb`\n`{{ prefix }}mage p3 teamsplit`\n`{{ prefix }}mage p3 theend`\n\n`{{ prefix }}mage p5`",
+          "inline": true
+        },
+        {
+          "name": "<:soa:869284271595069451> FSoa",
+          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit`\n`{{ prefix }}fsoa p3 theend`\n\n`{{ prefix }}fsoa p5`",
+          "inline": true
+        },
+        {
+          "name": "<:bolg:994189289623662702> Bolg",
+          "value": "`{{ prefix }}bolg p1`\n\n`{{ prefix }}bolg p3 ceiling`\n`{{ prefix }}bolg p3 scopulus`\n`{{ prefix }}bolg p3 vitalis`\n`{{ prefix }}bolg p3 greenbomb`\n`{{ prefix }}bolg p3 teamsplit`\n`{{ prefix }}bolg p3 theend`\n\n`{{ prefix }}bolg p5`",
+          "inline": true
+        }
+      ]
+    }
+  ],
+  "components": []
+}
+.embed:json
