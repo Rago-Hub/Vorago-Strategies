@@ -1,5 +1,5 @@
-**For the full list of rotations available use `-rotations`.**
-**Spreadsheet version:** <https://docs.google.com/spreadsheets/d/1q7zscYcfJ9qXeIptQmXJiWUloalwDNtmxIOX7bqgkJg>
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
 .
 https://imgur.com/Dg77HRJ
 .
