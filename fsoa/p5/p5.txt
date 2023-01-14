@@ -1,15 +1,4 @@
-> **Phase 5 - Advanced FSoA**
-Natural Instinct: `-33, First Land`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `FOTS` <:furyofthesmall:697808773917573233>
-
-__Vorago's Death__
-(duals) <:nat:535541258131865633> → <:bloodbarrage:537338981747261446> (auto) → <:freedom:535541258240786434> → <:bloodbarrage:537338981747261446> (auto) → <:soa:869284271595069451> → <:wrackenergising:867678153429221387> → <:gconc:869285393223254107> → <:wrackenergising:867678153429221387>
-
-__On Drop__
-<:anti:535541306475151390> → <:res:535541258844635148> → <:meta:535533811304497183> (or <:Sunshine:583430011948630016>*) → (on <:dummy:656844963522281473>) <:magmatempesttarget:924741973858996284> → (stall) <:wm:535533809978966037>
-
-__TC__
-<:Vuln:537349530551582720> (release) <:wm:535533809978966037> <:tsunami:535533809995874304> → <:smoketendrils:536257336130404372> (full) → <:omni:535533809664262179> → <:gstaff:513203008608141314> → <:asphyx:535533833072672778> (2-3hits)
-
-**Note:** You can replace all <:wrackenergising:867678153429221387> with <:piercingenergising:867678153979854868> if you don't have Energising4 on your armour.
-* Use Sunshine on Scopulus/The End if you don't plan on going for a 0 spec. If you get the Purple Bomb spec, your Meta will be cancelled.
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
+.
+https://imgur.com/YCykRB3.png
