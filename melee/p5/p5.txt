@@ -1,48 +1,6 @@
-> **Phase 5 (Non-Team Split) - Advanced Melee**
-**Melee & Mage**
-Natural Instinct: `-27, Second Land`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
-
-__Vorago's Death__
-<:nat:535541258131865633> → 2h <:melee:615612332521029632> (auto) → <:glaivemh:643161561988595782> <:piercingenergising:867678153979854868> → <:voke:535541259465392143> → <:dbow:643848618553507843> (auto) → <:piercingenergising:867678153979854868>
-
-__On Drop__
-<:Berserk:513190158468907012> → <:anti:535541306475151390> → <:gbarge:535532879250456578> → <:freedom:535541258240786434> → <:dbow:643848618553507843> (auto) → <:adrenrenewal:736298121704767538> → (stall) <:swh:641670143197446182>
-
-__TC__
-<:Vuln:537349530551582720> (release) <:swh:641670143197446182> <:assault:535532853979512842> → <:cane:535532878969438210> → <:deci:535532879325822986> → <:overpower:535532879334080517> → <:vls:841409238717956125> → <:sever:535532879577612298>
-
-**Melee & Range**
-Natural Instinct: `-33, First Land`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
-
-__Vorago's Death__
-<:nat:535541258131865633> → <:slice:535532879594258432> → <:gfury:535532879334080527> → <:voke:535541259465392143> → <:slice:535532879594258432> → <:gfury:535532879334080527>
-
-__On Drop__
-<:Berserk:513190158468907012> → <:anti:535541306475151390> → <:freedom:535541258240786434> → <:adrenrenewal:736298121704767538> → <:gbarge:535532879250456578> → (stall) <:swh:641670143197446182>
-
-__TC__
-<:Vuln:537349530551582720> (release) <:swh:641670143197446182> <:deci:535532879325822986> → <:assault:535532853979512842> → <:vls:841409238717956125> → <:ingen:641339234111848463> <:limitless:641339233638023179> <:quake:535532879506309150> → <:vls:841409238717956125> → <:cane:535532878969438210> → <:deci:535532879325822986>
-
-**Note**: This rotation may also be used during Team Split if you want to 0 spec.
-
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
 .
-> **Phase 5 (Team Split) - Melee**
-Natural Instinct: `-27, Second Land`
-Relics: `COE, DH`
-
-__Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:Slice:629136409340411912>
-
-__On Drop__
-<:Resonance:612343287835000832> → <:Preparation:612343232743079967>
-
-__TC__
-<:SuperiorStatiusWarhammer:612419367883505685>
-
-__Team Split__
-<:Anticipation:612415877643501635> → <:Escape:612343146570842115> → <:Berserk:629132737852473354> <:Renewal:811286186823516181>
-
-__After Team Split__
-<:gbarge:535532879250456578> → <:Assault:629132704163692544> → <:VestasLongsword:688114196285620331> → <:ingen:641339234111848463> <:Limitless:624339238296485928> <:Quake:629136298887741490> → <:Sever:629136387542876170> → <:Hurricane:629132870874693645>
+https://imgur.com/QYchDUY
+.
+https://imgur.com/BgKXq9a
