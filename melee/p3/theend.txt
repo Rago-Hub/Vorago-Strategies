@@ -1,47 +1,6 @@
-> **Phase 3 (The end) - Melee**
-Natural Instinct: `-24, Third Jump`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
-
-__Vorago's Death__
-<:nat:535541258131865633> → <:slice:535532879594258432> → <:gfury:535532879334080527>
-
-__On Drop__
-<:prep:535541258546970624> → build to 100% saving 2 defensives
-
-__TC__
-<:swh:641670143197446182>
-
-__The End__
-<:res:535541258844635148> → <:anti:535541306475151390>
-
-__Quadrant 1__
-<:overpower:535532879334080517> → <:cane:535532878969438210> → <:deci:535532879325822986>
-
-__Quadrant 2 and 3__
-<:quake:535532879506309150> → <:mwspear:694566917456789554> <:dismember:535532879376023572> → build to 100%
-
-__Quadrant 4__
-<:zerk:535532854004678657> <:adrenrenewal:736298121704767538> → <:anti:535541306475151390> → <:freedom:535541258240786434> → <:gbarge:535532879250456578>
-
-__Stand__
-<:assault:535532853979512842> → <:overpower:535532879334080517> → <:limitless:641339233638023179> <:cane:535532878969438210> → <:cleave:535532878616985610> → <:deci:535532879325822986> → <:sever:535532879577612298>
-
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
 .
-> **Phase 3 (The End) - Advanced Melee**
-Natural Instinct: `-27, Second Land`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
-
-__Vorago's Death__
-<:nat:535541258131865633> → 2h <:melee:615612332521029632> (auto) → <:glaivemh:643161561988595782> <:piercingenergising:867678153979854868> → <:lengmh:883134308146098227> <:spec:537340400273195028> → <:dbow:643848618553507843> (auto) → <:piercingenergising:867678153979854868>
-
-__On Drop__
-<:res:535541258844635148> → <:Berserk:513190158468907012> → <:gfury:535532879334080527> → <:freedom:535541258240786434> <:dbow:643848618553507843> (auto) → (stall) <:swh:641670143197446182>
-
-__TC__
-<:Vuln:537349530551582720> (release) <:swh:641670143197446182> <:deci:535532879325822986>
-
-__The End__
-(on <:dummy:656844963522281473>) <:anti:535541306475151390> → <:prep:535541258546970624> → (stall) <:overpower:535532879334080517>
-
-__Quadrant 1__
-<:Vuln:537349530551582720> (release) <:overpower:535532879334080517> <:assault:535532853979512842> 2hit → <:dragonclaw:779048041088024606> <:eof:787526151978614824> → <:limitless:641339233638023179> <:cane:535532878969438210>
+https://imgur.com/ShIaE0u
+.
+https://imgur.com/tdosbVw
