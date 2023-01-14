@@ -37,7 +37,7 @@
         },
         {
           "name": "<:bolg:994189289623662702> Bolg",
-          "value": "`{{ prefix }}bolg p1`\n\n`{{ prefix }}bolg p3 ceiling`\n`{{ prefix }}bolg p3 scopulus`\n`{{ prefix }}bolg p3 vitalis`\n`{{ prefix }}bolg p3 greenbomb`\n`{{ prefix }}bolg p3 teamsplit`\n`{{ prefix }}bolg p3 theend`\n\n`{{ prefix }}bolg p5`",
+          "value": "`{{ prefix }}bolg p1`\n\n`{{ prefix }}bolg p3 ceiling`\n`{{ prefix }}bolg p3 vitalis`\n`{{ prefix }}bolg p3 greenbomb`\n`{{ prefix }}bolg p3 teamsplit`\n`{{ prefix }}bolg p3 theend`\n\n`{{ prefix }}bolg p5`",
           "inline": true
         }
       ]
