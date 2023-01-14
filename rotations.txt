@@ -31,8 +31,13 @@
           "inline": true
         },
         {
-          "name": "<:soa:869284271595069451> Mage FSoa",
-          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit` (to be done)\n`{{ prefix }}fsoa p3 theend` (to be done)\n\n`{{ prefix }}fsoa p5`",
+          "name": "<:soa:869284271595069451> FSoa",
+          "value": "`{{ prefix }}fsoa p1`\n\n`{{ prefix }}fsoa p3 ceiling`\n`{{ prefix }}fsoa p3 scopulus`\n`{{ prefix }}fsoa p3 vitalis`\n`{{ prefix }}fsoa p3 greenbomb`\n`{{ prefix }}fsoa p3 teamsplit`\n`{{ prefix }}fsoa p3 theend`\n\n`{{ prefix }}fsoa p5`",
+          "inline": true
+        },
+        {
+          "name": "<:bolg:994189289623662702> Bolg",
+          "value": "`{{ prefix }}bolg p1`\n\n`{{ prefix }}bolg p3 ceiling`\n`{{ prefix }}bolg p3 scopulus`\n`{{ prefix }}bolg p3 vitalis`\n`{{ prefix }}bolg p3 greenbomb`\n`{{ prefix }}bolg p3 teamsplit`\n`{{ prefix }}bolg p3 theend`\n\n`{{ prefix }}bolg p5`",
           "inline": true
         }
       ]
