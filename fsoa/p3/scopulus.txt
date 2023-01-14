@@ -1,18 +1,4 @@
-> **Phase 3 (Scopulus) - Advanced FSoA**
-Natural Instinct: `-30, Second Jump`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
-
-__Vorago's Death__
-(duals) <:nat:535541258131865633> → <:bloodbarrage:537338981747261446> (auto) → <:wrackenergising:867678153429221387> → <:freedom:535541258240786434> → <:dbow:643848618553507843> (auto) → <:soa:869284271595069451> → <:wrackenergising:867678153429221387>
-
-__On Drop__
-<:anti:535541306475151390> → <:bloodbarrage:537338981747261446> <:wrackenergising:867678153429221387> → <:adrenrenewal:736298121704767538> (drink 2t after <:wrackenergising:867678153429221387>) → <:meta:535533811304497183> → <:magmatempesttarget:924741973858996284> → (stall) <:tsunami:535533809995874304>
-
-__TC East__
-<:Vuln:537349530551582720> (release) <:tsunami:535533809995874304> <:gchain:787904334495088672> → <:omni:535533809664262179>
-
-__Target West__
-<:smoketendrils:536257336130404372> (full) → <:wm:535533809978966037> → <:gstaff:513203008608141314> → add <:asphyx:535533833072672778> if needed
-
-**Note:** Drink <:adrenrenewal:736298121704767538> 1t after <:wrackenergising:867678153429221387> if you don't have Invigorating 3 <:invig3:689851226426572848> or better.
-**Note 2:** You can replace all <:wrackenergising:867678153429221387> with <:piercingenergising:867678153979854868> if you don't have Energising4 on your armour.
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
+.
+https://imgur.com/Xsz3W15.png

@@ -1,1 +1,4 @@
-p1
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
+.
+https://imgur.com/NemqScM.png
