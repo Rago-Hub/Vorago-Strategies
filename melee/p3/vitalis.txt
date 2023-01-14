@@ -1,38 +1,6 @@
-> **Phase 3 (Vitalis) - Melee**
-Natural Instinct: `-33, First Land`
-
-__Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:GreaterFury:629132853451423766> → <:Slice:629136409340411912> → <:Provoke:612343255866146835> → <:GreaterFury:629132853451423766> → <:Slice:629136409340411912>
-
-__On Drop__
-<:Berserk:629132737852473354> → <:Preparation:612343232743079967> → <:Anticipation:612415877643501635> → <:gbarge:535532879250456578> <:Renewal:811286186823516181> → (stall) <:SuperiorStatiusWarhammer:612419367883505685>
-
-__TC__
-<:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Destroy:629132772094640161> → <:Sever:629136387542876170> → <:dragonclaw:779048041088024606> <:eof:855519350035709953> → <:Limitless:624339238296485928> <:Assault:629132704163692544> → <:Cleave:629132756903002122>
-
-__Reflect__
-<:StormShards:612415793941970944> → <:Resonance:612343287835000832> → <:Preparation:612343232743079967> → <:Provoke:612343255866146835>
-
-
-__After Reflect__
-<:gbarge:535532879250456578> → <:Destroy:629132772094640161> → <:ingen:641339234111848463> → <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122>
-
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
 .
-> **Phase 3 (Vitalis) - Advanced Melee**
-Natural Instinct: `-27, Second Land`
-Relics: `COE` <:conservationofenergy:697808773711921195>, `DH` <:berserkersfury:697808774106185768>
-
-__Vorago's Death__
-<:nat:535541258131865633> → 2h <:melee:615612332521029632> (auto) → <:glaivemh:643161561988595782> <:piercingenergising:867678153979854868> → <:voke:535541259465392143> → <:dbow:643848618553507843> (auto) → <:piercingenergising:867678153979854868>
-
-__On Drop__
-<:Berserk:629132737852473354> → <:Anticipation:612415877643501635> → <:gbarge:535532879250456578> → <:Freedom:612343164392570969> <:dbow:643848618553507843> (auto) → (stall) <:SuperiorStatiusWarhammer:612419367883505685>
-
-__TC__
-<:Vulnerability:625788254674747392> (release) <:SuperiorStatiusWarhammer:612419367883505685> <:Limitless:624339238296485928> <:Assault:629132704163692544> → <:Sever:629136387542876170> <:Renewal:811286186823516181> → <:backhandflank:867678153854025779> → <:dragonclaw:779048041088024606> <:eof:855519350035709953> → <:Hurricane:629132870874693645> → <:dragonclaw:779048041088024606> <:eof:855519350035709953>
-
-__Reflect__
-<:Resonance:612343287835000832> → <:Preparation:612343232743079967> → <:StormShards:612415793941970944> → <:Provoke:612343255866146835>
-
-__ After Reflect__
-<:ingen:641339234111848463> <:SerenGodbow:613342746455048192> → <:Cleave:629132756903002122>
+https://imgur.com/NinUr55
+.
+https://imgur.com/BgKXq9a
