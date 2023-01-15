@@ -1,41 +1,4 @@
-> **Phase 3 (The End) - Range**
-Relics: `HS` <:heightenedsenses:697808773573771344>, `FOTS` <:furyofthesmall:697808773917573233>
-
-__On Drop__
-<:Surge:612343348455407626>
-
-__TC__
-<:SnapShot:624335384993726474>
-
-__The End__
-<:Preparation:612343232743079967> → <:Anticipation:612415877643501635>
-
-__Quadrant 1__
-<:SerenGodbow:613342746455048192> (7hit) <:RapidFire:624335359660261387> → <:ShadowTendrils:624335376877748245> → <:CorruptionShot:624335289501876276> → <:NeedleStrike:624335344241868852> → (build to 100 and <:DeathsSwiftness:624335314454052879> <:Renewal:811286186823516181> )
-
-__Quadrant 4__
-<:DazingShot:624335299694297110> → <:NeedleStrike:624335344241868852> → <:FragmentationShot:624335321194299413> → <:Snipe:624335396578394124>
-
-__Stand Up__
-<:SnapShot:624335384993726474> → <:NeedleStrike:624335344241868852> → <:SerenGodbow:613342746455048192> → (7hit) <:RapidFire:624335359660261387> → <:DazingShot:624335299694297110>
-
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
 .
-> **Phase 3 (The End) - Advanced Range**
-Natural Instinct: `-30, Second Jump`
-Relics: `HS` <:heightenedsenses:697808773573771344>, `FOTS` <:furyofthesmall:697808773917573233>
-
-__Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:PiercingShot:624335352433344552> → <:DazingShot:624335299694297110>
-
-__Crack__
-<:Preparation:612343232743079967> → <:DeathsSwiftness:624335314454052879> → <:Anticipation:612415877643501635> → <:NeedleStrike:624335344241868852> → (stall) <:SnapShot:624335384993726474>
-
-__TC__
-<:Vulnerability:625788254674747392> (release) <:SnapShot:624335384993726474> <:DazingShot:624335299694297110>
-
-__The End__
-<:NeedleStrike:624335344241868852> <:Renewal:811286186823516181> → <:EldritchCrossbow:644271590133071883> → (stall) <:SerenGodbow:613342746455048192>
-
-
-__Quadrant 1__
-<:Vulnerability:625788254674747392> (release) <:SerenGodbow:613342746455048192> <:GreaterRicochet:788061815271718943> → <:dbow:643848618553507843> <:eof:855519350035709953> → <:Limitless:624339238296485928> (7hit) <:RapidFire:624335359660261387>
+https://imgur.com/p5OuGv1.png
