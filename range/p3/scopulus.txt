@@ -1,12 +1,4 @@
-> **Phase 3 (Scopulus) - Advanced Range**
-Natural Instinct: `-29 (1t after Second Jump)`
-Relics: `HS` <:heightenedsenses:697808773573771344>, `FOTS` <:furyofthesmall:697808773917573233>
-
-__Vorago's Death__
-<:NaturalInstinct:612343197489692672> → <:PiercingShot:624335352433344552> → <:Provoke:612343255866146835> → <:PiercingShot:624335352433344552> → <:DazingShot:624335299694297110>
-
-__Crack__
-<:Preparation:612343232743079967> → <:DeathsSwiftness:624335314454052879> → <:Anticipation:612415877643501635> → <:Freedom:612343164392570969> → (stall) <:GreaterRicochet:788061815271718943>
-
-__TC__
-<:Vulnerability:625788254674747392> (release) <:GreaterRicochet:788061815271718943> <:CorruptionShot:624335289501876276> → equip <:mechchin:641669268722810881> <:Snipe:624335396578394124> → <:dbow:643848618553507843> <:eof:855519350035709953> <:Renewal:811286186823516181> → <:SnapShot:624335384993726474> → (3hit) <:RapidFire:624335359660261387> → <:GreaterRicochet:788061815271718943> → <:dbow:643848618553507843> <:eof:855519350035709953>
+**Full list of available rotations: `-rotations`**
+**Spreadsheet version: `-sheets`**
+.
+https://imgur.com/emKmPMF.png
