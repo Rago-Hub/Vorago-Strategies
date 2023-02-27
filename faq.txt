@@ -30,8 +30,7 @@
 	"fields": [
 	{
 	"name":"Why are the Wen/Jas Scriptures not allowed?",
-	"value": "Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to killing your teammates should this happen during reflect. It is also possible, due to their random activation, that they not activate during DPS phases and not contribute at all.
-Good alternatives are: Saradomin's Godbook (all styles), Scrimshaw of Elements (Magic)/Cruelty (Ranged)."
+	"value": "Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to killing your teammates should this happen during reflect. It is also possible, due to their random activation, that they not activate during DPS phases and not contribute at all.\nGood alternatives are: Saradomin's Godbook (all styles), Scrimshaw of Elements (Magic)/Cruelty (Ranged)."
     }
     ]
     }
