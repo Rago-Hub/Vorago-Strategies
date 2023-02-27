@@ -17,7 +17,7 @@
 	"fields": [
 	{
 	"name":"Why are Nihils used (and why are Ice Nihils not permitted)?",
-	"value": "Vorago is a boss that has incredibly high affinity, resulting in extremely poor hitchance. Even with affinity debuffs such as Statius Warhammer special attack, and Guthix Staff, hitchance is far from 100%. Nihils are used to increase accuracy against Vorago and are important to use in order to achieve smooth kills. All learners are required to use Nihils. Ice Nihils, however, are not allowed. Ice Nihils can cause Scopuli (minions spawned by Vorago during one of his weekly rotations) to change the focus of their aggression frequently, which can lead to killing team members."
+	"value": "Accuracy is the biggest issue at Vorago and can lead to frustrating phase lengths and more supplies used. It is important to mitigate that RNG factor as much as possible, and that can be done by using Nihils. Ice Nihils however, are not allowed, as they cause Scopuli to change the focus of their aggression frequently, which can lead to killing teammates and more importantly the Bomb Tank."
     }
     ]
     }
