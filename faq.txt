@@ -4,7 +4,7 @@
 	"fields": [
 	{
 	"name":"Why is Turtling 4 not allowed at Vorago?",
-	"value": "Turtling is a perk that increases your barricade duration while increasing its cooldown. In phase 4, when the base performs a clone skip, this drastically decreases the phase length.\nAs a result, if Barricade is used with a turtling shield to handle the first set of mechanics in Phase 4, it is not off cooldown for the second set of mechanics. This can lead to killing team members.\nWe require a non-turtling shield in presets so people can use this shield for phase 4 to handle  all mechanics appropriately."
+	"value": "Turtling 4 increases barricade cooldown by 6 seconds over Turtling 3. In phase 4, when the base performs a clone skip, this drastically decreases the phase length.\nAs a result, if Barricade is used with a turtling shield to handle the first set of mechanics in Phase 4, it will not be off cooldown for the second cycle. This can lead to killing team members.\nA non-turtling shield is also required to deal with these mechanics properly."
     }
     ]
     }
