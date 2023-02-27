@@ -56,8 +56,8 @@ Good alternatives are: Saradomin's Godbook (all styles), Scrimshaw of Elements (
 	"color": 39679,
 	"fields": [
 	{
-	"name":"Why is it required for Base and Bomb Tank learners to be on the Ancient or Lunar spellbooks?",
-	"value": "Core strategies used to handle mechanics at Vorago are centred around Barricade, the Intercept spell, and Heal Other spell. Intercept is on the Ancient Spellbook, and Heal Other is on the Lunar Spellbook. As it is not possible to swap from the Normal to Ancient/Lunar spellbooks, Base Tank and Bomb Tank learners are required to be on a non-standard spellbook. Learners using Magic should be on the Ancient spellbook and have runes to swap to the Lunar spellbook. Ranged learners can either default to the Ancient or Lunar Spellbook, and be able to swap to its counterpart."
+	"name":"Why is it required for Base/Bomb Tank to be on the Ancient or Lunar spellbooks?",
+	"value": "Core strategies used to handle mechanics at Vorago are centred around barricade, intercept and Heal Other. As it is not possible to swap from the Normal to Ancient/Lunar spellbooks, Base Tank and Bomb Tank learners are required to be on a non-standard spellbook."
     }
     ]
     }
