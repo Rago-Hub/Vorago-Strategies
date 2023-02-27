@@ -30,21 +30,21 @@
 	"fields": [
 	{
 	"name":"Why are the Wen/Jas Scriptures not allowed?",
-	"value": "The Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to pk'ing your teammates should this happen during Vorago's reflect mechanic, where he redirects any damage done to him onto a random member of the team. After testing, these scriptures were banned due to this. Further, these effects are random and uncontrolled. It is entirely feasible that the scriptures would not activate during one of the DPS phases of the kill, thus being redundant.\nAs a learner you may use Saradomin's Godbook or a Scrimshaw of Elements/Cruelty."
+	"value": "Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to killing your teammates should this happen during reflect. It is also possible, due to their random activation, that they not activate during DPS phases and not contribute at all.
+Good alternatives are: Saradomin's Godbook (all styles), Scrimshaw of Elements (Magic)/Cruelty (Ranged)."
     }
     ]
     }
 }
 .embed:json
 .
-
 {
   "embed": {
 	"color": 39679,
 	"fields": [
 	{
 	"name":"Why is  Cryptbloom armour not allowed?",
-	"value": "The damage received at Vorago is relatively low, due to the ability to use strategies focused around Barricade, Intercept and Heal Other during time-gated phases, and in the transition between phases. As a result, it is incredibly common not to need food unless large mistakes are made during the kill, and there is a significant reduction in damage output for the dps phases compared to using power armour. As a result of it not being necessary, and causing slower damage phases, Tank Armour is not permitted for Vorago sessions."
+	"value": "Damage received, if dealt with properly, is relatively low. A good rotation of defensives, Soulsplit flicks, heal-other and intercepts will mitigate almost all of the damage. As a result, it is incredibly common to not need food unless large mistakes are made, making Cryptbloom's effect useless and give a negative impact on the kill speed. Sometimes you will effectively receive more damage because the damage loss from the armour caused a phase to be longer than usual."
     }
     ]
     }
