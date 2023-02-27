@@ -3,7 +3,7 @@
 	"color": 39679,
 	"fields": [
 	{
-	"name":"Why is  Turtling 4 not allowed at Vorago?",
+	"name":"Why is Turtling 4 not allowed at Vorago?",
 	"value": "Turtling is a perk that increases your barricade duration while increasing its cooldown. In phase 4, when the base performs a clone skip, this drastically decreases the phase length.\nAs a result, if Barricade is used with a turtling shield to handle the first set of mechanics in Phase 4, it is not off cooldown for the second set of mechanics. This can lead to killing team members.\nWe require a non-turtling shield in presets so people can use this shield for phase 4 to handle  all mechanics appropriately."
     }
     ]
@@ -30,7 +30,7 @@
 	"fields": [
 	{
 	"name":"Why are the Wen/Jas Scriptures not allowed?",
-	"value": "Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to killing your teammates should this happen during reflect. It is also possible, due to their random activation, that they not activate during DPS phases and not contribute at all.\nGood alternatives are: Saradomin's Godbook (all styles), Scrimshaw of Elements (Magic)/Cruelty (Ranged)."
+	"value": "Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to killing your teammates should this happen during reflect.\nGood alternatives are: Saradomin's Godbook, Scrimshaw of Elements/Cruelty."
     }
     ]
     }
@@ -43,7 +43,7 @@
 	"fields": [
 	{
 	"name":"Why is  Cryptbloom armour not allowed?",
-	"value": "Damage received, if dealt with properly, is relatively low. A good rotation of defensives, Soulsplit flicks, heal-other and intercepts will mitigate almost all of the damage. As a result, it is incredibly common to not need food unless large mistakes are made, making Cryptbloom's effect useless and give a negative impact on the kill speed. Sometimes you will effectively receive more damage because the damage loss from the armour caused a phase to be longer than usual."
+	"value": "Damage received at Vorago is relatively low. A good rotation of defensives, Soulsplit flicks, heal-other and intercepts will mitigate almost all of the damage. It is very common to not need food unless large mistakes are made, making Cryptbloom's effect useless and give a negative impact on the kill speed. Sometimes you will effectively receive more damage because the damage loss from the armour caused a phase to be longer than usual."
     }
     ]
     }
