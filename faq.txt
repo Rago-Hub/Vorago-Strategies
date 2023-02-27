@@ -4,20 +4,7 @@
 	"fields": [
 	{
 	"name":"Why is  Turtling 4 not allowed at Vorago?",
-	"value": "Turtling 4, over Turtling 3, adds 1 tick to the duration of your barricade at the cost of 6 seconds of cooldown. In some particular instances that are quite easy to occur, this can lead to killing teammates if your cade is not off cooldown when you need it. Turtling 3 overcomes this, without substantially sacrificing your barricade duration.\nAnother option is bringing a second non-Turtling shield."
-    }
-    ]
-    }
-}
-.embed:json
-.
-{
-  "embed": {
-	"color": 39679,
-	"fields": [
-	{
-	"name":"Why do I also need a shield _without_ Turtling?",
-	"value": "During Phase 4, there is a strategy called clone skip. This results in a 33.6s time save across a kill if done correctly, and substantially decreases the duration of the phase. However, one side effect is that it means that if you handle the first weekly special in Phase 4 with barricade using turtling, it will not be off cooldown for the second instance of the weekly special in that phase. In some weeks, this can lead to pk'ing your teammate. By bringing a non-turtling shield specifically for phase 4, this is no longer an issue and leads to a much smoother kill. This can be done either using an Elder Rune +5 shield, or a T80 Defender. If you own the Malletops perk (T2) from Ranch Out Of time (117 Farming), then a t80 defender barricade lasts the duration of intercept."
+	"value": "Turtling is a perk that increases your barricade duration while increasing its cooldown. In phase 4, when the base performs a clone skip, this drastically decreases the phase length.\nAs a result, if Barricade is used with a turtling shield to handle the first set of mechanics in Phase 4, it is not off cooldown for the second set of mechanics. This can lead to killing team members.\nWe require a non-turtling shield in presets so people can use this shield for phase 4 to handle  all mechanics appropriately."
     }
     ]
     }
