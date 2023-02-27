@@ -1,0 +1,78 @@
+{
+  "embed": {
+	"color": 39679,
+	"fields": [
+	{
+	"name":"Why is  Turtling 4 not allowed at Vorago?",
+	"value": "Turtling 4, over Turtling 3, adds 1 tick to the duration of your barricade at the cost of 6 seconds of cooldown. In some particular instances that are quite easy to occur, this can lead to killing teammates if your cade is not off cooldown when you need it. Turtling 3 overcomes this, without substantially sacrificing your barricade duration.\nAnother option is bringing a second non-Turtling shield."
+    }
+    ]
+    }
+}
+.embed:json
+.
+{
+  "embed": {
+	"color": 39679,
+	"fields": [
+	{
+	"name":"Why do I also need a shield _without_ Turtling?",
+	"value": "During Phase 4, there is a strategy called clone skip. This results in a 33.6s time save across a kill if done correctly, and substantially decreases the duration of the phase. However, one side effect is that it means that if you handle the first weekly special in Phase 4 with barricade using turtling, it will not be off cooldown for the second instance of the weekly special in that phase. In some weeks, this can lead to pk'ing your teammate. By bringing a non-turtling shield specifically for phase 4, this is no longer an issue and leads to a much smoother kill. This can be done either using an Elder Rune +5 shield, or a T80 Defender. If you own the Malletops perk (T2) from Ranch Out Of time (117 Farming), then a t80 defender barricade lasts the duration of intercept."
+    }
+    ]
+    }
+}
+.embed:json
+.
+{
+  "embed": {
+	"color": 39679,
+	"fields": [
+	{
+	"name":"Why are Nihils used (and why are Ice Nihils not permitted)?",
+	"value": "Vorago is a boss that has incredibly high affinity, resulting in extremely poor hitchance. Even with affinity debuffs such as Statius Warhammer special attack, and Guthix Staff, hitchance is far from 100%. Nihils are used to increase accuracy against Vorago and are important to use in order to achieve smooth kills. All learners are required to use Nihils. Ice Nihils, however, are not allowed. Ice Nihils can cause Scopuli (minions spawned by Vorago during one of his weekly rotations) to change the focus of their aggression frequently, which can lead to killing team members."
+    }
+    ]
+    }
+}
+.embed:json
+.
+{
+  "embed": {
+	"color": 39679,
+	"fields": [
+	{
+	"name":"Why are the Wen/Jas Scriptures not allowed?",
+	"value": "The Wen and Jas scriptures both have an effect that causes a delayed hit at random times. This can lead to pk'ing your teammates should this happen during Vorago's reflect mechanic, where he redirects any damage done to him onto a random member of the team. After testing, these scriptures were banned due to this. Further, these effects are random and uncontrolled. It is entirely feasible that the scriptures would not activate during one of the DPS phases of the kill, thus being redundant.\nAs a learner you may use Saradomin's Godbook or a Scrimshaw of Elements/Cruelty."
+    }
+    ]
+    }
+}
+.embed:json
+.
+
+{
+  "embed": {
+	"color": 39679,
+	"fields": [
+	{
+	"name":"Why is  Cryptbloom armour not allowed?",
+	"value": "The damage received at Vorago is relatively low, due to the ability to use strategies focused around Barricade, Intercept and Heal Other during time-gated phases, and in the transition between phases. As a result, it is incredibly common not to need food unless large mistakes are made during the kill, and there is a significant reduction in damage output for the dps phases compared to using power armour. As a result of it not being necessary, and causing slower damage phases, Tank Armour is not permitted for Vorago sessions."
+    }
+    ]
+    }
+}
+.embed:json
+.
+{
+  "embed": {
+	"color": 39679,
+	"fields": [
+	{
+	"name":"Why is it required for Base and Bomb Tank learners to be on the Ancient or Lunar spellbooks?",
+	"value": "Core strategies used to handle mechanics at Vorago are centred around Barricade, the Intercept spell, and Heal Other spell. Intercept is on the Ancient Spellbook, and Heal Other is on the Lunar Spellbook. As it is not possible to swap from the Normal to Ancient/Lunar spellbooks, Base Tank and Bomb Tank learners are required to be on a non-standard spellbook. Learners using Magic should be on the Ancient spellbook and have runes to swap to the Lunar spellbook. Ranged learners can either default to the Ancient or Lunar Spellbook, and be able to swap to its counterpart."
+    }
+    ]
+    }
+}
+.embed:json
