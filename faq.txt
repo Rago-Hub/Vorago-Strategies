@@ -1,6 +1,6 @@
 {
   "embed": {
-	"color": #dc1c13,
+	"color": 14425107,
 	"fields": [
 	{
 	"name":"Why is Turtling 4 not allowed at Vorago?",
@@ -13,7 +13,7 @@
 .
 {
   "embed": {
-	"color": #ea4c46,
+	"color": 15354950,
 	"fields": [
 	{
 	"name":"Why are Nihils used (and why are Ice Nihils not permitted)?",
@@ -26,7 +26,7 @@
 .
 {
   "embed": {
-	"color": #f07470,
+	"color": 15758448,
 	"fields": [
 	{
 	"name":"Why are the Wen/Jas Scriptures not allowed?",
@@ -39,7 +39,7 @@
 .
 {
   "embed": {
-	"color": #f1959b,
+	"color": 15832475,
 	"fields": [
 	{
 	"name":"Why is  Cryptbloom armour not allowed?",
@@ -52,7 +52,7 @@
 .
 {
   "embed": {
-	"color": #f6bdc0,
+	"color": 16170432,
 	"fields": [
 	{
 	"name":"Why is it required for Base/Bomb Tank to be on the Ancient or Lunar spellbooks?",
