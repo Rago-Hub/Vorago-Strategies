@@ -1,14 +1,14 @@
-# Basic Melee Preset
+__**Basic Melee Preset:**__
 .
 https://i.imgur.com/PfnbAur.png
 .
-# Intermediate Melee Preset
+__**Intermediate Melee Preset:**__
 .
 https://imgur.com/pu6tJqi.png
 .
 EOFs: Dragon Claws, Dragon Longsword, Statius Warhammer (optional). Dragon scimitar can also be in EOF.
 .
-# dvanced Melee Preset
+__**Advanced Melee Preset:__**
 .
 https://imgur.com/vpHrQVJ.png
 .
