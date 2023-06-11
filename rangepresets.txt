@@ -1,11 +1,11 @@
 **__Basic Range Preset:__**
 .
-.img:https://imgur.com/HUx8Ait.png
+.https://imgur.com/HUx8Ait.png
 .
 .**__Intermediate Range Preset:__**
 .
-.img:https://imgur.com/J6TexP4.png
+.https://imgur.com/J6TexP4.png
 .
 **__Advanced Range Preset:__**
 .
-.img:https://imgur.com/ROdGYk8.png
+.https://imgur.com/ROdGYk8.png
