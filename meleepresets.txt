@@ -1,16 +1,16 @@
-**__Basic Melee Preset:__**
+# Basic Melee Preset
 .
-.img:https://i.imgur.com/PfnbAur.png
+https://i.imgur.com/PfnbAur.png
 .
-**__Intermediate Melee Preset:__**
+# Intermediate Melee Preset
 .
-.img:https://imgur.com/pu6tJqi.png
+https://imgur.com/pu6tJqi.png
 .
 EOFs: Dragon Claws, Dragon Longsword, Statius Warhammer (optional). Dragon scimitar can also be in EOF.
 .
-**__Advanced Melee Preset:__**
+# dvanced Melee Preset
 .
-.img:https://imgur.com/vpHrQVJ.png
+https://imgur.com/vpHrQVJ.png
 .
 EOFs: Dragon Claws, Dragon Longsword. Dragon Scimitar can also be in EOF.
 Reaver's ring should only be used in P1 and P3 when using Dragon Scimitar Spec. Champion's ring is used for P5.
