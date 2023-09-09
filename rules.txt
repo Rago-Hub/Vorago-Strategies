@@ -60,16 +60,16 @@ Make sure to provide proof. We will still investigate each report, but proof can
 ** **
 .
 # Community Information
-﻿- Friends Chat: Rago PvM
-﻿- Invite link: https://discord.gg/Q8xpnYp
+- Friends Chat: Rago PvM
+- Invite link: https://discord.gg/Q8xpnYp
 - Commununity [document](<https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw>)
 ** **
 .
 # Staff
 - <@&508579263235096576> - Owners
-<@479444522980343828> <@300296497277173761> <@154709973710929920> <@&1116083184589885540> <@699340016551198881> <@290204628434419714>
+<@479444522980343828> <@300296497277173761> <@154709973710929920> <@144939325140762625> <@699340016551198881> <@290204628434419714>
  
 - <@&912097063964135484> - Server Moderators. They also manage tickets and roles
-<@346931069968187395> <@291257966584397824> <@192962768788258826> <@106390832944263168> @xgrey
+<@346931069968187395> <@291257966584397824> <@192962768788258826> <@106390832944263168> <@305772452724867083>
  
 - <@&589868132626333696> - Hosts teaching sessions and manages presets
