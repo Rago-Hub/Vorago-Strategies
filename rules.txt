@@ -1,0 +1,63 @@
+# Rules
+
+**1. Community Conduct**
+- Be respectful to all members. No form of bigotry or hate speech will be tolerated
+- Keep discussions inclusive and drama-free. Personal issues and rants are not suitable here
+- Offenses against these rules will result in strikes; three strikes lead to removal
+- No discussions, including jokes or references, regarding illegal topics are permitted
+
+**2. Content and Languages**
+- This server isn't exclusively for RuneScape discussions but avoid making 100% of the conversations unrelated to the game
+- All conversations should be conducted in English for effective moderation
+- Refrain from belittling the game developers. Constructive critiques are acceptable; outright negativity is prohibited
+- NSFW is not allowed. NSFW jokes are fine as long as they aren't straight up nudity/gore
+- No buying or selling of any kind
+
+**3. Moderation**
+- Moderators reserve the right to remove members as needed at any moment
+- Decisions may be made at the discretion of the moderation team
+
+**4. Communication with the Staff**
+- Read the relevant channels and information provided in our document before asking questions
+- Refrain from contacting the owners unless you are facing an issue that the moderators are unable to address
+- Address community-related issues within the server by using appropriate channels/tickets. Avoid DMs with Staff members
+
+# Getting started
+Choose your channels above under the `#brose channels` section at the top of the server.
+
+## Roles
+Reaction roles can be found in <#583378470357172225>. There you may self-assign a variety of roles or apply for them through the ticket system.
+There are roles available for:
+- Team forming (hosting and being notified), as well as Advanced team forming (locked behind Tiers)
+- Teaching sessions
+
+## Getting verified
+**This is a requirement to be unlock all server features, including the Friends Chat, teaching sessions and team forming.**
+You must submit your preset in <#783351083891818537>. Follow the channel instructions.
+Preset examples can be found in that channel. Make sure to double check you have everything before applying.
+Admins are allowed to decline presets or close tickets. Requirements are set in stone, do not argue in tickets about them.
+
+## Joining and Hosting teams
+Once you've verified, you'll be aable to use <#508584353610334228>.
+- To join a team simply ask for an invite when soemeone else is hosting
+  - It is not a first come, first served system. Hosts are free to invite and decline invites to people
+- To host a team, ping the desired team size and ask for roles if needed. For example: `@Notify: Trio + Base`
+- Do not ask for team invites in DMs and do not invite banned people to teams
+
+## Teaching sessions
+There are teaching sessions weekly, but they mostly happen at random times and there isn't a schedule for them.
+All the information regarding this can be found in <#863049513034973225>.
+You must be verified to talk in <#599406124642467840>.
+
+## Tiers
+- Tiers define your skill and consistency at the boss. They are only required for certain teams like Duo NM
+- To apply for these, check <#583378470357172225>. For requirements check the communtiy document or use `.info` in any channel
+
+## Reports
+Help us keep the community safe from scammers and toxic people. Please send a report in <#683760364617465886> every time a rule is broken.
+Make sure to provide proof. We will still investigate each report, but proof can be a decisive factor in most cases.
+
+# Staff
+• @General - Owners
+• @Admin - In charge of the Moderation (in-game Stars)
+• @Mining Guild (Teacher)
