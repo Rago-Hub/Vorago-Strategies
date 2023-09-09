@@ -58,6 +58,10 @@ Help us keep the community safe from scammers and toxic people. Please send a re
 Make sure to provide proof. We will still investigate each report, but proof can be a decisive factor in most cases.
 
 # Staff
-• @General - Owners
-• @Admin - In charge of the Moderation (in-game Stars)
-• @Mining Guild (Teacher)
+- @General - Owners
+@sambanator @gaasha @thelol_1 @timbone @srep#8580 @barbara5526
+
+- @Admin - Server Moderators. They also manage tickets and roles 
+@Timbone @rob @wahwah @johnny @Drag 2778 @mugiwara no samba @Svelto Luna @x Grey
+
+- @Mining Guild (Teacher) - Hosts teaching sessions and manages presets
