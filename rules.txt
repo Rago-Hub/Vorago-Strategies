@@ -1,5 +1,4 @@
 # Rules
-
 **1. Community Conduct**
 - Be respectful to all members. No form of bigotry or hate speech will be tolerated
 - Keep discussions inclusive and drama-free. Personal issues and rants are not suitable here
@@ -21,7 +20,8 @@
 - Read the relevant channels and information provided in our document before asking questions
 - Refrain from contacting the owners unless you are facing an issue that the moderators are unable to address
 - Address community-related issues within the server by using appropriate channels/tickets. Avoid DMs with Staff members
-
+** **
+.
 # Getting started
 Choose your channels above under the `#brose channels` section at the top of the server.
 
@@ -31,7 +31,7 @@ There are roles available for:
 - Team forming (hosting and being notified), as well as Advanced team forming (locked behind Tiers)
 - Teaching sessions
 
-## Getting verified
+## Verification
 **This is a requirement to be unlock all server features, including the Friends Chat, teaching sessions and team forming.**
 You must submit your preset in <#783351083891818537>. Follow the channel instructions.
 Preset examples can be found in that channel. Make sure to double check you have everything before applying.
@@ -52,21 +52,24 @@ You must be verified to talk in <#599406124642467840>.
 ## Tiers
 - Tiers define your skill and consistency at the boss. They are only required for certain teams like Duo NM
 - To apply for these, check <#583378470357172225>. For requirements check the communtiy document or use `.info` in any channel
-
+** **
+.
 ## Reports
 Help us keep the community safe from scammers and toxic people. Please send a report in <#683760364617465886> every time a rule is broken.
 Make sure to provide proof. We will still investigate each report, but proof can be a decisive factor in most cases.
-
-## Community Information
+** **
+.
+# Community Information
 ﻿- Friends Chat: Rago PvM
 ﻿- Invite link: https://discord.gg/Q8xpnYp
 - Commununity [document](<https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw>)
-
+** **
+.
 # Staff
-- @General - Owners
-@sambanator @gaasha @thelol_1 @timbone @srep#8580 @barbara5526
-
-- @Admin - Server Moderators. They also manage tickets and roles 
-@Timbone @rob @wahwah @johnny @Drag 2778 @mugiwara no samba @Svelto Luna @x Grey
-
-- @Mining Guild (Teacher) - Hosts teaching sessions and manages presets
+- <@&508579263235096576> - Owners
+<@479444522980343828> <@300296497277173761> <@154709973710929920> <@&1116083184589885540> <@699340016551198881> <@290204628434419714>
+ 
+- <@&912097063964135484> - Server Moderators. They also manage tickets and roles
+<@346931069968187395> <@291257966584397824> <@192962768788258826> <@106390832944263168> @xgrey
+ 
+- <@&589868132626333696> - Hosts teaching sessions and manages presets
