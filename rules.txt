@@ -1,5 +1,4 @@
 # Rules
-
 **1. Community Conduct**
 - Be respectful to all members. No form of bigotry or hate speech will be tolerated
 - Keep discussions inclusive and drama-free. Personal issues and rants are not suitable here
@@ -57,7 +56,7 @@ You must be verified to talk in <#599406124642467840>.
 Help us keep the community safe from scammers and toxic people. Please send a report in <#683760364617465886> every time a rule is broken.
 Make sure to provide proof. We will still investigate each report, but proof can be a decisive factor in most cases.
 
-## Community Information
+# Community Information
 ﻿- Friends Chat: Rago PvM
 ﻿- Invite link: https://discord.gg/Q8xpnYp
 - Commununity [document](<https://docs.google.com/spreadsheets/d/1gRH_6pjpU0X7LTh3kPTKwFOTnQAAO2sIqeh0U_cDbBw>)
