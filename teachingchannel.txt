@@ -1,17 +1,16 @@
-# Welcome to Rago PvM teaching sessions
-
+.txtpost # Welcome to Rago PvM teaching sessions
 ## How it works
 - Sessions will be hosted at random times by our Teachers
-- Scheduled sessions will be posted in #📩╏sessions; un-scheduled sessions go in #📚╏learners
+- Scheduled sessions will be posted in #:envelope_with_arrow:╏sessions; un-scheduled sessions go in #:books:╏learners
 - Teachers will ping the respective learner role and give details about the team size and type of session (getting KC, learning roles, mauling)
 
 ## Getting started
 ### Roles
-You can get you're sorted by going to #📌╏roles to set your own roles to what fits you. You need at least one learner role to be able to talk in #📚╏learners.
+You can get you're sorted by going to #:pushpin:╏roles to set your own roles to what fits you. You need at least one learner role to be able to talk in #:books:╏learners.
 
 ### Presets
 - The @Verified role is required to join any type of session. Teachers may require you to send your preset or check it through the group interface even if you have the role
-- Go to #🔧╏presets for the verification process if you haven't
+- Go to #:wrench:╏presets for the verification process if you aren't Verified
 
 ## Hard Mode Mauls
 This is a type of session where people are invited to join for **one kill** and maul in Hard Mode. This **is not** a teaching session. You are required to be familiar with mechanics and reflect
@@ -19,10 +18,10 @@ This is a type of session where people are invited to join for **one kill** and 
 - First come, first serve. Maulers rotate after every kill. Second attempts in case of deaths will depend on the queue
 - Hosts are allowed to remove anyone from the queue if needed
 
-### Staff
+## Staff
 - @Mining Guild (Teacher) - Are in charge of hosting
 - @NM Fill @HM Fill - Will be pinged by Teachers to fill sessions when needed
-- To obtain these roles apply in #📌╏roles by opening a ticker
+- To obtain these roles apply in #:pushpin:╏roles by opening a ticker
 
 ### Teacher tag requirements
 - NM Tiers: Duo T1
