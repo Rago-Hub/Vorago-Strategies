@@ -1,4 +1,4 @@
-.txtpost # Welcome to Rago PvM teaching sessions
+# Welcome to Rago PvM teaching sessions
 ## How it works
 - Sessions will be hosted at random times by our Teachers
 - Scheduled sessions will be posted in #:envelope_with_arrow:╏sessions; un-scheduled sessions go in #:books:╏learners
