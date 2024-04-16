@@ -77,7 +77,6 @@ Make sure to provide proof. We will still investigate each report, but proof can
   - <@192962768788258826>
   - <@106390832944263168>
   - <@305772452724867083>
-
 ## Management roles
 - <@&589868132626333696> - Teaching sessions and preset management
 - <@&880272837200445450> - Preset reviewing
