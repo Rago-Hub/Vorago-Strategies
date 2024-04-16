@@ -1,7 +1,7 @@
 # Welcome to Rago PvM teaching sessions
 ## How it works
 - Sessions will be hosted at random times by our Teachers
-- Scheduled sessions will be posted in <#685614727346389113> ; un-scheduled sessions go in <#599406124642467840>
+- Scheduled sessions will be posted in <#685614727346389113>; un-scheduled sessions go in <#599406124642467840>
 - Teachers will ping the respective learner role and give details about the team size and type of session (getting KC, learning roles, mauling)
 - Feedback will be given after the session is completed
 
