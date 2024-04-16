@@ -22,8 +22,4 @@ This is a type of session where people are invited to join for **one kill** and 
 ## Staff
 - <@&589868132626333696>  - Are in charge of hosting
 - <@&767536419999842315> <@&949303370185834506> - Will be pinged by Teachers to fill sessions when needed
-- To obtain these roles apply in #:pushpin:╏roles by opening a ticket
-
-### Teacher tag requirements
-- NM Tiers: Any NM Tier
-- HM Tiers: Any HM Tier
+- The requirements for these roles can be found in <#583378470357172225>. You can apply for them by opening a ticket there
