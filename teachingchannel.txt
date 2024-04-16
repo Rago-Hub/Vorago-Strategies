@@ -1,32 +1,29 @@
 # Welcome to Rago PvM teaching sessions
 ## How it works
 - Sessions will be hosted at random times by our Teachers
-- Scheduled sessions will be posted in #:envelope_with_arrow:╏sessions; un-scheduled sessions go in #:books:╏learners
+- Scheduled sessions will be posted in <#685614727346389113> ; un-scheduled sessions go in <#599406124642467840>
 - Teachers will ping the respective learner role and give details about the team size and type of session (getting KC, learning roles, mauling)
+- Feedback will be given after the session is completed
 
 ## Getting started
 ### Roles
-You can get you're sorted by going to #:pushpin:╏roles to set your own roles to what fits you. You need at least one learner role to be able to talk in #:books:╏learners.
+You can get you're sorted by going to <#583378470357172225> to set your own roles to what fits you. You need at least one learner role to be able to talk in <#599406124642467840>.
 
 ### Presets
-- The @Verified role is required to join any type of session. Teachers may require you to send your preset or check it through the group interface even if you have the role
-- Go to #:wrench:╏presets for the verification process if you aren't Verified
+- The <@&782344719580528660>  is required to join any type of session. Teachers may require you to send your preset or check it through the group interface even if you have the role
+- Go to <#783351083891818537> for the verification process if you aren't Verified
 
 ## Hard Mode Mauls
-This is a type of session where people are invited to join for **one kill** and maul in Hard Mode. This **is not** a teaching session. You are required to be familiar with mechanics and reflect
-- People with the @Need HM Maul role will be notified about these sessions (also obtainable in the **roles** channel)
+This is a type of session where people are invited to join for **one kill** and maul in Hard Mode. This **is not** a teaching session. You are required to be familiar with mechanics and reflect.
+- People with the <@&732301791349440513> role will be notified about these sessions (also obtainable in the **roles** channel)
 - First come, first serve. Maulers rotate after every kill. Second attempts in case of deaths will depend on the queue
 - Hosts are allowed to remove anyone from the queue if needed
 
 ## Staff
-- @Mining Guild (Teacher) - Are in charge of hosting
-- @NM Fill @HM Fill - Will be pinged by Teachers to fill sessions when needed
-- To obtain these roles apply in #:pushpin:╏roles by opening a ticker
+- <@&589868132626333696>  - Are in charge of hosting
+- <@&767536419999842315> <@&949303370185834506> - Will be pinged by Teachers to fill sessions when needed
+- To obtain these roles apply in #:pushpin:╏roles by opening a ticket
 
 ### Teacher tag requirements
 - NM Tiers: Any NM Tier
 - HM Tiers: Any HM Tier
-
-## Teaching document
-All of our sessions are logged in the [teaching document](<https://docs.google.com/spreadsheets/d/1-8BA7jnFRNPOqkIsq14QI0-JhKu3h4JIxaYAdmPPOa4>).
-Feedback will be given after the session is completed on that document as well.
