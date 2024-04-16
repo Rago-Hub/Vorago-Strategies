@@ -24,8 +24,8 @@ This is a type of session where people are invited to join for **one kill** and 
 - To obtain these roles apply in #:pushpin:╏roles by opening a ticker
 
 ### Teacher tag requirements
-- NM Tiers: Duo T1
-- HM Tiers: HM T1
+- NM Tiers: Any NM Tier
+- HM Tiers: Any HM Tier
 
 ## Teaching document
 All of our sessions are logged in the [teaching document](<https://docs.google.com/spreadsheets/d/1-8BA7jnFRNPOqkIsq14QI0-JhKu3h4JIxaYAdmPPOa4>).
