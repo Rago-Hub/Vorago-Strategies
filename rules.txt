@@ -51,7 +51,7 @@ You must be verified to talk in <#599406124642467840>.
 
 ## Tiers
 - Tiers define your skill and consistency at the boss. They are only required for certain teams like Duo NM
-- To apply for these, check <#583378470357172225>. For requirements check the communtiy document or use `.info` in any channel
+- To apply for these, check <#583378470357172225>. For requirements check <#1229873149261250570>
 ** **
 .
 ## Reports
